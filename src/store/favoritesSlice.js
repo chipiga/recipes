@@ -1,8 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
+import { LS_KEYS } from "@/lib/helpers";
 
-const LS_KEYS = {
-  favorites: "recipeApp:favorites",
-};
 const initialFavorites = (() => {
   try {
     const raw = localStorage.getItem(LS_KEYS.favorites);

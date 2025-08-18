@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sample-1",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Pasta",
+    "ingredients": ["Spaghetti", "Knoblauch", "Olivenöl", "Chili", "Petersilie", "Salz"],
+    "instructions":
+      "Spaghetti in Salzwasser al dente kochen. Knoblauch in Olivenöl sanft anrösten, Chili zugeben. Nudeln untermischen, mit Petersilie und Salz abschmecken.",
+    "image":
+      "https://images.services.kitchenstories.io/QmhoqJ1h_7q_5ifYGyseyiIjp-M=/3840x0/filters:quality(85)/images.kitchenstories.io/wagtailOriginalImages/R131-final-photo-3-sg.jpg"
+  },
+  {
+    "id": "sample-2",
+    "title": "Griechischer Salat",
+    "category": "Salat",
+    "ingredients": ["Tomaten", "Gurke", "Oliven", "Feta", "Zwiebeln", "Olivenöl", "Oregano"],
+    "instructions":
+      "Gemüse würfeln, mit Oliven und Feta mischen. Mit Olivenöl, Oregano und einer Prise Salz/ Pfeffer abschmecken.",
+    "image":
+      "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "id": "sample-3",
+    "title": "Chicken Curry",
+    "category": "Asiatisch",
+    "ingredients": ["Huhn", "Zwiebeln", "Knoblauch", "Ingwer", "Currypaste", "Kokosmilch"],
+    "instructions":
+      "Huhn anbraten, Zwiebeln/Knoblauch/Ingwer dazugeben, Currypaste einrühren, mit Kokosmilch aufgießen und köcheln lassen.",
+    "image":
+      "https://images.services.kitchenstories.io/-J5OGQHiZZF7mcsnKJ2rGFARqbA=/3840x0/filters:quality(85)/images.kitchenstories.io/communityImages/ab30556252363046135b5c963c0856bb_2ac99732-bea1-46a3-aab5-9cda76ada429.jpg"
+  }
+]
