@@ -1,5 +1,7 @@
 import { useMemo } from 'react';
 import { useSelector } from 'react-redux';
+import { Label } from '@/components/ui/label';
+import { Input } from '@/components/ui/input';
 
 function SearchAndFilterBar({ query, setQuery, category, setCategory }) {
   const recipes = useSelector((s) => s.recipes);
@@ -11,16 +13,16 @@ function SearchAndFilterBar({ query, setQuery, category, setCategory }) {
   return (
     <div className="flex flex-col md:flex-row gap-3 md:items-end md:justify-between">
       <div className="flex-1">
-        <label className="block text-sm mb-1">Suche nach Titel/Zutat</label>
-        <input
+        <Label>Suche nach Titel/Zutat</Label>
+        <Input
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="z.B. Nudeln, Tomaten, Curry..."
-          className="w-full border border-slate-300 rounded-xl px-3 py-2 focus:outline-none focus:ring-2 focus:ring-slate-300"
+          className="focus:outline-none focus:ring-2 focus:ring-slate-300"
         />
       </div>
       <div>
-        <label className="block text-sm mb-1">Kategorie</label>
+        <Label>Kategorie</Label>
         <select
           value={category}
           onChange={(e) => setCategory(e.target.value)}

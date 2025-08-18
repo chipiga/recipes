@@ -1,6 +1,7 @@
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { toggleFavorite } from '@/store/favoritesSlice';
+import { Button } from '@/components/ui/button';
 
 function RecipeCard({ recipe }) {
   const dispatch = useDispatch();
@@ -14,15 +15,13 @@ function RecipeCard({ recipe }) {
       <div className="p-4 flex-1 flex flex-col">
         <div className="flex items-start gap-2">
           <h3 className="text-lg font-semibold flex-1">{recipe.title}</h3>
-          <button
+          <Button
             onClick={() => dispatch(toggleFavorite(recipe.id))}
-            className={`text-sm px-3 py-1 rounded-full border ${
-              isFav ? "bg-yellow-100 border-yellow-300" : "hover:bg-slate-50 border-slate-300"
-            }`}
+            variant={`favorite${ isFav ? 'Active' : 'Inactive'}`} size="md"
             title={isFav ? "Aus Favoriten entfernen" : "Zu Favoriten hinzufügen"}
           >
             {isFav ? "★" : "☆"}
-          </button>
+          </Button>
         </div>
         <p className="text-sm text-slate-500 mt-1">{recipe.category}</p>
         <p className="text-sm line-clamp-2 mt-2">
