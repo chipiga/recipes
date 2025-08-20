@@ -1,29 +1,30 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { LS_KEYS } from "@/lib/helpers";
 
-const initialFavorites = (() => {
-  try {
-    const raw = localStorage.getItem(LS_KEYS.favorites);
-    return raw ? JSON.parse(raw) : [];
-  } catch (e) {
-    return [];
-  }
-})();
+const LS_KEY = "recipeApp:favorites";
+
+function loadLS(){
+  try { return JSON.parse(localStorage.getItem(LS_KEY)) || []; } catch { return []; }
+}
+function saveLS(data){
+  try { localStorage.setItem(LS_KEY, JSON.stringify(data)); } catch {}
+}
 
 const favoritesSlice = createSlice({
   name: "favorites",
-  initialState: initialFavorites,
+  initialState: loadLS(),
   reducers: {
-    toggleFavorite(state, action) {
+    toggleFavorite(state, action){
       const id = action.payload;
       const idx = state.indexOf(id);
-      if (idx >= 0) state.splice(idx, 1);
-      else state.push(id);
+      if (idx >= 0) state.splice(idx,1); else state.push(id);
+      saveLS(state);
     },
-    setFavorites(state, action) {
-      return action.payload || [];
-    },
-  },
+    setFavorites(_, action){
+      const arr = Array.from(new Set(action.payload || []));
+      saveLS(arr);
+      return arr;
+    }
+  }
 });
 
 export const { toggleFavorite, setFavorites } = favoritesSlice.actions;

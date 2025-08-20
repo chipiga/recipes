@@ -1,32 +1,51 @@
-import { createSlice } from "@reduxjs/toolkit";
-import { nanoid } from "nanoid";
+import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
+import { db } from "@/firebase";
+import { collection, getDocs, addDoc, doc, updateDoc, deleteDoc } from "firebase/firestore";
+
+export const fetchRecipes = createAsyncThunk("recipes/fetch", async () => {
+  const querySnapshot = await getDocs(collection(db, "recipes"));
+  return querySnapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
+});
+
+export const addRecipe = createAsyncThunk("recipes/add", async ({ recipe, user }) => {
+  const newRecipe = { ...recipe, uid: user.uid, createdAt: new Date().toISOString(), updatedAt: new Date().toISOString() };
+  const docRef = await addDoc(collection(db, "recipes"), newRecipe);
+  return { id: docRef.id, ...newRecipe };
+});
+
+export const updateRecipe = createAsyncThunk("recipes/update", async ({ id, updates }) => {
+  const recipeRef = doc(db, "recipes", id);
+  await updateDoc(recipeRef, { ...updates, updatedAt: new Date().toISOString() });
+  return { id, updates };
+});
+
+export const deleteRecipe = createAsyncThunk("recipes/delete", async ({ id }) => {
+  const recipeRef = doc(db, "recipes", id);
+  await deleteDoc(recipeRef);
+  return id;
+});
 
 const recipesSlice = createSlice({
   name: "recipes",
-  initialState: [],
-  reducers: {
-    recipesLoaded(state, action) {
-      return action.payload || [];
-    },
-    addRecipe: {
-      reducer(state, action) {
-        state.push(action.payload);
-      },
-      prepare(recipe) {
-        return { payload: { ...recipe, id: nanoid() } };
-      },
-    },
-    updateRecipe(state, action) {
-      const updated = action.payload;
-      const i = state.findIndex((r) => r.id === updated.id);
-      if (i >= 0) state[i] = { ...state[i], ...updated };
-    },
-    deleteRecipe(state, action) {
-      const id = action.payload;
-      return state.filter((r) => r.id !== id);
-    },
+  initialState: { items: [], status: "idle" },
+  reducers: {},
+  extraReducers: (builder) => {
+    builder
+      .addCase(fetchRecipes.fulfilled, (state, action) => {
+        state.items = action.payload;
+        state.status = "succeeded";
+      })
+      .addCase(addRecipe.fulfilled, (state, action) => {
+        state.items.push(action.payload);
+      })
+      .addCase(updateRecipe.fulfilled, (state, action) => {
+        const idx = state.items.findIndex((r) => r.id === action.payload.id);
+        if (idx >= 0) state.items[idx] = { ...state.items[idx], ...action.payload.updates };
+      })
+      .addCase(deleteRecipe.fulfilled, (state, action) => {
+        state.items = state.items.filter((r) => r.id !== action.payload);
+      });
   },
 });
 
-export const { recipesLoaded, addRecipe, updateRecipe, deleteRecipe } = recipesSlice.actions;
 export default recipesSlice.reducer;

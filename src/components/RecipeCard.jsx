@@ -24,16 +24,17 @@ function RecipeCard({ recipe }) {
           </Button>
         </div>
         <p className="text-sm text-slate-500 mt-1">{recipe.category}</p>
-        <p className="text-sm line-clamp-2 mt-2">
+        <p className="text-sm line-clamp-2 my-2">
           Zutaten: {recipe.ingredients.join(", ")}
         </p>
-        <div className="mt-auto pt-3">
+        <div className="mt-auto flex items-center justify-between">
           <Link
             to={`/recipes/${recipe.id}`}
             className="inline-block px-3 py-1.5 rounded-xl border border-slate-300 hover:bg-slate-50"
           >
             Details
           </Link>
+          {recipe.uid && <span className="text-xs text-slate-400">von {recipe.uid.slice(0, 6)}</span>}
         </div>
       </div>
     </div>

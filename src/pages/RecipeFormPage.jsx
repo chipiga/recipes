@@ -2,19 +2,21 @@ import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { addRecipe, updateRecipe } from '@/store/recipesSlice';
-import useRecipesLoader from '@/hooks/useRecipesLoader';
 import { Button } from '@/components/ui/button';
 import { Label } from '@/components/ui/label';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
+import ErrorPage from '@/pages/ErrorPage';
+import { toast } from "react-toastify";
 
 function RecipeFormPage({ mode }) {
-  useRecipesLoader();
   const isEdit = mode === "edit";
   const { id } = useParams();
   const navigate = useNavigate();
   const dispatch = useDispatch();
-  const existing = useSelector((s) => s.recipes.find((r) => r.id === id));
+  const existing = useSelector(s => s.recipes.items.find((r) => r.id === id));
+  const user = useSelector(s => s.auth.user);
+  const canEdit = user && (user.role === "admin" || (isEdit ? existing?.uid === user.uid : true));
 
   const [title, setTitle] = useState(existing?.title || "");
   const [category, setCategory] = useState(existing?.category || "Sonstiges");
@@ -23,32 +25,35 @@ function RecipeFormPage({ mode }) {
   const [image, setImage] = useState(existing?.image || "");
 
   useEffect(() => {
-    if (isEdit && !existing) { // check if recipe exists for edit mode
-      navigate("/");
-    }
+    if (isEdit && !existing) navigate("/");
   }, [isEdit, existing, navigate]);
 
-  function onSubmit(e) {
+  if (!user) return <ErrorPage message="Please login!" />;
+  if (isEdit && !canEdit) return <ErrorPage message="No access rights!" />;
+
+  async function onSubmit(e) {
     e.preventDefault();
-    const newRecipe = {
-      id: existing?.id,
+    if (!user) return;
+    if (!canEdit) return alert("No access rights!");
+
+    const payload = {
       title: title.trim() || "Unbenannt",
       category: category.trim() || "Sonstiges",
-      ingredients: ingredientsText
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean),
+      ingredients: ingredientsText.split(",").map(s => s.trim()).filter(Boolean),
       instructions: instructions.trim(),
-      image: image.trim() || undefined,
+      image: image.trim() || null,
     };
 
     if (isEdit) {
-      dispatch(updateRecipe(newRecipe));
+      await dispatch(updateRecipe({ id: existing.id, updates: payload }));
       navigate(`/recipes/${existing.id}`);
     } else {
-      dispatch(addRecipe(newRecipe));
-      navigate("/");
+      const res = await dispatch(addRecipe({ recipe: payload, user }));
+      // console.log("Recipe added:", res);      
+      const newId = res?.payload?.id;
+      navigate(newId ? `/recipes/${newId}` : "/");
     }
+    toast.success(isEdit ? "Recipe updated!" : "New recipe created!");
   }
 
   return (

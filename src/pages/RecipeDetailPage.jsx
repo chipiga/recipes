@@ -2,19 +2,28 @@ import { useParams, useNavigate, Link } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { deleteRecipe } from '@/store/recipesSlice';
 import { toggleFavorite } from '@/store/favoritesSlice';
-import useRecipesLoader from '@/hooks/useRecipesLoader';
 import { Button } from '@/components/ui/button';
+import ErrorPage from '@/pages/ErrorPage';
+import { toast } from "react-toastify";
 
 function RecipeDetailPage() {
-  useRecipesLoader();
   const { id } = useParams();
   const navigate = useNavigate();
   const dispatch = useDispatch();
-  const recipe = useSelector((s) => s.recipes.find((r) => r.id === id));
+  const recipe = useSelector((s) => s.recipes.items.find((r) => r.id === id));
   const favorites = useSelector((s) => s.favorites);
   const isFav = favorites.includes(id || "");
+  const user = useSelector(s => s.auth.user);
+  const canEdit = user && (user.role === "admin" || user.uid === recipe?.uid);
 
-  if (!recipe) return <p className="text-slate-500">Rezept nicht gefunden.</p>;
+  if (!recipe) return <ErrorPage message="Recipe not found" />;
+
+  async function handleDelete() {
+    if (!confirm("Are you sure?")) return;
+    await dispatch(deleteRecipe({ id: recipe.id }));
+    navigate("/");
+    toast.success("Recipe deleted!");
+  }
 
   return (
     <div className="grid lg:grid-cols-3 gap-6">
@@ -48,23 +57,15 @@ function RecipeDetailPage() {
         </div>
       </div>
       <aside className="space-y-3">
-        <Link
-          to={`/edit/${recipe.id}`}
-          className="block text-center px-4 py-1.5 rounded-xl border border-slate-300 hover:bg-slate-50"
-        >
-          Bearbeiten
-        </Link>
-        <Button variant="destructive" size="lg"
-          onClick={() => {
-            if (confirm("Dieses Rezept wirklich löschen?")) {
-              dispatch(deleteRecipe(recipe.id));
-              navigate("/");
-            }
-          }}
-          className="w-full"
-        >
-          Löschen
-        </Button>
+        {canEdit && (
+          <>
+            <Link
+              to={`/edit/${recipe.id}`}
+              className="block text-center px-4 py-1.5 rounded-xl border border-slate-300 hover:bg-slate-50"
+            >Edit</Link>
+            <Button variant="destructive" size="lg" onClick={handleDelete} className="w-full">Delete</Button>
+          </>
+        )}
       </aside>
     </div>
   );

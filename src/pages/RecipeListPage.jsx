@@ -2,11 +2,11 @@ import { useState, useMemo } from 'react';
 import { useSelector } from 'react-redux';
 import RecipeCard from '@/components/RecipeCard';
 import SearchAndFilterBar from '@/components/SearchAndFilterBar';
-import useRecipesLoader from '@/hooks/useRecipesLoader';
+// import useRecipesLoader from '@/hooks/useRecipesLoader';
 
 function RecipeListPage() {
-  useRecipesLoader();
-  const recipes = useSelector((s) => s.recipes);
+  // useRecipesLoader();
+  const recipes = useSelector((s) => s.recipes.items);
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState("Alle");
 

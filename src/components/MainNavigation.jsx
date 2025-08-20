@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import AuthBar from "@/components/AuthBar";
 
 function MainNavigation() {
   return (
@@ -9,6 +10,7 @@ function MainNavigation() {
           <Link className="px-3 py-1.5 rounded-xl hover:bg-slate-100" to="/">Übersicht</Link>
           <Link className="px-3 py-1.5 rounded-xl hover:bg-slate-100" to="/create">Neues Rezept</Link>
           <Link className="px-3 py-1.5 rounded-xl hover:bg-slate-100" to="/favorites">Favoriten</Link>
+          <AuthBar />
         </nav>
       </div>
     </header>

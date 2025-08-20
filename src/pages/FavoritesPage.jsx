@@ -1,10 +1,8 @@
 import { useSelector } from 'react-redux';
 import RecipeCard from '@/components/RecipeCard';
-import useRecipesLoader from '@/hooks/useRecipesLoader';
 
 function FavoritesPage() {
-  useRecipesLoader();
-  const recipes = useSelector((s) => s.recipes);
+  const recipes = useSelector((s) => s.recipes.items);
   const favorites = useSelector((s) => s.favorites);
   const favRecipes = recipes.filter((r) => favorites.includes(r.id));
   return (
