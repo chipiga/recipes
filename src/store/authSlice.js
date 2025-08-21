@@ -1,6 +1,6 @@
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import { auth, db } from "@/firebase";
-import { fetchFavoritesFromFirebase, setFavorites } from "./favoritesSlice";
+import { fetchFavoritesFromFirebase } from "./favoritesSlice";
 import {
   GoogleAuthProvider,
   signInWithPopup,
@@ -32,7 +32,7 @@ export const startAuthListener = createAsyncThunk("auth/listen", async (_, { dis
   });
 });
 
-export const loginWithGoogle = createAsyncThunk("auth/google", async (_, { dispatch }) => {
+export const loginWithGoogle = createAsyncThunk("auth/google", async () => {
   const provider = new GoogleAuthProvider();
   const res = await signInWithPopup(auth, provider);
   const userDoc = doc(db, "users", res.user.uid);
@@ -45,14 +45,14 @@ export const loginWithGoogle = createAsyncThunk("auth/google", async (_, { dispa
   return { uid: res.user.uid, email: res.user.email, role: snapshot.data()?.role || "user" };
 });
 
-export const loginWithEmail = createAsyncThunk("auth/email", async ({ email, password }, { dispatch }) => {
+export const loginWithEmail = createAsyncThunk("auth/email", async ({ email, password }) => {
   const res = await signInWithEmailAndPassword(auth, email, password);
   const userDoc = doc(db, "users", res.user.uid);
   const snapshot = await getDoc(userDoc);
   return { uid: res.user.uid, email: res.user.email, role: snapshot.data()?.role || "user" };
 });
 
-export const registerWithEmail = createAsyncThunk("auth/register", async ({ email, password }, { dispatch }) => {
+export const registerWithEmail = createAsyncThunk("auth/register", async ({ email, password }) => {
   const res = await createUserWithEmailAndPassword(auth, email, password);
   const userDoc = doc(db, "users", res.user.uid);
   await setDoc(userDoc, { email: res.user.email, role: "user" });

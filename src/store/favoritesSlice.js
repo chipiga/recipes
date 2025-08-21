@@ -8,7 +8,7 @@ function loadLS(){
   try { return JSON.parse(localStorage.getItem(LS_KEY)) || []; } catch { return []; }
 }
 function saveLS(data){
-  try { localStorage.setItem(LS_KEY, JSON.stringify(data)); } catch {}
+  try { localStorage.setItem(LS_KEY, JSON.stringify(data)); } catch {e => console.error(e) }
 }
 
 // Firebase sync thunks

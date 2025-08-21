@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from 'react-redux';
-import { toggleFavorite, toggleFavoriteAndSync } from '@/store/favoritesSlice';
+import { toggleFavoriteAndSync } from '@/store/favoritesSlice';
 import { Button } from '@/components/ui/button';
 
 export default function FavoriteButton({ recipeId, short = false }) {

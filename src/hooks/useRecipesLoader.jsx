@@ -1,12 +1,12 @@
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { nanoid } from "nanoid";
-// import { recipesLoaded } from '@/store/recipesSlice';
+import { fetchRecipes } from '@/store/recipesSlice';
 
 // { id: string, title: string, category: string, ingredients: string[], instructions: string, image?: string }
 
 async function loadRecipesFromJson() {
-  try {
+  try { 
     const res = await fetch("/recipes.json", { cache: "no-store" });
     if (!res.ok) throw new Error(String(res.status));
     const data = await res.json();
@@ -21,17 +21,22 @@ async function loadRecipesFromJson() {
     }));
     return normalized;
   } catch (e) {
+    console.error(e);
     return [];
   }
 }
 
 function useRecipesLoader() {
   const dispatch = useDispatch();
-  const recipes = useSelector((s) => s.recipes);
+  const recipes = useSelector((s) => s.recipes.items);
   useEffect(() => {
     if (!recipes || recipes.length === 0)
-      loadRecipesFromJson().then((data) => dispatch(recipesLoaded(data)));
-  }, [dispatch]);
+      loadRecipesFromJson().then(data => {
+        console.log(data);
+        // dispatch(recipesLoaded(data))
+        dispatch(fetchRecipes(data))
+      })
+  }, [dispatch, recipes]);
 }
 
 export default useRecipesLoader;

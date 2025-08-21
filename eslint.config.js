@@ -26,4 +26,16 @@ export default defineConfig([
       'no-unused-vars': ['error', { varsIgnorePattern: '^[A-Z_]' }],
     },
   },
+  {
+    files: ['*.config.js', '*.config.cjs'],
+    languageOptions: {
+      globals: globals.node,
+    },
+  },
+  {
+    files: ['src/components/ui/*.jsx'],
+    rules: {
+      'react-refresh/only-export-components': 'off',
+    },
+  }
 ])

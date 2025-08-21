@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 import { useSelector } from 'react-redux';
 import { createBrowserRouter, useLocation, Navigate } from 'react-router-dom';
 import RootLayout from '@/components/RootLayout';
@@ -16,7 +17,7 @@ function ProtectedRoute({ children }){
   return children;
 }
 
-// TODO ssr
+// TODO SSR/SSG?
 const router = createBrowserRouter([
   {
     path: '/',

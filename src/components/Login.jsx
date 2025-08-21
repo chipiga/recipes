@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
-import { loginWithGoogle, loginWithEmail, registerWithEmail } from "@/store/authSlice";
+import { loginWithGoogle, loginWithEmail } from "@/store/authSlice";
 import { toast } from "react-toastify";
 // import { Button } from "@/components/ui/button"; 
 
