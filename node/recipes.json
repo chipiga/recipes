@@ -1,0 +1,7236 @@
+[
+  {
+    "id": "sample-1",
+    "title": "Pad Thai",
+    "category": "Dessert",
+    "ingredients": [
+      "Karotten",
+      "Chili",
+      "Olivenöl",
+      "Milch",
+      "Spaghetti",
+      "Zucker",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Chili hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe1/400/300"
+  },
+  {
+    "id": "sample-2",
+    "title": "Caesar Salad",
+    "category": "Dessert",
+    "ingredients": [
+      "Karotten",
+      "Tomaten",
+      "Eier",
+      "Zwiebeln",
+      "Huhn",
+      "Petersilie",
+      "Salz"
+    ],
+    "instructions": "Salz anbraten, Huhn zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe2/400/300"
+  },
+  {
+    "id": "sample-3",
+    "title": "Caesar Salad",
+    "category": "Soup",
+    "ingredients": [
+      "Milch",
+      "Karotten",
+      "Olivenöl",
+      "Zucker",
+      "Knoblauch",
+      "Rindfleisch"
+    ],
+    "instructions": "Karotten anbraten, Rindfleisch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe3/400/300"
+  },
+  {
+    "id": "sample-4",
+    "title": "Tiramisu",
+    "category": "Pasta",
+    "ingredients": [
+      "Huhn",
+      "Reis",
+      "Zucker",
+      "Pfeffer",
+      "Salz"
+    ],
+    "instructions": "Reis in Salzwasser kochen, dann mit Reis servieren.",
+    "image": "https://picsum.photos/seed/recipe4/400/300"
+  },
+  {
+    "id": "sample-5",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Butter",
+      "Zwiebeln",
+      "Zucker",
+      "Eier"
+    ],
+    "instructions": "Eier in Salzwasser kochen, dann mit Zucker servieren.",
+    "image": "https://picsum.photos/seed/recipe5/400/300"
+  },
+  {
+    "id": "sample-6",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Knoblauch",
+      "Huhn",
+      "Reis",
+      "Milch",
+      "Salz",
+      "Chili",
+      "Rindfleisch"
+    ],
+    "instructions": "Salz anbraten, Huhn zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe6/400/300"
+  },
+  {
+    "id": "sample-7",
+    "title": "Beef Stroganoff",
+    "category": "Snack",
+    "ingredients": [
+      "Olivenöl",
+      "Milch",
+      "Zwiebeln",
+      "Knoblauch",
+      "Tomaten",
+      "Zucker"
+    ],
+    "instructions": "Milch anbraten, Tomaten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe7/400/300"
+  },
+  {
+    "id": "sample-8",
+    "title": "Lasagne",
+    "category": "Snack",
+    "ingredients": [
+      "Knoblauch",
+      "Reis",
+      "Salz",
+      "Karotten"
+    ],
+    "instructions": "Reis in Salzwasser kochen, dann mit Reis servieren.",
+    "image": "https://picsum.photos/seed/recipe8/400/300"
+  },
+  {
+    "id": "sample-9",
+    "title": "Beef Stroganoff",
+    "category": "Salad",
+    "ingredients": [
+      "Petersilie",
+      "Knoblauch",
+      "Olivenöl",
+      "Mehl",
+      "Zwiebeln"
+    ],
+    "instructions": "Olivenöl in Salzwasser kochen, dann mit Zwiebeln servieren.",
+    "image": "https://picsum.photos/seed/recipe9/400/300"
+  },
+  {
+    "id": "sample-10",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Snack",
+    "ingredients": [
+      "Petersilie",
+      "Chili",
+      "Milch",
+      "Reis",
+      "Olivenöl",
+      "Mehl"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Mehl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe10/400/300"
+  },
+  {
+    "id": "sample-11",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Soup",
+    "ingredients": [
+      "Olivenöl",
+      "Karotten",
+      "Zucker",
+      "Knoblauch",
+      "Petersilie",
+      "Chili"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Karotten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe11/400/300"
+  },
+  {
+    "id": "sample-12",
+    "title": "Beef Stroganoff",
+    "category": "Pasta",
+    "ingredients": [
+      "Rindfleisch",
+      "Tomaten",
+      "Petersilie",
+      "Pfeffer",
+      "Huhn"
+    ],
+    "instructions": "Petersilie anbraten, Rindfleisch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe12/400/300"
+  },
+  {
+    "id": "sample-13",
+    "title": "Sushi Roll",
+    "category": "Dessert",
+    "ingredients": [
+      "Spaghetti",
+      "Rindfleisch",
+      "Pfeffer",
+      "Zwiebeln"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zwiebeln hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe13/400/300"
+  },
+  {
+    "id": "sample-14",
+    "title": "Beef Stroganoff",
+    "category": "Salad",
+    "ingredients": [
+      "Milch",
+      "Olivenöl",
+      "Mehl",
+      "Tomaten",
+      "Salz",
+      "Butter",
+      "Zucker"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Milch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe14/400/300"
+  },
+  {
+    "id": "sample-15",
+    "title": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": [
+      "Mehl",
+      "Pfeffer",
+      "Petersilie",
+      "Knoblauch",
+      "Olivenöl"
+    ],
+    "instructions": "Knoblauch anbraten, Pfeffer zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe15/400/300"
+  },
+  {
+    "id": "sample-16",
+    "title": "Lasagne",
+    "category": "Dessert",
+    "ingredients": [
+      "Spaghetti",
+      "Knoblauch",
+      "Mehl",
+      "Butter"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Spaghetti hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe16/400/300"
+  },
+  {
+    "id": "sample-17",
+    "title": "Sushi Roll",
+    "category": "Snack",
+    "ingredients": [
+      "Salz",
+      "Butter",
+      "Zwiebeln",
+      "Huhn",
+      "Mehl",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Salz hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe17/400/300"
+  },
+  {
+    "id": "sample-18",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Soup",
+    "ingredients": [
+      "Butter",
+      "Olivenöl",
+      "Reis",
+      "Tomaten",
+      "Huhn"
+    ],
+    "instructions": "Olivenöl anbraten, Huhn zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe18/400/300"
+  },
+  {
+    "id": "sample-19",
+    "title": "Tomato Soup",
+    "category": "Main",
+    "ingredients": [
+      "Rindfleisch",
+      "Tomaten",
+      "Pfeffer",
+      "Zwiebeln",
+      "Butter"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe19/400/300"
+  },
+  {
+    "id": "sample-20",
+    "title": "Beef Stroganoff",
+    "category": "Snack",
+    "ingredients": [
+      "Eier",
+      "Knoblauch",
+      "Mehl",
+      "Salz",
+      "Rindfleisch",
+      "Huhn",
+      "Spaghetti"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Mehl hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe20/400/300"
+  },
+  {
+    "id": "sample-21",
+    "title": "Tiramisu",
+    "category": "Soup",
+    "ingredients": [
+      "Milch",
+      "Pfeffer",
+      "Huhn",
+      "Mehl"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Pfeffer servieren.",
+    "image": "https://picsum.photos/seed/recipe21/400/300"
+  },
+  {
+    "id": "sample-22",
+    "title": "Pad Thai",
+    "category": "Pasta",
+    "ingredients": [
+      "Petersilie",
+      "Zwiebeln",
+      "Reis",
+      "Rindfleisch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe22/400/300"
+  },
+  {
+    "id": "sample-23",
+    "title": "Pad Thai",
+    "category": "Salad",
+    "ingredients": [
+      "Knoblauch",
+      "Karotten",
+      "Eier",
+      "Spaghetti",
+      "Salz",
+      "Milch"
+    ],
+    "instructions": "Spaghetti anbraten, Milch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe23/400/300"
+  },
+  {
+    "id": "sample-24",
+    "title": "Sushi Roll",
+    "category": "Snack",
+    "ingredients": [
+      "Pfeffer",
+      "Tomaten",
+      "Zwiebeln",
+      "Karotten",
+      "Salz",
+      "Eier"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Pfeffer hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe24/400/300"
+  },
+  {
+    "id": "sample-25",
+    "title": "Pad Thai",
+    "category": "Main",
+    "ingredients": [
+      "Zwiebeln",
+      "Tomaten",
+      "Knoblauch",
+      "Olivenöl",
+      "Butter",
+      "Huhn",
+      "Eier"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Tomaten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe25/400/300"
+  },
+  {
+    "id": "sample-26",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Pasta",
+    "ingredients": [
+      "Eier",
+      "Rindfleisch",
+      "Salz",
+      "Pfeffer",
+      "Petersilie",
+      "Spaghetti",
+      "Zwiebeln"
+    ],
+    "instructions": "Petersilie anbraten, Zwiebeln zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe26/400/300"
+  },
+  {
+    "id": "sample-27",
+    "title": "Carbonara",
+    "category": "Salad",
+    "ingredients": [
+      "Spaghetti",
+      "Salz",
+      "Petersilie",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Spaghetti hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe27/400/300"
+  },
+  {
+    "id": "sample-28",
+    "title": "Beef Stroganoff",
+    "category": "Snack",
+    "ingredients": [
+      "Zwiebeln",
+      "Tomaten",
+      "Chili",
+      "Pfeffer",
+      "Petersilie",
+      "Knoblauch",
+      "Mehl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe28/400/300"
+  },
+  {
+    "id": "sample-29",
+    "title": "Sushi Roll",
+    "category": "Salad",
+    "ingredients": [
+      "Knoblauch",
+      "Rindfleisch",
+      "Karotten",
+      "Spaghetti",
+      "Salz",
+      "Reis",
+      "Milch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Knoblauch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe29/400/300"
+  },
+  {
+    "id": "sample-30",
+    "title": "Tomato Soup",
+    "category": "Main",
+    "ingredients": [
+      "Huhn",
+      "Zucker",
+      "Tomaten",
+      "Karotten",
+      "Olivenöl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Karotten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe30/400/300"
+  },
+  {
+    "id": "sample-31",
+    "title": "Tiramisu",
+    "category": "Pasta",
+    "ingredients": [
+      "Chili",
+      "Zwiebeln",
+      "Butter",
+      "Petersilie",
+      "Spaghetti"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe31/400/300"
+  },
+  {
+    "id": "sample-32",
+    "title": "Chicken Curry",
+    "category": "Pasta",
+    "ingredients": [
+      "Mehl",
+      "Salz",
+      "Eier",
+      "Butter",
+      "Karotten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Karotten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe32/400/300"
+  },
+  {
+    "id": "sample-33",
+    "title": "Beef Stroganoff",
+    "category": "Soup",
+    "ingredients": [
+      "Zucker",
+      "Rindfleisch",
+      "Milch",
+      "Zwiebeln",
+      "Chili",
+      "Butter"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Rindfleisch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe33/400/300"
+  },
+  {
+    "id": "sample-34",
+    "title": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": [
+      "Huhn",
+      "Knoblauch",
+      "Reis",
+      "Rindfleisch"
+    ],
+    "instructions": "Rindfleisch in Salzwasser kochen, dann mit Rindfleisch servieren.",
+    "image": "https://picsum.photos/seed/recipe34/400/300"
+  },
+  {
+    "id": "sample-35",
+    "title": "Beef Stroganoff",
+    "category": "Main",
+    "ingredients": [
+      "Mehl",
+      "Karotten",
+      "Rindfleisch",
+      "Knoblauch",
+      "Milch"
+    ],
+    "instructions": "Milch anbraten, Rindfleisch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe35/400/300"
+  },
+  {
+    "id": "sample-36",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Salad",
+    "ingredients": [
+      "Tomaten",
+      "Zucker",
+      "Salz",
+      "Mehl",
+      "Olivenöl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Salz hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe36/400/300"
+  },
+  {
+    "id": "sample-37",
+    "title": "Carbonara",
+    "category": "Main",
+    "ingredients": [
+      "Tomaten",
+      "Salz",
+      "Mehl",
+      "Reis",
+      "Huhn",
+      "Milch",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Karotten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe37/400/300"
+  },
+  {
+    "id": "sample-38",
+    "title": "Carbonara",
+    "category": "Main",
+    "ingredients": [
+      "Karotten",
+      "Zwiebeln",
+      "Butter",
+      "Spaghetti",
+      "Pfeffer",
+      "Rindfleisch"
+    ],
+    "instructions": "Zwiebeln anbraten, Pfeffer zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe38/400/300"
+  },
+  {
+    "id": "sample-39",
+    "title": "Caesar Salad",
+    "category": "Pasta",
+    "ingredients": [
+      "Eier",
+      "Tomaten",
+      "Pfeffer",
+      "Zucker",
+      "Spaghetti"
+    ],
+    "instructions": "Spaghetti anbraten, Tomaten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe39/400/300"
+  },
+  {
+    "id": "sample-40",
+    "title": "Tiramisu",
+    "category": "Soup",
+    "ingredients": [
+      "Salz",
+      "Butter",
+      "Chili",
+      "Knoblauch",
+      "Olivenöl",
+      "Pfeffer"
+    ],
+    "instructions": "Pfeffer in Salzwasser kochen, dann mit Salz servieren.",
+    "image": "https://picsum.photos/seed/recipe40/400/300"
+  },
+  {
+    "id": "sample-41",
+    "title": "Lasagne",
+    "category": "Pasta",
+    "ingredients": [
+      "Knoblauch",
+      "Mehl",
+      "Reis",
+      "Tomaten",
+      "Pfeffer"
+    ],
+    "instructions": "Knoblauch in Salzwasser kochen, dann mit Pfeffer servieren.",
+    "image": "https://picsum.photos/seed/recipe41/400/300"
+  },
+  {
+    "id": "sample-42",
+    "title": "Tiramisu",
+    "category": "Salad",
+    "ingredients": [
+      "Eier",
+      "Rindfleisch",
+      "Karotten",
+      "Zucker",
+      "Knoblauch",
+      "Reis",
+      "Huhn"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Eier hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe42/400/300"
+  },
+  {
+    "id": "sample-43",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Soup",
+    "ingredients": [
+      "Tomaten",
+      "Petersilie",
+      "Zucker",
+      "Pfeffer",
+      "Mehl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe43/400/300"
+  },
+  {
+    "id": "sample-44",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Dessert",
+    "ingredients": [
+      "Zwiebeln",
+      "Petersilie",
+      "Knoblauch",
+      "Spaghetti",
+      "Reis",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Spaghetti hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe44/400/300"
+  },
+  {
+    "id": "sample-45",
+    "title": "Carbonara",
+    "category": "Salad",
+    "ingredients": [
+      "Pfeffer",
+      "Salz",
+      "Milch",
+      "Olivenöl",
+      "Reis"
+    ],
+    "instructions": "Reis anbraten, Milch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe45/400/300"
+  },
+  {
+    "id": "sample-46",
+    "title": "Chicken Curry",
+    "category": "Snack",
+    "ingredients": [
+      "Pfeffer",
+      "Eier",
+      "Chili",
+      "Salz",
+      "Tomaten"
+    ],
+    "instructions": "Tomaten in Salzwasser kochen, dann mit Chili servieren.",
+    "image": "https://picsum.photos/seed/recipe46/400/300"
+  },
+  {
+    "id": "sample-47",
+    "title": "Lasagne",
+    "category": "Dessert",
+    "ingredients": [
+      "Rindfleisch",
+      "Spaghetti",
+      "Tomaten",
+      "Karotten",
+      "Chili",
+      "Reis"
+    ],
+    "instructions": "Rindfleisch anbraten, Chili zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe47/400/300"
+  },
+  {
+    "id": "sample-48",
+    "title": "Carbonara",
+    "category": "Snack",
+    "ingredients": [
+      "Petersilie",
+      "Zucker",
+      "Zwiebeln",
+      "Salz"
+    ],
+    "instructions": "Petersilie in Salzwasser kochen, dann mit Petersilie servieren.",
+    "image": "https://picsum.photos/seed/recipe48/400/300"
+  },
+  {
+    "id": "sample-49",
+    "title": "Carbonara",
+    "category": "Dessert",
+    "ingredients": [
+      "Olivenöl",
+      "Rindfleisch",
+      "Knoblauch",
+      "Salz",
+      "Pfeffer",
+      "Butter",
+      "Zucker"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zucker hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe49/400/300"
+  },
+  {
+    "id": "sample-50",
+    "title": "Chicken Curry",
+    "category": "Pasta",
+    "ingredients": [
+      "Mehl",
+      "Huhn",
+      "Spaghetti",
+      "Chili",
+      "Reis",
+      "Salz"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Reis servieren.",
+    "image": "https://picsum.photos/seed/recipe50/400/300"
+  },
+  {
+    "id": "sample-51",
+    "title": "Chicken Curry",
+    "category": "Snack",
+    "ingredients": [
+      "Reis",
+      "Butter",
+      "Tomaten",
+      "Mehl"
+    ],
+    "instructions": "Reis in Salzwasser kochen, dann mit Mehl servieren.",
+    "image": "https://picsum.photos/seed/recipe51/400/300"
+  },
+  {
+    "id": "sample-52",
+    "title": "Sushi Roll",
+    "category": "Dessert",
+    "ingredients": [
+      "Salz",
+      "Mehl",
+      "Knoblauch",
+      "Chili",
+      "Olivenöl",
+      "Zwiebeln"
+    ],
+    "instructions": "Mehl anbraten, Olivenöl zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe52/400/300"
+  },
+  {
+    "id": "sample-53",
+    "title": "Chicken Curry",
+    "category": "Main",
+    "ingredients": [
+      "Knoblauch",
+      "Pfeffer",
+      "Tomaten",
+      "Zwiebeln",
+      "Spaghetti",
+      "Chili"
+    ],
+    "instructions": "Knoblauch anbraten, Pfeffer zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe53/400/300"
+  },
+  {
+    "id": "sample-54",
+    "title": "Caesar Salad",
+    "category": "Soup",
+    "ingredients": [
+      "Petersilie",
+      "Tomaten",
+      "Salz",
+      "Spaghetti",
+      "Milch",
+      "Knoblauch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Petersilie hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe54/400/300"
+  },
+  {
+    "id": "sample-55",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Petersilie",
+      "Butter",
+      "Zucker",
+      "Chili",
+      "Olivenöl",
+      "Reis"
+    ],
+    "instructions": "Reis in Salzwasser kochen, dann mit Olivenöl servieren.",
+    "image": "https://picsum.photos/seed/recipe55/400/300"
+  },
+  {
+    "id": "sample-56",
+    "title": "Carbonara",
+    "category": "Snack",
+    "ingredients": [
+      "Chili",
+      "Butter",
+      "Huhn",
+      "Zwiebeln",
+      "Petersilie",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Chili hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe56/400/300"
+  },
+  {
+    "id": "sample-57",
+    "title": "Chicken Curry",
+    "category": "Main",
+    "ingredients": [
+      "Salz",
+      "Huhn",
+      "Reis",
+      "Tomaten",
+      "Butter",
+      "Spaghetti"
+    ],
+    "instructions": "Salz in Salzwasser kochen, dann mit Tomaten servieren.",
+    "image": "https://picsum.photos/seed/recipe57/400/300"
+  },
+  {
+    "id": "sample-58",
+    "title": "Carbonara",
+    "category": "Snack",
+    "ingredients": [
+      "Mehl",
+      "Pfeffer",
+      "Spaghetti",
+      "Butter",
+      "Huhn"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Spaghetti servieren.",
+    "image": "https://picsum.photos/seed/recipe58/400/300"
+  },
+  {
+    "id": "sample-59",
+    "title": "Caesar Salad",
+    "category": "Dessert",
+    "ingredients": [
+      "Eier",
+      "Mehl",
+      "Huhn",
+      "Rindfleisch"
+    ],
+    "instructions": "Rindfleisch in Salzwasser kochen, dann mit Huhn servieren.",
+    "image": "https://picsum.photos/seed/recipe59/400/300"
+  },
+  {
+    "id": "sample-60",
+    "title": "Carbonara",
+    "category": "Main",
+    "ingredients": [
+      "Eier",
+      "Zwiebeln",
+      "Milch",
+      "Olivenöl",
+      "Mehl"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Zwiebeln servieren.",
+    "image": "https://picsum.photos/seed/recipe60/400/300"
+  },
+  {
+    "id": "sample-61",
+    "title": "Sushi Roll",
+    "category": "Dessert",
+    "ingredients": [
+      "Knoblauch",
+      "Mehl",
+      "Spaghetti",
+      "Tomaten",
+      "Eier",
+      "Zucker",
+      "Zwiebeln"
+    ],
+    "instructions": "Zucker anbraten, Zwiebeln zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe61/400/300"
+  },
+  {
+    "id": "sample-62",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Petersilie",
+      "Karotten",
+      "Tomaten",
+      "Salz",
+      "Rindfleisch"
+    ],
+    "instructions": "Rindfleisch in Salzwasser kochen, dann mit Karotten servieren.",
+    "image": "https://picsum.photos/seed/recipe62/400/300"
+  },
+  {
+    "id": "sample-63",
+    "title": "Pad Thai",
+    "category": "Pasta",
+    "ingredients": [
+      "Spaghetti",
+      "Pfeffer",
+      "Salz",
+      "Tomaten",
+      "Petersilie",
+      "Eier",
+      "Olivenöl"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Eier hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe63/400/300"
+  },
+  {
+    "id": "sample-64",
+    "title": "Chicken Curry",
+    "category": "Soup",
+    "ingredients": [
+      "Pfeffer",
+      "Olivenöl",
+      "Eier",
+      "Mehl",
+      "Petersilie"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Eier hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe64/400/300"
+  },
+  {
+    "id": "sample-65",
+    "title": "Chicken Curry",
+    "category": "Pasta",
+    "ingredients": [
+      "Petersilie",
+      "Karotten",
+      "Zwiebeln",
+      "Rindfleisch",
+      "Olivenöl",
+      "Zucker",
+      "Knoblauch"
+    ],
+    "instructions": "Olivenöl anbraten, Zwiebeln zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe65/400/300"
+  },
+  {
+    "id": "sample-66",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Snack",
+    "ingredients": [
+      "Mehl",
+      "Rindfleisch",
+      "Zucker",
+      "Huhn",
+      "Knoblauch"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Rindfleisch servieren.",
+    "image": "https://picsum.photos/seed/recipe66/400/300"
+  },
+  {
+    "id": "sample-67",
+    "title": "Beef Stroganoff",
+    "category": "Soup",
+    "ingredients": [
+      "Tomaten",
+      "Zwiebeln",
+      "Olivenöl",
+      "Reis",
+      "Karotten",
+      "Rindfleisch",
+      "Butter"
+    ],
+    "instructions": "Butter anbraten, Rindfleisch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe67/400/300"
+  },
+  {
+    "id": "sample-68",
+    "title": "Caesar Salad",
+    "category": "Pasta",
+    "ingredients": [
+      "Milch",
+      "Zucker",
+      "Pfeffer",
+      "Olivenöl",
+      "Chili"
+    ],
+    "instructions": "Zucker in Salzwasser kochen, dann mit Pfeffer servieren.",
+    "image": "https://picsum.photos/seed/recipe68/400/300"
+  },
+  {
+    "id": "sample-69",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Knoblauch",
+      "Rindfleisch",
+      "Spaghetti",
+      "Olivenöl",
+      "Eier"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe69/400/300"
+  },
+  {
+    "id": "sample-70",
+    "title": "Carbonara",
+    "category": "Salad",
+    "ingredients": [
+      "Rindfleisch",
+      "Petersilie",
+      "Milch",
+      "Zwiebeln",
+      "Mehl",
+      "Spaghetti"
+    ],
+    "instructions": "Mehl anbraten, Petersilie zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe70/400/300"
+  },
+  {
+    "id": "sample-71",
+    "title": "Tomato Soup",
+    "category": "Dessert",
+    "ingredients": [
+      "Mehl",
+      "Karotten",
+      "Zwiebeln",
+      "Milch",
+      "Butter",
+      "Huhn"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Mehl servieren.",
+    "image": "https://picsum.photos/seed/recipe71/400/300"
+  },
+  {
+    "id": "sample-72",
+    "title": "Sushi Roll",
+    "category": "Main",
+    "ingredients": [
+      "Reis",
+      "Karotten",
+      "Chili",
+      "Butter",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Karotten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe72/400/300"
+  },
+  {
+    "id": "sample-73",
+    "title": "Caesar Salad",
+    "category": "Snack",
+    "ingredients": [
+      "Huhn",
+      "Spaghetti",
+      "Milch",
+      "Salz"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Salz hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe73/400/300"
+  },
+  {
+    "id": "sample-74",
+    "title": "Lasagne",
+    "category": "Dessert",
+    "ingredients": [
+      "Milch",
+      "Zwiebeln",
+      "Huhn",
+      "Olivenöl",
+      "Salz",
+      "Mehl",
+      "Pfeffer"
+    ],
+    "instructions": "Zwiebeln in Salzwasser kochen, dann mit Huhn servieren.",
+    "image": "https://picsum.photos/seed/recipe74/400/300"
+  },
+  {
+    "id": "sample-75",
+    "title": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": [
+      "Pfeffer",
+      "Mehl",
+      "Zucker",
+      "Karotten",
+      "Huhn",
+      "Knoblauch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Huhn hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe75/400/300"
+  },
+  {
+    "id": "sample-76",
+    "title": "Chicken Curry",
+    "category": "Salad",
+    "ingredients": [
+      "Zucker",
+      "Milch",
+      "Spaghetti",
+      "Reis",
+      "Zwiebeln"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe76/400/300"
+  },
+  {
+    "id": "sample-77",
+    "title": "Chicken Curry",
+    "category": "Snack",
+    "ingredients": [
+      "Petersilie",
+      "Milch",
+      "Knoblauch",
+      "Spaghetti",
+      "Salz",
+      "Olivenöl",
+      "Huhn"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Knoblauch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe77/400/300"
+  },
+  {
+    "id": "sample-78",
+    "title": "Carbonara",
+    "category": "Pasta",
+    "ingredients": [
+      "Knoblauch",
+      "Pfeffer",
+      "Reis",
+      "Huhn",
+      "Eier",
+      "Zwiebeln"
+    ],
+    "instructions": "Reis anbraten, Zwiebeln zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe78/400/300"
+  },
+  {
+    "id": "sample-79",
+    "title": "Sushi Roll",
+    "category": "Main",
+    "ingredients": [
+      "Reis",
+      "Spaghetti",
+      "Eier",
+      "Butter",
+      "Mehl",
+      "Zucker"
+    ],
+    "instructions": "Reis anbraten, Eier zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe79/400/300"
+  },
+  {
+    "id": "sample-80",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Dessert",
+    "ingredients": [
+      "Knoblauch",
+      "Milch",
+      "Spaghetti",
+      "Tomaten",
+      "Karotten",
+      "Butter",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Milch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe80/400/300"
+  },
+  {
+    "id": "sample-81",
+    "title": "Sushi Roll",
+    "category": "Dessert",
+    "ingredients": [
+      "Huhn",
+      "Butter",
+      "Knoblauch",
+      "Salz",
+      "Chili"
+    ],
+    "instructions": "Knoblauch anbraten, Salz zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe81/400/300"
+  },
+  {
+    "id": "sample-82",
+    "title": "Caesar Salad",
+    "category": "Snack",
+    "ingredients": [
+      "Mehl",
+      "Salz",
+      "Reis",
+      "Pfeffer",
+      "Eier",
+      "Spaghetti",
+      "Rindfleisch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Rindfleisch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe82/400/300"
+  },
+  {
+    "id": "sample-83",
+    "title": "Chicken Curry",
+    "category": "Main",
+    "ingredients": [
+      "Reis",
+      "Butter",
+      "Huhn",
+      "Tomaten",
+      "Karotten",
+      "Milch",
+      "Spaghetti"
+    ],
+    "instructions": "Karotten anbraten, Butter zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe83/400/300"
+  },
+  {
+    "id": "sample-84",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Dessert",
+    "ingredients": [
+      "Salz",
+      "Zucker",
+      "Butter",
+      "Huhn",
+      "Tomaten",
+      "Knoblauch",
+      "Milch"
+    ],
+    "instructions": "Zucker anbraten, Milch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe84/400/300"
+  },
+  {
+    "id": "sample-85",
+    "title": "Pad Thai",
+    "category": "Salad",
+    "ingredients": [
+      "Spaghetti",
+      "Eier",
+      "Reis",
+      "Zwiebeln",
+      "Rindfleisch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Reis hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe85/400/300"
+  },
+  {
+    "id": "sample-86",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Huhn",
+      "Karotten",
+      "Spaghetti",
+      "Tomaten",
+      "Reis",
+      "Eier",
+      "Butter"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Karotten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe86/400/300"
+  },
+  {
+    "id": "sample-87",
+    "title": "Sushi Roll",
+    "category": "Main",
+    "ingredients": [
+      "Salz",
+      "Zucker",
+      "Karotten",
+      "Mehl",
+      "Knoblauch",
+      "Rindfleisch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Knoblauch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe87/400/300"
+  },
+  {
+    "id": "sample-88",
+    "title": "Beef Stroganoff",
+    "category": "Snack",
+    "ingredients": [
+      "Spaghetti",
+      "Milch",
+      "Butter",
+      "Pfeffer",
+      "Mehl"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Mehl servieren.",
+    "image": "https://picsum.photos/seed/recipe88/400/300"
+  },
+  {
+    "id": "sample-89",
+    "title": "Lasagne",
+    "category": "Snack",
+    "ingredients": [
+      "Knoblauch",
+      "Olivenöl",
+      "Spaghetti",
+      "Mehl",
+      "Zucker"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Mehl servieren.",
+    "image": "https://picsum.photos/seed/recipe89/400/300"
+  },
+  {
+    "id": "sample-90",
+    "title": "Tiramisu",
+    "category": "Salad",
+    "ingredients": [
+      "Pfeffer",
+      "Milch",
+      "Reis",
+      "Knoblauch",
+      "Zwiebeln",
+      "Petersilie",
+      "Salz"
+    ],
+    "instructions": "Milch in Salzwasser kochen, dann mit Petersilie servieren.",
+    "image": "https://picsum.photos/seed/recipe90/400/300"
+  },
+  {
+    "id": "sample-91",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Salz",
+      "Mehl",
+      "Zucker",
+      "Huhn"
+    ],
+    "instructions": "Huhn anbraten, Salz zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe91/400/300"
+  },
+  {
+    "id": "sample-92",
+    "title": "Pad Thai",
+    "category": "Soup",
+    "ingredients": [
+      "Huhn",
+      "Zucker",
+      "Petersilie",
+      "Chili",
+      "Olivenöl"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Huhn hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe92/400/300"
+  },
+  {
+    "id": "sample-93",
+    "title": "Pad Thai",
+    "category": "Main",
+    "ingredients": [
+      "Mehl",
+      "Karotten",
+      "Tomaten",
+      "Olivenöl",
+      "Eier"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Mehl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe93/400/300"
+  },
+  {
+    "id": "sample-94",
+    "title": "Lasagne",
+    "category": "Pasta",
+    "ingredients": [
+      "Zucker",
+      "Huhn",
+      "Butter",
+      "Spaghetti",
+      "Chili"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Huhn hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe94/400/300"
+  },
+  {
+    "id": "sample-95",
+    "title": "Pad Thai",
+    "category": "Snack",
+    "ingredients": [
+      "Pfeffer",
+      "Chili",
+      "Butter",
+      "Knoblauch",
+      "Tomaten",
+      "Olivenöl"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Olivenöl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe95/400/300"
+  },
+  {
+    "id": "sample-96",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Petersilie",
+      "Reis",
+      "Chili",
+      "Karotten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Petersilie hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe96/400/300"
+  },
+  {
+    "id": "sample-97",
+    "title": "Beef Stroganoff",
+    "category": "Main",
+    "ingredients": [
+      "Knoblauch",
+      "Milch",
+      "Zwiebeln",
+      "Eier"
+    ],
+    "instructions": "Knoblauch anbraten, Milch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe97/400/300"
+  },
+  {
+    "id": "sample-98",
+    "title": "Lasagne",
+    "category": "Dessert",
+    "ingredients": [
+      "Tomaten",
+      "Reis",
+      "Knoblauch",
+      "Salz",
+      "Spaghetti",
+      "Huhn"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Reis hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe98/400/300"
+  },
+  {
+    "id": "sample-99",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Snack",
+    "ingredients": [
+      "Butter",
+      "Milch",
+      "Petersilie",
+      "Mehl",
+      "Olivenöl"
+    ],
+    "instructions": "Butter in Salzwasser kochen, dann mit Petersilie servieren.",
+    "image": "https://picsum.photos/seed/recipe99/400/300"
+  },
+  {
+    "id": "sample-100",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Salz",
+      "Tomaten",
+      "Huhn",
+      "Petersilie",
+      "Olivenöl",
+      "Spaghetti"
+    ],
+    "instructions": "Spaghetti in Salzwasser kochen, dann mit Huhn servieren.",
+    "image": "https://picsum.photos/seed/recipe100/400/300"
+  },
+  {
+    "id": "sample-101",
+    "title": "Sushi Roll",
+    "category": "Dessert",
+    "ingredients": [
+      "Rindfleisch",
+      "Spaghetti",
+      "Reis",
+      "Eier",
+      "Zwiebeln",
+      "Pfeffer"
+    ],
+    "instructions": "Eier in Salzwasser kochen, dann mit Rindfleisch servieren.",
+    "image": "https://picsum.photos/seed/recipe101/400/300"
+  },
+  {
+    "id": "sample-102",
+    "title": "Tomato Soup",
+    "category": "Dessert",
+    "ingredients": [
+      "Milch",
+      "Rindfleisch",
+      "Eier",
+      "Reis",
+      "Mehl"
+    ],
+    "instructions": "Milch in Salzwasser kochen, dann mit Eier servieren.",
+    "image": "https://picsum.photos/seed/recipe102/400/300"
+  },
+  {
+    "id": "sample-103",
+    "title": "Beef Stroganoff",
+    "category": "Dessert",
+    "ingredients": [
+      "Salz",
+      "Rindfleisch",
+      "Chili",
+      "Tomaten",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Chili hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe103/400/300"
+  },
+  {
+    "id": "sample-104",
+    "title": "Pad Thai",
+    "category": "Main",
+    "ingredients": [
+      "Milch",
+      "Olivenöl",
+      "Salz",
+      "Zucker"
+    ],
+    "instructions": "Salz anbraten, Milch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe104/400/300"
+  },
+  {
+    "id": "sample-105",
+    "title": "Chicken Curry",
+    "category": "Snack",
+    "ingredients": [
+      "Huhn",
+      "Reis",
+      "Spaghetti",
+      "Petersilie",
+      "Karotten",
+      "Zucker",
+      "Salz"
+    ],
+    "instructions": "Karotten in Salzwasser kochen, dann mit Reis servieren.",
+    "image": "https://picsum.photos/seed/recipe105/400/300"
+  },
+  {
+    "id": "sample-106",
+    "title": "Sushi Roll",
+    "category": "Soup",
+    "ingredients": [
+      "Eier",
+      "Chili",
+      "Karotten",
+      "Huhn",
+      "Zwiebeln",
+      "Spaghetti"
+    ],
+    "instructions": "Karotten anbraten, Eier zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe106/400/300"
+  },
+  {
+    "id": "sample-107",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Mehl",
+      "Salz",
+      "Eier",
+      "Knoblauch",
+      "Milch",
+      "Petersilie"
+    ],
+    "instructions": "Milch anbraten, Petersilie zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe107/400/300"
+  },
+  {
+    "id": "sample-108",
+    "title": "Caesar Salad",
+    "category": "Pasta",
+    "ingredients": [
+      "Knoblauch",
+      "Olivenöl",
+      "Pfeffer",
+      "Milch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe108/400/300"
+  },
+  {
+    "id": "sample-109",
+    "title": "Beef Stroganoff",
+    "category": "Dessert",
+    "ingredients": [
+      "Knoblauch",
+      "Butter",
+      "Zucker",
+      "Rindfleisch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Knoblauch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe109/400/300"
+  },
+  {
+    "id": "sample-110",
+    "title": "Lasagne",
+    "category": "Pasta",
+    "ingredients": [
+      "Karotten",
+      "Zucker",
+      "Butter",
+      "Salz",
+      "Knoblauch",
+      "Huhn"
+    ],
+    "instructions": "Butter in Salzwasser kochen, dann mit Salz servieren.",
+    "image": "https://picsum.photos/seed/recipe110/400/300"
+  },
+  {
+    "id": "sample-111",
+    "title": "Pad Thai",
+    "category": "Salad",
+    "ingredients": [
+      "Milch",
+      "Rindfleisch",
+      "Olivenöl",
+      "Reis",
+      "Butter"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Milch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe111/400/300"
+  },
+  {
+    "id": "sample-112",
+    "title": "Carbonara",
+    "category": "Salad",
+    "ingredients": [
+      "Reis",
+      "Huhn",
+      "Butter",
+      "Salz",
+      "Mehl",
+      "Olivenöl"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Olivenöl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe112/400/300"
+  },
+  {
+    "id": "sample-113",
+    "title": "Tiramisu",
+    "category": "Main",
+    "ingredients": [
+      "Mehl",
+      "Zucker",
+      "Karotten",
+      "Olivenöl",
+      "Butter",
+      "Spaghetti"
+    ],
+    "instructions": "Butter in Salzwasser kochen, dann mit Zucker servieren.",
+    "image": "https://picsum.photos/seed/recipe113/400/300"
+  },
+  {
+    "id": "sample-114",
+    "title": "Chicken Curry",
+    "category": "Pasta",
+    "ingredients": [
+      "Petersilie",
+      "Butter",
+      "Salz",
+      "Karotten",
+      "Chili",
+      "Spaghetti"
+    ],
+    "instructions": "Karotten anbraten, Salz zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe114/400/300"
+  },
+  {
+    "id": "sample-115",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Soup",
+    "ingredients": [
+      "Reis",
+      "Pfeffer",
+      "Zucker",
+      "Petersilie",
+      "Rindfleisch",
+      "Spaghetti"
+    ],
+    "instructions": "Pfeffer anbraten, Zucker zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe115/400/300"
+  },
+  {
+    "id": "sample-116",
+    "title": "Caesar Salad",
+    "category": "Salad",
+    "ingredients": [
+      "Pfeffer",
+      "Chili",
+      "Eier",
+      "Salz",
+      "Spaghetti",
+      "Butter"
+    ],
+    "instructions": "Pfeffer in Salzwasser kochen, dann mit Butter servieren.",
+    "image": "https://picsum.photos/seed/recipe116/400/300"
+  },
+  {
+    "id": "sample-117",
+    "title": "Chicken Curry",
+    "category": "Dessert",
+    "ingredients": [
+      "Rindfleisch",
+      "Mehl",
+      "Zwiebeln",
+      "Knoblauch",
+      "Eier"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe117/400/300"
+  },
+  {
+    "id": "sample-118",
+    "title": "Caesar Salad",
+    "category": "Salad",
+    "ingredients": [
+      "Chili",
+      "Spaghetti",
+      "Rindfleisch",
+      "Karotten",
+      "Zwiebeln"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Spaghetti hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe118/400/300"
+  },
+  {
+    "id": "sample-119",
+    "title": "Beef Stroganoff",
+    "category": "Salad",
+    "ingredients": [
+      "Zwiebeln",
+      "Olivenöl",
+      "Spaghetti",
+      "Eier",
+      "Rindfleisch",
+      "Chili",
+      "Huhn"
+    ],
+    "instructions": "Rindfleisch anbraten, Rindfleisch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe119/400/300"
+  },
+  {
+    "id": "sample-120",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Main",
+    "ingredients": [
+      "Spaghetti",
+      "Olivenöl",
+      "Tomaten",
+      "Salz",
+      "Mehl"
+    ],
+    "instructions": "Spaghetti in Salzwasser kochen, dann mit Olivenöl servieren.",
+    "image": "https://picsum.photos/seed/recipe120/400/300"
+  },
+  {
+    "id": "sample-121",
+    "title": "Chicken Curry",
+    "category": "Soup",
+    "ingredients": [
+      "Salz",
+      "Olivenöl",
+      "Zucker",
+      "Eier",
+      "Rindfleisch",
+      "Spaghetti"
+    ],
+    "instructions": "Zucker in Salzwasser kochen, dann mit Olivenöl servieren.",
+    "image": "https://picsum.photos/seed/recipe121/400/300"
+  },
+  {
+    "id": "sample-122",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Salz",
+      "Zucker",
+      "Huhn",
+      "Eier",
+      "Karotten",
+      "Chili"
+    ],
+    "instructions": "Eier anbraten, Zucker zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe122/400/300"
+  },
+  {
+    "id": "sample-123",
+    "title": "Carbonara",
+    "category": "Salad",
+    "ingredients": [
+      "Mehl",
+      "Zucker",
+      "Reis",
+      "Petersilie",
+      "Rindfleisch",
+      "Eier",
+      "Pfeffer"
+    ],
+    "instructions": "Zucker in Salzwasser kochen, dann mit Reis servieren.",
+    "image": "https://picsum.photos/seed/recipe123/400/300"
+  },
+  {
+    "id": "sample-124",
+    "title": "Lasagne",
+    "category": "Snack",
+    "ingredients": [
+      "Tomaten",
+      "Butter",
+      "Zucker",
+      "Zwiebeln",
+      "Pfeffer",
+      "Eier",
+      "Spaghetti"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Tomaten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe124/400/300"
+  },
+  {
+    "id": "sample-125",
+    "title": "Caesar Salad",
+    "category": "Pasta",
+    "ingredients": [
+      "Tomaten",
+      "Spaghetti",
+      "Karotten",
+      "Zwiebeln",
+      "Knoblauch",
+      "Pfeffer"
+    ],
+    "instructions": "Zwiebeln in Salzwasser kochen, dann mit Spaghetti servieren.",
+    "image": "https://picsum.photos/seed/recipe125/400/300"
+  },
+  {
+    "id": "sample-126",
+    "title": "Carbonara",
+    "category": "Pasta",
+    "ingredients": [
+      "Eier",
+      "Karotten",
+      "Petersilie",
+      "Knoblauch"
+    ],
+    "instructions": "Knoblauch anbraten, Karotten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe126/400/300"
+  },
+  {
+    "id": "sample-127",
+    "title": "Sushi Roll",
+    "category": "Salad",
+    "ingredients": [
+      "Chili",
+      "Tomaten",
+      "Milch",
+      "Spaghetti",
+      "Butter",
+      "Pfeffer",
+      "Zucker"
+    ],
+    "instructions": "Tomaten anbraten, Chili zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe127/400/300"
+  },
+  {
+    "id": "sample-128",
+    "title": "Tiramisu",
+    "category": "Soup",
+    "ingredients": [
+      "Butter",
+      "Pfeffer",
+      "Olivenöl",
+      "Reis",
+      "Spaghetti",
+      "Chili",
+      "Eier"
+    ],
+    "instructions": "Reis in Salzwasser kochen, dann mit Olivenöl servieren.",
+    "image": "https://picsum.photos/seed/recipe128/400/300"
+  },
+  {
+    "id": "sample-129",
+    "title": "Tiramisu",
+    "category": "Snack",
+    "ingredients": [
+      "Knoblauch",
+      "Petersilie",
+      "Spaghetti",
+      "Rindfleisch",
+      "Huhn",
+      "Tomaten",
+      "Milch"
+    ],
+    "instructions": "Petersilie in Salzwasser kochen, dann mit Petersilie servieren.",
+    "image": "https://picsum.photos/seed/recipe129/400/300"
+  },
+  {
+    "id": "sample-130",
+    "title": "Tiramisu",
+    "category": "Salad",
+    "ingredients": [
+      "Knoblauch",
+      "Pfeffer",
+      "Tomaten",
+      "Huhn",
+      "Salz"
+    ],
+    "instructions": "Knoblauch in Salzwasser kochen, dann mit Knoblauch servieren.",
+    "image": "https://picsum.photos/seed/recipe130/400/300"
+  },
+  {
+    "id": "sample-131",
+    "title": "Tiramisu",
+    "category": "Pasta",
+    "ingredients": [
+      "Reis",
+      "Mehl",
+      "Milch",
+      "Huhn"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Reis hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe131/400/300"
+  },
+  {
+    "id": "sample-132",
+    "title": "Sushi Roll",
+    "category": "Snack",
+    "ingredients": [
+      "Chili",
+      "Knoblauch",
+      "Rindfleisch",
+      "Reis",
+      "Olivenöl",
+      "Salz"
+    ],
+    "instructions": "Chili in Salzwasser kochen, dann mit Reis servieren.",
+    "image": "https://picsum.photos/seed/recipe132/400/300"
+  },
+  {
+    "id": "sample-133",
+    "title": "Chicken Curry",
+    "category": "Dessert",
+    "ingredients": [
+      "Spaghetti",
+      "Petersilie",
+      "Zwiebeln",
+      "Salz",
+      "Huhn",
+      "Eier",
+      "Zucker"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Petersilie hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe133/400/300"
+  },
+  {
+    "id": "sample-134",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Zwiebeln",
+      "Eier",
+      "Tomaten",
+      "Rindfleisch"
+    ],
+    "instructions": "Zwiebeln in Salzwasser kochen, dann mit Zwiebeln servieren.",
+    "image": "https://picsum.photos/seed/recipe134/400/300"
+  },
+  {
+    "id": "sample-135",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Salad",
+    "ingredients": [
+      "Knoblauch",
+      "Zwiebeln",
+      "Reis",
+      "Huhn",
+      "Tomaten"
+    ],
+    "instructions": "Knoblauch in Salzwasser kochen, dann mit Tomaten servieren.",
+    "image": "https://picsum.photos/seed/recipe135/400/300"
+  },
+  {
+    "id": "sample-136",
+    "title": "Lasagne",
+    "category": "Main",
+    "ingredients": [
+      "Pfeffer",
+      "Zwiebeln",
+      "Milch",
+      "Eier"
+    ],
+    "instructions": "Milch anbraten, Eier zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe136/400/300"
+  },
+  {
+    "id": "sample-137",
+    "title": "Lasagne",
+    "category": "Pasta",
+    "ingredients": [
+      "Pfeffer",
+      "Spaghetti",
+      "Zwiebeln",
+      "Zucker"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe137/400/300"
+  },
+  {
+    "id": "sample-138",
+    "title": "Lasagne",
+    "category": "Main",
+    "ingredients": [
+      "Zwiebeln",
+      "Olivenöl",
+      "Petersilie",
+      "Karotten",
+      "Eier",
+      "Tomaten",
+      "Huhn"
+    ],
+    "instructions": "Zwiebeln anbraten, Tomaten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe138/400/300"
+  },
+  {
+    "id": "sample-139",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Zucker",
+      "Zwiebeln",
+      "Eier",
+      "Chili",
+      "Reis",
+      "Olivenöl"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zucker hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe139/400/300"
+  },
+  {
+    "id": "sample-140",
+    "title": "Caesar Salad",
+    "category": "Pasta",
+    "ingredients": [
+      "Karotten",
+      "Huhn",
+      "Pfeffer",
+      "Rindfleisch",
+      "Mehl",
+      "Salz",
+      "Petersilie"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe140/400/300"
+  },
+  {
+    "id": "sample-141",
+    "title": "Carbonara",
+    "category": "Main",
+    "ingredients": [
+      "Pfeffer",
+      "Zucker",
+      "Olivenöl",
+      "Eier",
+      "Butter",
+      "Mehl"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Mehl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe141/400/300"
+  },
+  {
+    "id": "sample-142",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Dessert",
+    "ingredients": [
+      "Tomaten",
+      "Spaghetti",
+      "Eier",
+      "Karotten",
+      "Reis",
+      "Olivenöl",
+      "Knoblauch"
+    ],
+    "instructions": "Spaghetti in Salzwasser kochen, dann mit Karotten servieren.",
+    "image": "https://picsum.photos/seed/recipe142/400/300"
+  },
+  {
+    "id": "sample-143",
+    "title": "Lasagne",
+    "category": "Dessert",
+    "ingredients": [
+      "Olivenöl",
+      "Knoblauch",
+      "Eier",
+      "Petersilie"
+    ],
+    "instructions": "Eier in Salzwasser kochen, dann mit Eier servieren.",
+    "image": "https://picsum.photos/seed/recipe143/400/300"
+  },
+  {
+    "id": "sample-144",
+    "title": "Tiramisu",
+    "category": "Pasta",
+    "ingredients": [
+      "Zwiebeln",
+      "Rindfleisch",
+      "Huhn",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Huhn hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe144/400/300"
+  },
+  {
+    "id": "sample-145",
+    "title": "Carbonara",
+    "category": "Dessert",
+    "ingredients": [
+      "Salz",
+      "Reis",
+      "Knoblauch",
+      "Tomaten",
+      "Eier",
+      "Olivenöl"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Eier hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe145/400/300"
+  },
+  {
+    "id": "sample-146",
+    "title": "Tiramisu",
+    "category": "Snack",
+    "ingredients": [
+      "Huhn",
+      "Milch",
+      "Karotten",
+      "Reis",
+      "Spaghetti",
+      "Knoblauch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Reis hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe146/400/300"
+  },
+  {
+    "id": "sample-147",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Eier",
+      "Petersilie",
+      "Mehl",
+      "Reis",
+      "Karotten",
+      "Zwiebeln",
+      "Pfeffer"
+    ],
+    "instructions": "Eier in Salzwasser kochen, dann mit Zwiebeln servieren.",
+    "image": "https://picsum.photos/seed/recipe147/400/300"
+  },
+  {
+    "id": "sample-148",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Pfeffer",
+      "Petersilie",
+      "Milch",
+      "Zucker"
+    ],
+    "instructions": "Petersilie in Salzwasser kochen, dann mit Milch servieren.",
+    "image": "https://picsum.photos/seed/recipe148/400/300"
+  },
+  {
+    "id": "sample-149",
+    "title": "Lasagne",
+    "category": "Salad",
+    "ingredients": [
+      "Chili",
+      "Salz",
+      "Tomaten",
+      "Milch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Chili hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe149/400/300"
+  },
+  {
+    "id": "sample-150",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Salad",
+    "ingredients": [
+      "Pfeffer",
+      "Zwiebeln",
+      "Rindfleisch",
+      "Knoblauch",
+      "Mehl",
+      "Chili"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Knoblauch servieren.",
+    "image": "https://picsum.photos/seed/recipe150/400/300"
+  },
+  {
+    "id": "sample-151",
+    "title": "Caesar Salad",
+    "category": "Pasta",
+    "ingredients": [
+      "Zucker",
+      "Pfeffer",
+      "Milch",
+      "Salz",
+      "Butter",
+      "Karotten",
+      "Zwiebeln"
+    ],
+    "instructions": "Zwiebeln anbraten, Butter zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe151/400/300"
+  },
+  {
+    "id": "sample-152",
+    "title": "Beef Stroganoff",
+    "category": "Soup",
+    "ingredients": [
+      "Milch",
+      "Reis",
+      "Spaghetti",
+      "Chili"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Spaghetti hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe152/400/300"
+  },
+  {
+    "id": "sample-153",
+    "title": "Chicken Curry",
+    "category": "Dessert",
+    "ingredients": [
+      "Eier",
+      "Huhn",
+      "Pfeffer",
+      "Petersilie"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Pfeffer hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe153/400/300"
+  },
+  {
+    "id": "sample-154",
+    "title": "Caesar Salad",
+    "category": "Pasta",
+    "ingredients": [
+      "Spaghetti",
+      "Milch",
+      "Rindfleisch",
+      "Tomaten",
+      "Zucker"
+    ],
+    "instructions": "Tomaten anbraten, Rindfleisch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe154/400/300"
+  },
+  {
+    "id": "sample-155",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Salz",
+      "Karotten",
+      "Zwiebeln",
+      "Zucker",
+      "Eier",
+      "Olivenöl"
+    ],
+    "instructions": "Salz in Salzwasser kochen, dann mit Olivenöl servieren.",
+    "image": "https://picsum.photos/seed/recipe155/400/300"
+  },
+  {
+    "id": "sample-156",
+    "title": "Sushi Roll",
+    "category": "Pasta",
+    "ingredients": [
+      "Knoblauch",
+      "Rindfleisch",
+      "Chili",
+      "Butter",
+      "Pfeffer",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Pfeffer hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe156/400/300"
+  },
+  {
+    "id": "sample-157",
+    "title": "Caesar Salad",
+    "category": "Salad",
+    "ingredients": [
+      "Zucker",
+      "Petersilie",
+      "Reis",
+      "Milch",
+      "Mehl"
+    ],
+    "instructions": "Petersilie in Salzwasser kochen, dann mit Reis servieren.",
+    "image": "https://picsum.photos/seed/recipe157/400/300"
+  },
+  {
+    "id": "sample-158",
+    "title": "Sushi Roll",
+    "category": "Soup",
+    "ingredients": [
+      "Olivenöl",
+      "Knoblauch",
+      "Eier",
+      "Salz"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Olivenöl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe158/400/300"
+  },
+  {
+    "id": "sample-159",
+    "title": "Beef Stroganoff",
+    "category": "Salad",
+    "ingredients": [
+      "Zwiebeln",
+      "Salz",
+      "Zucker",
+      "Olivenöl",
+      "Milch"
+    ],
+    "instructions": "Zucker in Salzwasser kochen, dann mit Zwiebeln servieren.",
+    "image": "https://picsum.photos/seed/recipe159/400/300"
+  },
+  {
+    "id": "sample-160",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Pasta",
+    "ingredients": [
+      "Knoblauch",
+      "Chili",
+      "Karotten",
+      "Mehl",
+      "Zwiebeln",
+      "Huhn"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Karotten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe160/400/300"
+  },
+  {
+    "id": "sample-161",
+    "title": "Tiramisu",
+    "category": "Soup",
+    "ingredients": [
+      "Butter",
+      "Karotten",
+      "Tomaten",
+      "Mehl",
+      "Rindfleisch",
+      "Chili",
+      "Olivenöl"
+    ],
+    "instructions": "Olivenöl in Salzwasser kochen, dann mit Mehl servieren.",
+    "image": "https://picsum.photos/seed/recipe161/400/300"
+  },
+  {
+    "id": "sample-162",
+    "title": "Pad Thai",
+    "category": "Main",
+    "ingredients": [
+      "Reis",
+      "Zwiebeln",
+      "Spaghetti",
+      "Mehl"
+    ],
+    "instructions": "Mehl anbraten, Reis zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe162/400/300"
+  },
+  {
+    "id": "sample-163",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Karotten",
+      "Pfeffer",
+      "Butter",
+      "Spaghetti",
+      "Reis",
+      "Knoblauch",
+      "Zwiebeln"
+    ],
+    "instructions": "Karotten in Salzwasser kochen, dann mit Pfeffer servieren.",
+    "image": "https://picsum.photos/seed/recipe163/400/300"
+  },
+  {
+    "id": "sample-164",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Milch",
+      "Zucker",
+      "Mehl",
+      "Petersilie",
+      "Olivenöl",
+      "Huhn"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Petersilie hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe164/400/300"
+  },
+  {
+    "id": "sample-165",
+    "title": "Lasagne",
+    "category": "Snack",
+    "ingredients": [
+      "Zwiebeln",
+      "Pfeffer",
+      "Mehl",
+      "Spaghetti",
+      "Petersilie"
+    ],
+    "instructions": "Petersilie in Salzwasser kochen, dann mit Petersilie servieren.",
+    "image": "https://picsum.photos/seed/recipe165/400/300"
+  },
+  {
+    "id": "sample-166",
+    "title": "Sushi Roll",
+    "category": "Soup",
+    "ingredients": [
+      "Knoblauch",
+      "Karotten",
+      "Petersilie",
+      "Eier",
+      "Mehl",
+      "Huhn"
+    ],
+    "instructions": "Mehl anbraten, Karotten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe166/400/300"
+  },
+  {
+    "id": "sample-167",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Main",
+    "ingredients": [
+      "Mehl",
+      "Eier",
+      "Knoblauch",
+      "Butter",
+      "Petersilie",
+      "Rindfleisch",
+      "Zwiebeln"
+    ],
+    "instructions": "Butter anbraten, Butter zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe167/400/300"
+  },
+  {
+    "id": "sample-168",
+    "title": "Lasagne",
+    "category": "Dessert",
+    "ingredients": [
+      "Olivenöl",
+      "Salz",
+      "Rindfleisch",
+      "Zwiebeln",
+      "Spaghetti",
+      "Zucker",
+      "Eier"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Eier hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe168/400/300"
+  },
+  {
+    "id": "sample-169",
+    "title": "Beef Stroganoff",
+    "category": "Pasta",
+    "ingredients": [
+      "Reis",
+      "Pfeffer",
+      "Chili",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Chili hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe169/400/300"
+  },
+  {
+    "id": "sample-170",
+    "title": "Tiramisu",
+    "category": "Snack",
+    "ingredients": [
+      "Mehl",
+      "Reis",
+      "Milch",
+      "Rindfleisch",
+      "Butter",
+      "Salz",
+      "Eier"
+    ],
+    "instructions": "Reis in Salzwasser kochen, dann mit Butter servieren.",
+    "image": "https://picsum.photos/seed/recipe170/400/300"
+  },
+  {
+    "id": "sample-171",
+    "title": "Pad Thai",
+    "category": "Pasta",
+    "ingredients": [
+      "Petersilie",
+      "Olivenöl",
+      "Salz",
+      "Reis",
+      "Huhn",
+      "Mehl",
+      "Karotten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Petersilie hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe171/400/300"
+  },
+  {
+    "id": "sample-172",
+    "title": "Carbonara",
+    "category": "Soup",
+    "ingredients": [
+      "Rindfleisch",
+      "Chili",
+      "Karotten",
+      "Zucker"
+    ],
+    "instructions": "Rindfleisch in Salzwasser kochen, dann mit Chili servieren.",
+    "image": "https://picsum.photos/seed/recipe172/400/300"
+  },
+  {
+    "id": "sample-173",
+    "title": "Sushi Roll",
+    "category": "Pasta",
+    "ingredients": [
+      "Mehl",
+      "Chili",
+      "Petersilie",
+      "Tomaten",
+      "Rindfleisch",
+      "Eier"
+    ],
+    "instructions": "Tomaten anbraten, Chili zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe173/400/300"
+  },
+  {
+    "id": "sample-174",
+    "title": "Lasagne",
+    "category": "Snack",
+    "ingredients": [
+      "Zwiebeln",
+      "Knoblauch",
+      "Milch",
+      "Huhn",
+      "Rindfleisch",
+      "Butter",
+      "Zucker"
+    ],
+    "instructions": "Zucker in Salzwasser kochen, dann mit Zwiebeln servieren.",
+    "image": "https://picsum.photos/seed/recipe174/400/300"
+  },
+  {
+    "id": "sample-175",
+    "title": "Carbonara",
+    "category": "Snack",
+    "ingredients": [
+      "Karotten",
+      "Spaghetti",
+      "Huhn",
+      "Olivenöl",
+      "Milch"
+    ],
+    "instructions": "Spaghetti anbraten, Huhn zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe175/400/300"
+  },
+  {
+    "id": "sample-176",
+    "title": "Beef Stroganoff",
+    "category": "Pasta",
+    "ingredients": [
+      "Butter",
+      "Spaghetti",
+      "Mehl",
+      "Rindfleisch",
+      "Huhn",
+      "Olivenöl",
+      "Reis"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Spaghetti hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe176/400/300"
+  },
+  {
+    "id": "sample-177",
+    "title": "Chicken Curry",
+    "category": "Salad",
+    "ingredients": [
+      "Eier",
+      "Olivenöl",
+      "Reis",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Olivenöl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe177/400/300"
+  },
+  {
+    "id": "sample-178",
+    "title": "Tomato Soup",
+    "category": "Pasta",
+    "ingredients": [
+      "Karotten",
+      "Chili",
+      "Knoblauch",
+      "Zwiebeln",
+      "Milch",
+      "Eier",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Reis hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe178/400/300"
+  },
+  {
+    "id": "sample-179",
+    "title": "Lasagne",
+    "category": "Main",
+    "ingredients": [
+      "Salz",
+      "Zwiebeln",
+      "Milch",
+      "Knoblauch",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zwiebeln hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe179/400/300"
+  },
+  {
+    "id": "sample-180",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Rindfleisch",
+      "Zucker",
+      "Karotten",
+      "Eier",
+      "Petersilie"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zucker hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe180/400/300"
+  },
+  {
+    "id": "sample-181",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Spaghetti",
+      "Pfeffer",
+      "Karotten",
+      "Mehl",
+      "Zucker",
+      "Eier"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe181/400/300"
+  },
+  {
+    "id": "sample-182",
+    "title": "Carbonara",
+    "category": "Soup",
+    "ingredients": [
+      "Eier",
+      "Zwiebeln",
+      "Huhn",
+      "Mehl",
+      "Zucker",
+      "Chili",
+      "Karotten"
+    ],
+    "instructions": "Mehl anbraten, Mehl zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe182/400/300"
+  },
+  {
+    "id": "sample-183",
+    "title": "Chicken Curry",
+    "category": "Soup",
+    "ingredients": [
+      "Mehl",
+      "Karotten",
+      "Petersilie",
+      "Eier",
+      "Zucker",
+      "Reis"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Mehl servieren.",
+    "image": "https://picsum.photos/seed/recipe183/400/300"
+  },
+  {
+    "id": "sample-184",
+    "title": "Lasagne",
+    "category": "Salad",
+    "ingredients": [
+      "Zwiebeln",
+      "Reis",
+      "Butter",
+      "Tomaten",
+      "Karotten",
+      "Olivenöl",
+      "Milch"
+    ],
+    "instructions": "Reis anbraten, Butter zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe184/400/300"
+  },
+  {
+    "id": "sample-185",
+    "title": "Beef Stroganoff",
+    "category": "Pasta",
+    "ingredients": [
+      "Eier",
+      "Spaghetti",
+      "Reis",
+      "Zwiebeln",
+      "Salz"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe185/400/300"
+  },
+  {
+    "id": "sample-186",
+    "title": "Chicken Curry",
+    "category": "Snack",
+    "ingredients": [
+      "Rindfleisch",
+      "Karotten",
+      "Olivenöl",
+      "Zucker",
+      "Chili"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Karotten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe186/400/300"
+  },
+  {
+    "id": "sample-187",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Salz",
+      "Spaghetti",
+      "Karotten",
+      "Milch",
+      "Reis",
+      "Zwiebeln"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Spaghetti hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe187/400/300"
+  },
+  {
+    "id": "sample-188",
+    "title": "Carbonara",
+    "category": "Salad",
+    "ingredients": [
+      "Petersilie",
+      "Karotten",
+      "Huhn",
+      "Zucker",
+      "Rindfleisch"
+    ],
+    "instructions": "Petersilie in Salzwasser kochen, dann mit Karotten servieren.",
+    "image": "https://picsum.photos/seed/recipe188/400/300"
+  },
+  {
+    "id": "sample-189",
+    "title": "Pad Thai",
+    "category": "Snack",
+    "ingredients": [
+      "Tomaten",
+      "Zucker",
+      "Rindfleisch",
+      "Milch",
+      "Chili",
+      "Olivenöl"
+    ],
+    "instructions": "Olivenöl anbraten, Chili zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe189/400/300"
+  },
+  {
+    "id": "sample-190",
+    "title": "Tomato Soup",
+    "category": "Pasta",
+    "ingredients": [
+      "Pfeffer",
+      "Knoblauch",
+      "Rindfleisch",
+      "Butter",
+      "Zucker",
+      "Milch",
+      "Salz"
+    ],
+    "instructions": "Rindfleisch in Salzwasser kochen, dann mit Knoblauch servieren.",
+    "image": "https://picsum.photos/seed/recipe190/400/300"
+  },
+  {
+    "id": "sample-191",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Snack",
+    "ingredients": [
+      "Zwiebeln",
+      "Karotten",
+      "Butter",
+      "Tomaten"
+    ],
+    "instructions": "Tomaten in Salzwasser kochen, dann mit Zwiebeln servieren.",
+    "image": "https://picsum.photos/seed/recipe191/400/300"
+  },
+  {
+    "id": "sample-192",
+    "title": "Chicken Curry",
+    "category": "Pasta",
+    "ingredients": [
+      "Milch",
+      "Olivenöl",
+      "Reis",
+      "Pfeffer"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Reis hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe192/400/300"
+  },
+  {
+    "id": "sample-193",
+    "title": "Carbonara",
+    "category": "Soup",
+    "ingredients": [
+      "Spaghetti",
+      "Zwiebeln",
+      "Karotten",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe193/400/300"
+  },
+  {
+    "id": "sample-194",
+    "title": "Chicken Curry",
+    "category": "Soup",
+    "ingredients": [
+      "Karotten",
+      "Huhn",
+      "Zucker",
+      "Pfeffer",
+      "Chili",
+      "Olivenöl",
+      "Mehl"
+    ],
+    "instructions": "Zucker in Salzwasser kochen, dann mit Karotten servieren.",
+    "image": "https://picsum.photos/seed/recipe194/400/300"
+  },
+  {
+    "id": "sample-195",
+    "title": "Pad Thai",
+    "category": "Dessert",
+    "ingredients": [
+      "Zwiebeln",
+      "Huhn",
+      "Karotten",
+      "Chili"
+    ],
+    "instructions": "Chili in Salzwasser kochen, dann mit Chili servieren.",
+    "image": "https://picsum.photos/seed/recipe195/400/300"
+  },
+  {
+    "id": "sample-196",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Dessert",
+    "ingredients": [
+      "Rindfleisch",
+      "Petersilie",
+      "Eier",
+      "Tomaten",
+      "Milch",
+      "Pfeffer",
+      "Huhn"
+    ],
+    "instructions": "Milch in Salzwasser kochen, dann mit Rindfleisch servieren.",
+    "image": "https://picsum.photos/seed/recipe196/400/300"
+  },
+  {
+    "id": "sample-197",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Pasta",
+    "ingredients": [
+      "Rindfleisch",
+      "Reis",
+      "Tomaten",
+      "Huhn"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Tomaten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe197/400/300"
+  },
+  {
+    "id": "sample-198",
+    "title": "Chicken Curry",
+    "category": "Dessert",
+    "ingredients": [
+      "Pfeffer",
+      "Milch",
+      "Eier",
+      "Olivenöl",
+      "Karotten",
+      "Rindfleisch",
+      "Zucker"
+    ],
+    "instructions": "Karotten anbraten, Pfeffer zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe198/400/300"
+  },
+  {
+    "id": "sample-199",
+    "title": "Sushi Roll",
+    "category": "Soup",
+    "ingredients": [
+      "Mehl",
+      "Petersilie",
+      "Spaghetti",
+      "Butter",
+      "Rindfleisch",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Karotten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe199/400/300"
+  },
+  {
+    "id": "sample-200",
+    "title": "Carbonara",
+    "category": "Dessert",
+    "ingredients": [
+      "Zucker",
+      "Knoblauch",
+      "Mehl",
+      "Zwiebeln",
+      "Tomaten",
+      "Olivenöl",
+      "Eier"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zucker hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe200/400/300"
+  },
+  {
+    "id": "sample-201",
+    "title": "Pad Thai",
+    "category": "Snack",
+    "ingredients": [
+      "Spaghetti",
+      "Salz",
+      "Olivenöl",
+      "Petersilie",
+      "Pfeffer",
+      "Zwiebeln"
+    ],
+    "instructions": "Olivenöl in Salzwasser kochen, dann mit Petersilie servieren.",
+    "image": "https://picsum.photos/seed/recipe201/400/300"
+  },
+  {
+    "id": "sample-202",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Dessert",
+    "ingredients": [
+      "Huhn",
+      "Knoblauch",
+      "Pfeffer",
+      "Milch",
+      "Tomaten"
+    ],
+    "instructions": "Tomaten in Salzwasser kochen, dann mit Pfeffer servieren.",
+    "image": "https://picsum.photos/seed/recipe202/400/300"
+  },
+  {
+    "id": "sample-203",
+    "title": "Chicken Curry",
+    "category": "Main",
+    "ingredients": [
+      "Mehl",
+      "Reis",
+      "Chili",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Mehl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe203/400/300"
+  },
+  {
+    "id": "sample-204",
+    "title": "Sushi Roll",
+    "category": "Salad",
+    "ingredients": [
+      "Eier",
+      "Huhn",
+      "Zucker",
+      "Mehl",
+      "Olivenöl",
+      "Milch"
+    ],
+    "instructions": "Huhn anbraten, Mehl zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe204/400/300"
+  },
+  {
+    "id": "sample-205",
+    "title": "Lasagne",
+    "category": "Snack",
+    "ingredients": [
+      "Mehl",
+      "Karotten",
+      "Petersilie",
+      "Butter",
+      "Zucker",
+      "Reis"
+    ],
+    "instructions": "Butter anbraten, Karotten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe205/400/300"
+  },
+  {
+    "id": "sample-206",
+    "title": "Tomato Soup",
+    "category": "Pasta",
+    "ingredients": [
+      "Zucker",
+      "Pfeffer",
+      "Tomaten",
+      "Olivenöl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe206/400/300"
+  },
+  {
+    "id": "sample-207",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Main",
+    "ingredients": [
+      "Zwiebeln",
+      "Mehl",
+      "Reis",
+      "Olivenöl",
+      "Chili",
+      "Salz"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Salz hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe207/400/300"
+  },
+  {
+    "id": "sample-208",
+    "title": "Pad Thai",
+    "category": "Soup",
+    "ingredients": [
+      "Butter",
+      "Knoblauch",
+      "Petersilie",
+      "Zucker"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Petersilie hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe208/400/300"
+  },
+  {
+    "id": "sample-209",
+    "title": "Tiramisu",
+    "category": "Salad",
+    "ingredients": [
+      "Salz",
+      "Chili",
+      "Petersilie",
+      "Butter"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Chili hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe209/400/300"
+  },
+  {
+    "id": "sample-210",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Milch",
+      "Chili",
+      "Huhn",
+      "Rindfleisch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Chili hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe210/400/300"
+  },
+  {
+    "id": "sample-211",
+    "title": "Pad Thai",
+    "category": "Pasta",
+    "ingredients": [
+      "Tomaten",
+      "Zwiebeln",
+      "Olivenöl",
+      "Mehl"
+    ],
+    "instructions": "Zwiebeln anbraten, Mehl zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe211/400/300"
+  },
+  {
+    "id": "sample-212",
+    "title": "Tomato Soup",
+    "category": "Salad",
+    "ingredients": [
+      "Salz",
+      "Petersilie",
+      "Knoblauch",
+      "Tomaten",
+      "Reis"
+    ],
+    "instructions": "Tomaten in Salzwasser kochen, dann mit Petersilie servieren.",
+    "image": "https://picsum.photos/seed/recipe212/400/300"
+  },
+  {
+    "id": "sample-213",
+    "title": "Sushi Roll",
+    "category": "Main",
+    "ingredients": [
+      "Eier",
+      "Tomaten",
+      "Mehl",
+      "Spaghetti",
+      "Salz"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Mehl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe213/400/300"
+  },
+  {
+    "id": "sample-214",
+    "title": "Sushi Roll",
+    "category": "Soup",
+    "ingredients": [
+      "Petersilie",
+      "Huhn",
+      "Eier",
+      "Zucker"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Huhn hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe214/400/300"
+  },
+  {
+    "id": "sample-215",
+    "title": "Carbonara",
+    "category": "Main",
+    "ingredients": [
+      "Reis",
+      "Zwiebeln",
+      "Knoblauch",
+      "Spaghetti"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Reis hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe215/400/300"
+  },
+  {
+    "id": "sample-216",
+    "title": "Carbonara",
+    "category": "Soup",
+    "ingredients": [
+      "Zwiebeln",
+      "Karotten",
+      "Petersilie",
+      "Tomaten",
+      "Salz"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Tomaten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe216/400/300"
+  },
+  {
+    "id": "sample-217",
+    "title": "Beef Stroganoff",
+    "category": "Main",
+    "ingredients": [
+      "Olivenöl",
+      "Milch",
+      "Karotten",
+      "Salz",
+      "Chili",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Reis hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe217/400/300"
+  },
+  {
+    "id": "sample-218",
+    "title": "Pad Thai",
+    "category": "Main",
+    "ingredients": [
+      "Zucker",
+      "Zwiebeln",
+      "Butter",
+      "Reis",
+      "Spaghetti"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zucker hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe218/400/300"
+  },
+  {
+    "id": "sample-219",
+    "title": "Beef Stroganoff",
+    "category": "Pasta",
+    "ingredients": [
+      "Rindfleisch",
+      "Tomaten",
+      "Karotten",
+      "Petersilie",
+      "Butter"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Karotten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe219/400/300"
+  },
+  {
+    "id": "sample-220",
+    "title": "Chicken Curry",
+    "category": "Main",
+    "ingredients": [
+      "Rindfleisch",
+      "Tomaten",
+      "Pfeffer",
+      "Reis",
+      "Mehl",
+      "Zwiebeln"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Rindfleisch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe220/400/300"
+  },
+  {
+    "id": "sample-221",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Zwiebeln",
+      "Milch",
+      "Knoblauch",
+      "Zucker",
+      "Eier",
+      "Spaghetti"
+    ],
+    "instructions": "Eier in Salzwasser kochen, dann mit Spaghetti servieren.",
+    "image": "https://picsum.photos/seed/recipe221/400/300"
+  },
+  {
+    "id": "sample-222",
+    "title": "Sushi Roll",
+    "category": "Salad",
+    "ingredients": [
+      "Zucker",
+      "Reis",
+      "Tomaten",
+      "Butter",
+      "Knoblauch",
+      "Zwiebeln"
+    ],
+    "instructions": "Zucker in Salzwasser kochen, dann mit Zucker servieren.",
+    "image": "https://picsum.photos/seed/recipe222/400/300"
+  },
+  {
+    "id": "sample-223",
+    "title": "Sushi Roll",
+    "category": "Salad",
+    "ingredients": [
+      "Salz",
+      "Milch",
+      "Rindfleisch",
+      "Reis",
+      "Mehl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Milch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe223/400/300"
+  },
+  {
+    "id": "sample-224",
+    "title": "Carbonara",
+    "category": "Snack",
+    "ingredients": [
+      "Pfeffer",
+      "Spaghetti",
+      "Olivenöl",
+      "Huhn",
+      "Knoblauch",
+      "Eier"
+    ],
+    "instructions": "Huhn in Salzwasser kochen, dann mit Olivenöl servieren.",
+    "image": "https://picsum.photos/seed/recipe224/400/300"
+  },
+  {
+    "id": "sample-225",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Dessert",
+    "ingredients": [
+      "Rindfleisch",
+      "Petersilie",
+      "Pfeffer",
+      "Salz",
+      "Zwiebeln",
+      "Huhn"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Rindfleisch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe225/400/300"
+  },
+  {
+    "id": "sample-226",
+    "title": "Sushi Roll",
+    "category": "Salad",
+    "ingredients": [
+      "Mehl",
+      "Pfeffer",
+      "Reis",
+      "Eier",
+      "Rindfleisch",
+      "Petersilie"
+    ],
+    "instructions": "Rindfleisch in Salzwasser kochen, dann mit Pfeffer servieren.",
+    "image": "https://picsum.photos/seed/recipe226/400/300"
+  },
+  {
+    "id": "sample-227",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Zucker",
+      "Huhn",
+      "Eier",
+      "Mehl",
+      "Karotten",
+      "Reis",
+      "Tomaten"
+    ],
+    "instructions": "Huhn anbraten, Tomaten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe227/400/300"
+  },
+  {
+    "id": "sample-228",
+    "title": "Beef Stroganoff",
+    "category": "Salad",
+    "ingredients": [
+      "Spaghetti",
+      "Salz",
+      "Eier",
+      "Olivenöl"
+    ],
+    "instructions": "Spaghetti anbraten, Salz zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe228/400/300"
+  },
+  {
+    "id": "sample-229",
+    "title": "Beef Stroganoff",
+    "category": "Dessert",
+    "ingredients": [
+      "Chili",
+      "Milch",
+      "Zwiebeln",
+      "Huhn",
+      "Knoblauch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zwiebeln hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe229/400/300"
+  },
+  {
+    "id": "sample-230",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Huhn",
+      "Reis",
+      "Karotten",
+      "Petersilie",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Karotten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe230/400/300"
+  },
+  {
+    "id": "sample-231",
+    "title": "Chicken Curry",
+    "category": "Soup",
+    "ingredients": [
+      "Huhn",
+      "Rindfleisch",
+      "Reis",
+      "Karotten",
+      "Olivenöl",
+      "Zucker",
+      "Salz"
+    ],
+    "instructions": "Karotten in Salzwasser kochen, dann mit Salz servieren.",
+    "image": "https://picsum.photos/seed/recipe231/400/300"
+  },
+  {
+    "id": "sample-232",
+    "title": "Lasagne",
+    "category": "Dessert",
+    "ingredients": [
+      "Butter",
+      "Reis",
+      "Olivenöl",
+      "Spaghetti"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Olivenöl hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe232/400/300"
+  },
+  {
+    "id": "sample-233",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Snack",
+    "ingredients": [
+      "Pfeffer",
+      "Reis",
+      "Butter",
+      "Knoblauch",
+      "Chili"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Butter hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe233/400/300"
+  },
+  {
+    "id": "sample-234",
+    "title": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": [
+      "Knoblauch",
+      "Butter",
+      "Eier",
+      "Salz",
+      "Reis",
+      "Rindfleisch"
+    ],
+    "instructions": "Butter in Salzwasser kochen, dann mit Reis servieren.",
+    "image": "https://picsum.photos/seed/recipe234/400/300"
+  },
+  {
+    "id": "sample-235",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Spaghetti",
+      "Knoblauch",
+      "Mehl",
+      "Olivenöl",
+      "Chili"
+    ],
+    "instructions": "Spaghetti anbraten, Olivenöl zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe235/400/300"
+  },
+  {
+    "id": "sample-236",
+    "title": "Tomato Soup",
+    "category": "Pasta",
+    "ingredients": [
+      "Chili",
+      "Karotten",
+      "Rindfleisch",
+      "Huhn",
+      "Eier",
+      "Olivenöl",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Chili hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe236/400/300"
+  },
+  {
+    "id": "sample-237",
+    "title": "Chicken Curry",
+    "category": "Soup",
+    "ingredients": [
+      "Zucker",
+      "Olivenöl",
+      "Huhn",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zucker hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe237/400/300"
+  },
+  {
+    "id": "sample-238",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Karotten",
+      "Reis",
+      "Zucker",
+      "Butter",
+      "Olivenöl",
+      "Tomaten"
+    ],
+    "instructions": "Reis anbraten, Zucker zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe238/400/300"
+  },
+  {
+    "id": "sample-239",
+    "title": "Tiramisu",
+    "category": "Snack",
+    "ingredients": [
+      "Rindfleisch",
+      "Zwiebeln",
+      "Knoblauch",
+      "Butter",
+      "Chili",
+      "Salz",
+      "Olivenöl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Olivenöl hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe239/400/300"
+  },
+  {
+    "id": "sample-240",
+    "title": "Pad Thai",
+    "category": "Snack",
+    "ingredients": [
+      "Mehl",
+      "Tomaten",
+      "Petersilie",
+      "Zucker",
+      "Spaghetti",
+      "Milch",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Milch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe240/400/300"
+  },
+  {
+    "id": "sample-241",
+    "title": "Chicken Curry",
+    "category": "Dessert",
+    "ingredients": [
+      "Milch",
+      "Reis",
+      "Eier",
+      "Rindfleisch",
+      "Zwiebeln"
+    ],
+    "instructions": "Reis in Salzwasser kochen, dann mit Eier servieren.",
+    "image": "https://picsum.photos/seed/recipe241/400/300"
+  },
+  {
+    "id": "sample-242",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Salz",
+      "Mehl",
+      "Reis",
+      "Spaghetti"
+    ],
+    "instructions": "Spaghetti in Salzwasser kochen, dann mit Spaghetti servieren.",
+    "image": "https://picsum.photos/seed/recipe242/400/300"
+  },
+  {
+    "id": "sample-243",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Eier",
+      "Milch",
+      "Pfeffer",
+      "Huhn",
+      "Reis"
+    ],
+    "instructions": "Huhn in Salzwasser kochen, dann mit Milch servieren.",
+    "image": "https://picsum.photos/seed/recipe243/400/300"
+  },
+  {
+    "id": "sample-244",
+    "title": "Caesar Salad",
+    "category": "Soup",
+    "ingredients": [
+      "Knoblauch",
+      "Butter",
+      "Spaghetti",
+      "Milch"
+    ],
+    "instructions": "Knoblauch anbraten, Spaghetti zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe244/400/300"
+  },
+  {
+    "id": "sample-245",
+    "title": "Sushi Roll",
+    "category": "Soup",
+    "ingredients": [
+      "Knoblauch",
+      "Rindfleisch",
+      "Olivenöl",
+      "Pfeffer",
+      "Karotten",
+      "Chili",
+      "Reis"
+    ],
+    "instructions": "Pfeffer in Salzwasser kochen, dann mit Pfeffer servieren.",
+    "image": "https://picsum.photos/seed/recipe245/400/300"
+  },
+  {
+    "id": "sample-246",
+    "title": "Chicken Curry",
+    "category": "Main",
+    "ingredients": [
+      "Zucker",
+      "Butter",
+      "Eier",
+      "Zwiebeln",
+      "Mehl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe246/400/300"
+  },
+  {
+    "id": "sample-247",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Chili",
+      "Huhn",
+      "Milch",
+      "Salz",
+      "Knoblauch",
+      "Eier"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Salz hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe247/400/300"
+  },
+  {
+    "id": "sample-248",
+    "title": "Caesar Salad",
+    "category": "Snack",
+    "ingredients": [
+      "Olivenöl",
+      "Tomaten",
+      "Eier",
+      "Salz",
+      "Huhn",
+      "Petersilie"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Tomaten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe248/400/300"
+  },
+  {
+    "id": "sample-249",
+    "title": "Pad Thai",
+    "category": "Soup",
+    "ingredients": [
+      "Milch",
+      "Karotten",
+      "Tomaten",
+      "Olivenöl",
+      "Eier",
+      "Huhn",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Olivenöl hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe249/400/300"
+  },
+  {
+    "id": "sample-250",
+    "title": "Tiramisu",
+    "category": "Main",
+    "ingredients": [
+      "Petersilie",
+      "Rindfleisch",
+      "Chili",
+      "Zucker",
+      "Mehl",
+      "Milch",
+      "Pfeffer"
+    ],
+    "instructions": "Pfeffer anbraten, Rindfleisch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe250/400/300"
+  },
+  {
+    "id": "sample-251",
+    "title": "Chicken Curry",
+    "category": "Dessert",
+    "ingredients": [
+      "Olivenöl",
+      "Spaghetti",
+      "Knoblauch",
+      "Pfeffer",
+      "Eier",
+      "Chili"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe251/400/300"
+  },
+  {
+    "id": "sample-252",
+    "title": "Beef Stroganoff",
+    "category": "Soup",
+    "ingredients": [
+      "Karotten",
+      "Huhn",
+      "Butter",
+      "Eier",
+      "Zwiebeln",
+      "Olivenöl",
+      "Salz"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Karotten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe252/400/300"
+  },
+  {
+    "id": "sample-253",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Main",
+    "ingredients": [
+      "Eier",
+      "Pfeffer",
+      "Zucker",
+      "Butter"
+    ],
+    "instructions": "Pfeffer in Salzwasser kochen, dann mit Pfeffer servieren.",
+    "image": "https://picsum.photos/seed/recipe253/400/300"
+  },
+  {
+    "id": "sample-254",
+    "title": "Tiramisu",
+    "category": "Pasta",
+    "ingredients": [
+      "Tomaten",
+      "Milch",
+      "Rindfleisch",
+      "Knoblauch",
+      "Reis",
+      "Zucker",
+      "Zwiebeln"
+    ],
+    "instructions": "Zwiebeln in Salzwasser kochen, dann mit Zucker servieren.",
+    "image": "https://picsum.photos/seed/recipe254/400/300"
+  },
+  {
+    "id": "sample-255",
+    "title": "Caesar Salad",
+    "category": "Dessert",
+    "ingredients": [
+      "Eier",
+      "Tomaten",
+      "Salz",
+      "Milch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Eier hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe255/400/300"
+  },
+  {
+    "id": "sample-256",
+    "title": "Lasagne",
+    "category": "Pasta",
+    "ingredients": [
+      "Milch",
+      "Karotten",
+      "Zwiebeln",
+      "Eier",
+      "Butter"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Karotten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe256/400/300"
+  },
+  {
+    "id": "sample-257",
+    "title": "Carbonara",
+    "category": "Main",
+    "ingredients": [
+      "Chili",
+      "Zwiebeln",
+      "Rindfleisch",
+      "Milch",
+      "Knoblauch",
+      "Huhn"
+    ],
+    "instructions": "Huhn anbraten, Zwiebeln zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe257/400/300"
+  },
+  {
+    "id": "sample-258",
+    "title": "Sushi Roll",
+    "category": "Dessert",
+    "ingredients": [
+      "Zwiebeln",
+      "Mehl",
+      "Chili",
+      "Spaghetti"
+    ],
+    "instructions": "Spaghetti in Salzwasser kochen, dann mit Spaghetti servieren.",
+    "image": "https://picsum.photos/seed/recipe258/400/300"
+  },
+  {
+    "id": "sample-259",
+    "title": "Carbonara",
+    "category": "Dessert",
+    "ingredients": [
+      "Rindfleisch",
+      "Knoblauch",
+      "Spaghetti",
+      "Karotten",
+      "Olivenöl",
+      "Huhn",
+      "Tomaten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Knoblauch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe259/400/300"
+  },
+  {
+    "id": "sample-260",
+    "title": "Chicken Curry",
+    "category": "Soup",
+    "ingredients": [
+      "Tomaten",
+      "Knoblauch",
+      "Eier",
+      "Butter",
+      "Mehl"
+    ],
+    "instructions": "Mehl anbraten, Eier zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe260/400/300"
+  },
+  {
+    "id": "sample-261",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Snack",
+    "ingredients": [
+      "Mehl",
+      "Karotten",
+      "Petersilie",
+      "Milch",
+      "Butter"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Milch servieren.",
+    "image": "https://picsum.photos/seed/recipe261/400/300"
+  },
+  {
+    "id": "sample-262",
+    "title": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": [
+      "Olivenöl",
+      "Knoblauch",
+      "Huhn",
+      "Zucker"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Knoblauch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe262/400/300"
+  },
+  {
+    "id": "sample-263",
+    "title": "Chicken Curry",
+    "category": "Soup",
+    "ingredients": [
+      "Zucker",
+      "Karotten",
+      "Reis",
+      "Rindfleisch",
+      "Zwiebeln"
+    ],
+    "instructions": "Karotten anbraten, Zwiebeln zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe263/400/300"
+  },
+  {
+    "id": "sample-264",
+    "title": "Caesar Salad",
+    "category": "Dessert",
+    "ingredients": [
+      "Tomaten",
+      "Milch",
+      "Huhn",
+      "Zucker"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Tomaten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe264/400/300"
+  },
+  {
+    "id": "sample-265",
+    "title": "Beef Stroganoff",
+    "category": "Dessert",
+    "ingredients": [
+      "Rindfleisch",
+      "Knoblauch",
+      "Zwiebeln",
+      "Zucker",
+      "Huhn"
+    ],
+    "instructions": "Huhn anbraten, Zucker zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe265/400/300"
+  },
+  {
+    "id": "sample-266",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Chili",
+      "Milch",
+      "Spaghetti",
+      "Karotten",
+      "Tomaten"
+    ],
+    "instructions": "Karotten anbraten, Tomaten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe266/400/300"
+  },
+  {
+    "id": "sample-267",
+    "title": "Carbonara",
+    "category": "Snack",
+    "ingredients": [
+      "Tomaten",
+      "Karotten",
+      "Spaghetti",
+      "Eier",
+      "Butter",
+      "Petersilie"
+    ],
+    "instructions": "Petersilie anbraten, Spaghetti zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe267/400/300"
+  },
+  {
+    "id": "sample-268",
+    "title": "Chicken Curry",
+    "category": "Pasta",
+    "ingredients": [
+      "Eier",
+      "Huhn",
+      "Chili",
+      "Reis",
+      "Milch"
+    ],
+    "instructions": "Huhn in Salzwasser kochen, dann mit Eier servieren.",
+    "image": "https://picsum.photos/seed/recipe268/400/300"
+  },
+  {
+    "id": "sample-269",
+    "title": "Caesar Salad",
+    "category": "Snack",
+    "ingredients": [
+      "Olivenöl",
+      "Petersilie",
+      "Rindfleisch",
+      "Salz",
+      "Tomaten",
+      "Knoblauch",
+      "Eier"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe269/400/300"
+  },
+  {
+    "id": "sample-270",
+    "title": "Sushi Roll",
+    "category": "Pasta",
+    "ingredients": [
+      "Rindfleisch",
+      "Olivenöl",
+      "Zucker",
+      "Reis",
+      "Eier",
+      "Mehl",
+      "Salz"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Reis hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe270/400/300"
+  },
+  {
+    "id": "sample-271",
+    "title": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": [
+      "Eier",
+      "Rindfleisch",
+      "Tomaten",
+      "Spaghetti",
+      "Reis",
+      "Pfeffer",
+      "Zucker"
+    ],
+    "instructions": "Tomaten anbraten, Reis zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe271/400/300"
+  },
+  {
+    "id": "sample-272",
+    "title": "Pad Thai",
+    "category": "Snack",
+    "ingredients": [
+      "Olivenöl",
+      "Rindfleisch",
+      "Zucker",
+      "Zwiebeln",
+      "Reis",
+      "Chili",
+      "Petersilie"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Chili hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe272/400/300"
+  },
+  {
+    "id": "sample-273",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Knoblauch",
+      "Rindfleisch",
+      "Zucker",
+      "Chili",
+      "Mehl",
+      "Petersilie"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zucker hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe273/400/300"
+  },
+  {
+    "id": "sample-274",
+    "title": "Pad Thai",
+    "category": "Salad",
+    "ingredients": [
+      "Salz",
+      "Milch",
+      "Zwiebeln",
+      "Chili",
+      "Reis"
+    ],
+    "instructions": "Milch in Salzwasser kochen, dann mit Zwiebeln servieren.",
+    "image": "https://picsum.photos/seed/recipe274/400/300"
+  },
+  {
+    "id": "sample-275",
+    "title": "Carbonara",
+    "category": "Dessert",
+    "ingredients": [
+      "Olivenöl",
+      "Knoblauch",
+      "Zucker",
+      "Karotten",
+      "Huhn",
+      "Butter",
+      "Rindfleisch"
+    ],
+    "instructions": "Knoblauch anbraten, Rindfleisch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe275/400/300"
+  },
+  {
+    "id": "sample-276",
+    "title": "Sushi Roll",
+    "category": "Pasta",
+    "ingredients": [
+      "Milch",
+      "Knoblauch",
+      "Huhn",
+      "Zwiebeln",
+      "Salz",
+      "Chili"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Knoblauch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe276/400/300"
+  },
+  {
+    "id": "sample-277",
+    "title": "Tomato Soup",
+    "category": "Main",
+    "ingredients": [
+      "Milch",
+      "Rindfleisch",
+      "Knoblauch",
+      "Huhn"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe277/400/300"
+  },
+  {
+    "id": "sample-278",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Butter",
+      "Salz",
+      "Reis",
+      "Rindfleisch",
+      "Tomaten",
+      "Huhn",
+      "Petersilie"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Salz hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe278/400/300"
+  },
+  {
+    "id": "sample-279",
+    "title": "Beef Stroganoff",
+    "category": "Soup",
+    "ingredients": [
+      "Reis",
+      "Chili",
+      "Petersilie",
+      "Spaghetti",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Reis hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe279/400/300"
+  },
+  {
+    "id": "sample-280",
+    "title": "Tiramisu",
+    "category": "Snack",
+    "ingredients": [
+      "Spaghetti",
+      "Zwiebeln",
+      "Butter",
+      "Mehl",
+      "Knoblauch",
+      "Reis",
+      "Rindfleisch"
+    ],
+    "instructions": "Reis anbraten, Reis zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe280/400/300"
+  },
+  {
+    "id": "sample-281",
+    "title": "Chicken Curry",
+    "category": "Salad",
+    "ingredients": [
+      "Zucker",
+      "Chili",
+      "Olivenöl",
+      "Spaghetti",
+      "Butter",
+      "Karotten",
+      "Milch"
+    ],
+    "instructions": "Butter in Salzwasser kochen, dann mit Milch servieren.",
+    "image": "https://picsum.photos/seed/recipe281/400/300"
+  },
+  {
+    "id": "sample-282",
+    "title": "Beef Stroganoff",
+    "category": "Pasta",
+    "ingredients": [
+      "Rindfleisch",
+      "Reis",
+      "Knoblauch",
+      "Karotten",
+      "Eier"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Karotten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe282/400/300"
+  },
+  {
+    "id": "sample-283",
+    "title": "Beef Stroganoff",
+    "category": "Main",
+    "ingredients": [
+      "Zucker",
+      "Tomaten",
+      "Huhn",
+      "Reis",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe283/400/300"
+  },
+  {
+    "id": "sample-284",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Petersilie",
+      "Rindfleisch",
+      "Spaghetti",
+      "Salz"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Spaghetti hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe284/400/300"
+  },
+  {
+    "id": "sample-285",
+    "title": "Beef Stroganoff",
+    "category": "Main",
+    "ingredients": [
+      "Spaghetti",
+      "Chili",
+      "Rindfleisch",
+      "Tomaten"
+    ],
+    "instructions": "Chili anbraten, Tomaten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe285/400/300"
+  },
+  {
+    "id": "sample-286",
+    "title": "Pad Thai",
+    "category": "Main",
+    "ingredients": [
+      "Eier",
+      "Knoblauch",
+      "Petersilie",
+      "Rindfleisch"
+    ],
+    "instructions": "Petersilie anbraten, Petersilie zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe286/400/300"
+  },
+  {
+    "id": "sample-287",
+    "title": "Tiramisu",
+    "category": "Main",
+    "ingredients": [
+      "Mehl",
+      "Karotten",
+      "Salz",
+      "Reis",
+      "Zucker",
+      "Rindfleisch"
+    ],
+    "instructions": "Zucker anbraten, Reis zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe287/400/300"
+  },
+  {
+    "id": "sample-288",
+    "title": "Pad Thai",
+    "category": "Main",
+    "ingredients": [
+      "Reis",
+      "Knoblauch",
+      "Chili",
+      "Eier"
+    ],
+    "instructions": "Eier in Salzwasser kochen, dann mit Knoblauch servieren.",
+    "image": "https://picsum.photos/seed/recipe288/400/300"
+  },
+  {
+    "id": "sample-289",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Pasta",
+    "ingredients": [
+      "Huhn",
+      "Olivenöl",
+      "Butter",
+      "Tomaten",
+      "Zucker",
+      "Zwiebeln",
+      "Rindfleisch"
+    ],
+    "instructions": "Olivenöl anbraten, Tomaten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe289/400/300"
+  },
+  {
+    "id": "sample-290",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Chili",
+      "Rindfleisch",
+      "Tomaten",
+      "Zwiebeln",
+      "Knoblauch",
+      "Salz"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Salz hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe290/400/300"
+  },
+  {
+    "id": "sample-291",
+    "title": "Sushi Roll",
+    "category": "Pasta",
+    "ingredients": [
+      "Spaghetti",
+      "Milch",
+      "Huhn",
+      "Salz",
+      "Olivenöl",
+      "Chili",
+      "Rindfleisch"
+    ],
+    "instructions": "Olivenöl in Salzwasser kochen, dann mit Olivenöl servieren.",
+    "image": "https://picsum.photos/seed/recipe291/400/300"
+  },
+  {
+    "id": "sample-292",
+    "title": "Chicken Curry",
+    "category": "Salad",
+    "ingredients": [
+      "Spaghetti",
+      "Milch",
+      "Chili",
+      "Zucker",
+      "Zwiebeln",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Chili hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe292/400/300"
+  },
+  {
+    "id": "sample-293",
+    "title": "Tomato Soup",
+    "category": "Pasta",
+    "ingredients": [
+      "Zwiebeln",
+      "Petersilie",
+      "Karotten",
+      "Milch"
+    ],
+    "instructions": "Milch anbraten, Milch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe293/400/300"
+  },
+  {
+    "id": "sample-294",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Salz",
+      "Huhn",
+      "Spaghetti",
+      "Knoblauch"
+    ],
+    "instructions": "Huhn anbraten, Knoblauch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe294/400/300"
+  },
+  {
+    "id": "sample-295",
+    "title": "Tiramisu",
+    "category": "Snack",
+    "ingredients": [
+      "Knoblauch",
+      "Petersilie",
+      "Pfeffer",
+      "Huhn"
+    ],
+    "instructions": "Petersilie anbraten, Knoblauch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe295/400/300"
+  },
+  {
+    "id": "sample-296",
+    "title": "Caesar Salad",
+    "category": "Soup",
+    "ingredients": [
+      "Milch",
+      "Karotten",
+      "Salz",
+      "Olivenöl",
+      "Butter"
+    ],
+    "instructions": "Olivenöl in Salzwasser kochen, dann mit Olivenöl servieren.",
+    "image": "https://picsum.photos/seed/recipe296/400/300"
+  },
+  {
+    "id": "sample-297",
+    "title": "Lasagne",
+    "category": "Pasta",
+    "ingredients": [
+      "Butter",
+      "Rindfleisch",
+      "Chili",
+      "Spaghetti"
+    ],
+    "instructions": "Spaghetti in Salzwasser kochen, dann mit Butter servieren.",
+    "image": "https://picsum.photos/seed/recipe297/400/300"
+  },
+  {
+    "id": "sample-298",
+    "title": "Beef Stroganoff",
+    "category": "Dessert",
+    "ingredients": [
+      "Petersilie",
+      "Eier",
+      "Zucker",
+      "Knoblauch"
+    ],
+    "instructions": "Eier anbraten, Eier zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe298/400/300"
+  },
+  {
+    "id": "sample-299",
+    "title": "Beef Stroganoff",
+    "category": "Dessert",
+    "ingredients": [
+      "Pfeffer",
+      "Huhn",
+      "Reis",
+      "Knoblauch",
+      "Milch"
+    ],
+    "instructions": "Huhn anbraten, Reis zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe299/400/300"
+  },
+  {
+    "id": "sample-300",
+    "title": "Lasagne",
+    "category": "Dessert",
+    "ingredients": [
+      "Eier",
+      "Rindfleisch",
+      "Huhn",
+      "Zwiebeln",
+      "Tomaten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe300/400/300"
+  },
+  {
+    "id": "sample-301",
+    "title": "Lasagne",
+    "category": "Pasta",
+    "ingredients": [
+      "Milch",
+      "Zucker",
+      "Mehl",
+      "Petersilie",
+      "Knoblauch"
+    ],
+    "instructions": "Petersilie in Salzwasser kochen, dann mit Milch servieren.",
+    "image": "https://picsum.photos/seed/recipe301/400/300"
+  },
+  {
+    "id": "sample-302",
+    "title": "Caesar Salad",
+    "category": "Dessert",
+    "ingredients": [
+      "Salz",
+      "Mehl",
+      "Zwiebeln",
+      "Karotten",
+      "Huhn",
+      "Pfeffer",
+      "Olivenöl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe302/400/300"
+  },
+  {
+    "id": "sample-303",
+    "title": "Tiramisu",
+    "category": "Salad",
+    "ingredients": [
+      "Karotten",
+      "Eier",
+      "Huhn",
+      "Salz",
+      "Olivenöl",
+      "Reis",
+      "Petersilie"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Olivenöl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe303/400/300"
+  },
+  {
+    "id": "sample-304",
+    "title": "Beef Stroganoff",
+    "category": "Soup",
+    "ingredients": [
+      "Huhn",
+      "Salz",
+      "Karotten",
+      "Petersilie",
+      "Pfeffer",
+      "Zwiebeln"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Huhn hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe304/400/300"
+  },
+  {
+    "id": "sample-305",
+    "title": "Sushi Roll",
+    "category": "Soup",
+    "ingredients": [
+      "Chili",
+      "Eier",
+      "Rindfleisch",
+      "Olivenöl",
+      "Reis",
+      "Knoblauch",
+      "Tomaten"
+    ],
+    "instructions": "Olivenöl in Salzwasser kochen, dann mit Eier servieren.",
+    "image": "https://picsum.photos/seed/recipe305/400/300"
+  },
+  {
+    "id": "sample-306",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Knoblauch",
+      "Eier",
+      "Milch",
+      "Rindfleisch",
+      "Zucker",
+      "Pfeffer"
+    ],
+    "instructions": "Knoblauch anbraten, Zucker zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe306/400/300"
+  },
+  {
+    "id": "sample-307",
+    "title": "Sushi Roll",
+    "category": "Main",
+    "ingredients": [
+      "Huhn",
+      "Zucker",
+      "Butter",
+      "Pfeffer"
+    ],
+    "instructions": "Zucker anbraten, Butter zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe307/400/300"
+  },
+  {
+    "id": "sample-308",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Pasta",
+    "ingredients": [
+      "Tomaten",
+      "Huhn",
+      "Mehl",
+      "Olivenöl",
+      "Pfeffer",
+      "Chili",
+      "Eier"
+    ],
+    "instructions": "Mehl anbraten, Chili zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe308/400/300"
+  },
+  {
+    "id": "sample-309",
+    "title": "Sushi Roll",
+    "category": "Snack",
+    "ingredients": [
+      "Chili",
+      "Knoblauch",
+      "Pfeffer",
+      "Huhn",
+      "Milch",
+      "Eier"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Huhn hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe309/400/300"
+  },
+  {
+    "id": "sample-310",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Reis",
+      "Tomaten",
+      "Chili",
+      "Eier",
+      "Pfeffer",
+      "Mehl",
+      "Milch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe310/400/300"
+  },
+  {
+    "id": "sample-311",
+    "title": "Chicken Curry",
+    "category": "Snack",
+    "ingredients": [
+      "Rindfleisch",
+      "Knoblauch",
+      "Chili",
+      "Butter",
+      "Olivenöl",
+      "Salz"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Salz hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe311/400/300"
+  },
+  {
+    "id": "sample-312",
+    "title": "Caesar Salad",
+    "category": "Dessert",
+    "ingredients": [
+      "Rindfleisch",
+      "Milch",
+      "Huhn",
+      "Salz"
+    ],
+    "instructions": "Milch in Salzwasser kochen, dann mit Rindfleisch servieren.",
+    "image": "https://picsum.photos/seed/recipe312/400/300"
+  },
+  {
+    "id": "sample-313",
+    "title": "Carbonara",
+    "category": "Soup",
+    "ingredients": [
+      "Reis",
+      "Huhn",
+      "Chili",
+      "Salz",
+      "Olivenöl",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Karotten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe313/400/300"
+  },
+  {
+    "id": "sample-314",
+    "title": "Carbonara",
+    "category": "Soup",
+    "ingredients": [
+      "Chili",
+      "Eier",
+      "Butter",
+      "Milch",
+      "Karotten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Eier hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe314/400/300"
+  },
+  {
+    "id": "sample-315",
+    "title": "Carbonara",
+    "category": "Soup",
+    "ingredients": [
+      "Huhn",
+      "Mehl",
+      "Milch",
+      "Spaghetti",
+      "Olivenöl",
+      "Salz"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Salz hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe315/400/300"
+  },
+  {
+    "id": "sample-316",
+    "title": "Beef Stroganoff",
+    "category": "Dessert",
+    "ingredients": [
+      "Eier",
+      "Reis",
+      "Tomaten",
+      "Butter",
+      "Zwiebeln",
+      "Knoblauch",
+      "Salz"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Butter hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe316/400/300"
+  },
+  {
+    "id": "sample-317",
+    "title": "Caesar Salad",
+    "category": "Snack",
+    "ingredients": [
+      "Rindfleisch",
+      "Eier",
+      "Mehl",
+      "Reis"
+    ],
+    "instructions": "Reis in Salzwasser kochen, dann mit Rindfleisch servieren.",
+    "image": "https://picsum.photos/seed/recipe317/400/300"
+  },
+  {
+    "id": "sample-318",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Snack",
+    "ingredients": [
+      "Karotten",
+      "Rindfleisch",
+      "Milch",
+      "Olivenöl",
+      "Zucker",
+      "Petersilie",
+      "Eier"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Olivenöl hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe318/400/300"
+  },
+  {
+    "id": "sample-319",
+    "title": "Lasagne",
+    "category": "Main",
+    "ingredients": [
+      "Tomaten",
+      "Pfeffer",
+      "Mehl",
+      "Butter",
+      "Salz",
+      "Reis"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Salz hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe319/400/300"
+  },
+  {
+    "id": "sample-320",
+    "title": "Tomato Soup",
+    "category": "Main",
+    "ingredients": [
+      "Petersilie",
+      "Spaghetti",
+      "Chili",
+      "Mehl"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Petersilie hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe320/400/300"
+  },
+  {
+    "id": "sample-321",
+    "title": "Carbonara",
+    "category": "Dessert",
+    "ingredients": [
+      "Reis",
+      "Olivenöl",
+      "Karotten",
+      "Zwiebeln",
+      "Spaghetti"
+    ],
+    "instructions": "Spaghetti in Salzwasser kochen, dann mit Karotten servieren.",
+    "image": "https://picsum.photos/seed/recipe321/400/300"
+  },
+  {
+    "id": "sample-322",
+    "title": "Carbonara",
+    "category": "Salad",
+    "ingredients": [
+      "Reis",
+      "Mehl",
+      "Milch",
+      "Rindfleisch",
+      "Zucker",
+      "Petersilie"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe322/400/300"
+  },
+  {
+    "id": "sample-323",
+    "title": "Lasagne",
+    "category": "Pasta",
+    "ingredients": [
+      "Olivenöl",
+      "Mehl",
+      "Huhn",
+      "Butter"
+    ],
+    "instructions": "Olivenöl in Salzwasser kochen, dann mit Olivenöl servieren.",
+    "image": "https://picsum.photos/seed/recipe323/400/300"
+  },
+  {
+    "id": "sample-324",
+    "title": "Tomato Soup",
+    "category": "Salad",
+    "ingredients": [
+      "Tomaten",
+      "Reis",
+      "Zwiebeln",
+      "Karotten",
+      "Olivenöl",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Milch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe324/400/300"
+  },
+  {
+    "id": "sample-325",
+    "title": "Pad Thai",
+    "category": "Pasta",
+    "ingredients": [
+      "Reis",
+      "Zwiebeln",
+      "Salz",
+      "Eier",
+      "Tomaten",
+      "Olivenöl"
+    ],
+    "instructions": "Tomaten anbraten, Reis zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe325/400/300"
+  },
+  {
+    "id": "sample-326",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Soup",
+    "ingredients": [
+      "Eier",
+      "Reis",
+      "Rindfleisch",
+      "Knoblauch",
+      "Zucker",
+      "Zwiebeln"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Knoblauch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe326/400/300"
+  },
+  {
+    "id": "sample-327",
+    "title": "Caesar Salad",
+    "category": "Salad",
+    "ingredients": [
+      "Huhn",
+      "Butter",
+      "Karotten",
+      "Zwiebeln",
+      "Salz",
+      "Tomaten",
+      "Chili"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Karotten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe327/400/300"
+  },
+  {
+    "id": "sample-328",
+    "title": "Sushi Roll",
+    "category": "Soup",
+    "ingredients": [
+      "Huhn",
+      "Chili",
+      "Reis",
+      "Knoblauch",
+      "Rindfleisch"
+    ],
+    "instructions": "Knoblauch in Salzwasser kochen, dann mit Rindfleisch servieren.",
+    "image": "https://picsum.photos/seed/recipe328/400/300"
+  },
+  {
+    "id": "sample-329",
+    "title": "Caesar Salad",
+    "category": "Snack",
+    "ingredients": [
+      "Spaghetti",
+      "Pfeffer",
+      "Karotten",
+      "Milch",
+      "Huhn",
+      "Zucker"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Milch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe329/400/300"
+  },
+  {
+    "id": "sample-330",
+    "title": "Tomato Soup",
+    "category": "Salad",
+    "ingredients": [
+      "Zwiebeln",
+      "Eier",
+      "Salz",
+      "Olivenöl",
+      "Chili"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Olivenöl hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe330/400/300"
+  },
+  {
+    "id": "sample-331",
+    "title": "Carbonara",
+    "category": "Main",
+    "ingredients": [
+      "Zucker",
+      "Mehl",
+      "Huhn",
+      "Butter"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zucker hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe331/400/300"
+  },
+  {
+    "id": "sample-332",
+    "title": "Chicken Curry",
+    "category": "Dessert",
+    "ingredients": [
+      "Rindfleisch",
+      "Zwiebeln",
+      "Milch",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zwiebeln hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe332/400/300"
+  },
+  {
+    "id": "sample-333",
+    "title": "Tomato Soup",
+    "category": "Salad",
+    "ingredients": [
+      "Rindfleisch",
+      "Petersilie",
+      "Butter",
+      "Salz",
+      "Milch",
+      "Zucker"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe333/400/300"
+  },
+  {
+    "id": "sample-334",
+    "title": "Carbonara",
+    "category": "Dessert",
+    "ingredients": [
+      "Chili",
+      "Zwiebeln",
+      "Tomaten",
+      "Knoblauch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Knoblauch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe334/400/300"
+  },
+  {
+    "id": "sample-335",
+    "title": "Tiramisu",
+    "category": "Main",
+    "ingredients": [
+      "Mehl",
+      "Tomaten",
+      "Zucker",
+      "Petersilie",
+      "Rindfleisch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Tomaten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe335/400/300"
+  },
+  {
+    "id": "sample-336",
+    "title": "Beef Stroganoff",
+    "category": "Snack",
+    "ingredients": [
+      "Tomaten",
+      "Zwiebeln",
+      "Huhn",
+      "Butter"
+    ],
+    "instructions": "Zwiebeln in Salzwasser kochen, dann mit Butter servieren.",
+    "image": "https://picsum.photos/seed/recipe336/400/300"
+  },
+  {
+    "id": "sample-337",
+    "title": "Chicken Curry",
+    "category": "Pasta",
+    "ingredients": [
+      "Zwiebeln",
+      "Knoblauch",
+      "Rindfleisch",
+      "Tomaten"
+    ],
+    "instructions": "Zwiebeln anbraten, Zwiebeln zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe337/400/300"
+  },
+  {
+    "id": "sample-338",
+    "title": "Beef Stroganoff",
+    "category": "Snack",
+    "ingredients": [
+      "Zwiebeln",
+      "Reis",
+      "Karotten",
+      "Milch",
+      "Rindfleisch",
+      "Petersilie"
+    ],
+    "instructions": "Milch anbraten, Milch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe338/400/300"
+  },
+  {
+    "id": "sample-339",
+    "title": "Caesar Salad",
+    "category": "Salad",
+    "ingredients": [
+      "Karotten",
+      "Pfeffer",
+      "Tomaten",
+      "Knoblauch"
+    ],
+    "instructions": "Knoblauch anbraten, Knoblauch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe339/400/300"
+  },
+  {
+    "id": "sample-340",
+    "title": "Pad Thai",
+    "category": "Snack",
+    "ingredients": [
+      "Butter",
+      "Rindfleisch",
+      "Huhn",
+      "Zwiebeln",
+      "Tomaten",
+      "Knoblauch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Huhn hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe340/400/300"
+  },
+  {
+    "id": "sample-341",
+    "title": "Sushi Roll",
+    "category": "Main",
+    "ingredients": [
+      "Chili",
+      "Eier",
+      "Salz",
+      "Milch",
+      "Zucker",
+      "Huhn"
+    ],
+    "instructions": "Eier anbraten, Milch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe341/400/300"
+  },
+  {
+    "id": "sample-342",
+    "title": "Lasagne",
+    "category": "Snack",
+    "ingredients": [
+      "Rindfleisch",
+      "Spaghetti",
+      "Olivenöl",
+      "Pfeffer",
+      "Tomaten",
+      "Eier",
+      "Salz"
+    ],
+    "instructions": "Olivenöl anbraten, Spaghetti zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe342/400/300"
+  },
+  {
+    "id": "sample-343",
+    "title": "Chicken Curry",
+    "category": "Soup",
+    "ingredients": [
+      "Chili",
+      "Reis",
+      "Knoblauch",
+      "Spaghetti"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Spaghetti hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe343/400/300"
+  },
+  {
+    "id": "sample-344",
+    "title": "Chicken Curry",
+    "category": "Main",
+    "ingredients": [
+      "Salz",
+      "Zwiebeln",
+      "Petersilie",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe344/400/300"
+  },
+  {
+    "id": "sample-345",
+    "title": "Beef Stroganoff",
+    "category": "Dessert",
+    "ingredients": [
+      "Eier",
+      "Knoblauch",
+      "Chili",
+      "Petersilie"
+    ],
+    "instructions": "Eier in Salzwasser kochen, dann mit Chili servieren.",
+    "image": "https://picsum.photos/seed/recipe345/400/300"
+  },
+  {
+    "id": "sample-346",
+    "title": "Pad Thai",
+    "category": "Snack",
+    "ingredients": [
+      "Zucker",
+      "Pfeffer",
+      "Knoblauch",
+      "Karotten",
+      "Chili",
+      "Rindfleisch"
+    ],
+    "instructions": "Rindfleisch in Salzwasser kochen, dann mit Karotten servieren.",
+    "image": "https://picsum.photos/seed/recipe346/400/300"
+  },
+  {
+    "id": "sample-347",
+    "title": "Pad Thai",
+    "category": "Dessert",
+    "ingredients": [
+      "Petersilie",
+      "Olivenöl",
+      "Chili",
+      "Spaghetti",
+      "Salz"
+    ],
+    "instructions": "Petersilie in Salzwasser kochen, dann mit Spaghetti servieren.",
+    "image": "https://picsum.photos/seed/recipe347/400/300"
+  },
+  {
+    "id": "sample-348",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Reis",
+      "Huhn",
+      "Salz",
+      "Milch",
+      "Mehl",
+      "Zwiebeln"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Milch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe348/400/300"
+  },
+  {
+    "id": "sample-349",
+    "title": "Pad Thai",
+    "category": "Snack",
+    "ingredients": [
+      "Milch",
+      "Salz",
+      "Olivenöl",
+      "Zucker",
+      "Chili",
+      "Karotten",
+      "Zwiebeln"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zwiebeln hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe349/400/300"
+  },
+  {
+    "id": "sample-350",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Soup",
+    "ingredients": [
+      "Zucker",
+      "Eier",
+      "Karotten",
+      "Rindfleisch",
+      "Salz"
+    ],
+    "instructions": "Zucker in Salzwasser kochen, dann mit Eier servieren.",
+    "image": "https://picsum.photos/seed/recipe350/400/300"
+  },
+  {
+    "id": "sample-351",
+    "title": "Chicken Curry",
+    "category": "Dessert",
+    "ingredients": [
+      "Chili",
+      "Huhn",
+      "Mehl",
+      "Butter"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Mehl hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe351/400/300"
+  },
+  {
+    "id": "sample-352",
+    "title": "Tiramisu",
+    "category": "Soup",
+    "ingredients": [
+      "Huhn",
+      "Spaghetti",
+      "Reis",
+      "Butter"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Butter hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe352/400/300"
+  },
+  {
+    "id": "sample-353",
+    "title": "Sushi Roll",
+    "category": "Dessert",
+    "ingredients": [
+      "Olivenöl",
+      "Karotten",
+      "Chili",
+      "Reis",
+      "Rindfleisch",
+      "Knoblauch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Chili hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe353/400/300"
+  },
+  {
+    "id": "sample-354",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Chili",
+      "Petersilie",
+      "Mehl",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Karotten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe354/400/300"
+  },
+  {
+    "id": "sample-355",
+    "title": "Chicken Curry",
+    "category": "Dessert",
+    "ingredients": [
+      "Mehl",
+      "Tomaten",
+      "Rindfleisch",
+      "Reis",
+      "Pfeffer"
+    ],
+    "instructions": "Pfeffer in Salzwasser kochen, dann mit Reis servieren.",
+    "image": "https://picsum.photos/seed/recipe355/400/300"
+  },
+  {
+    "id": "sample-356",
+    "title": "Tiramisu",
+    "category": "Soup",
+    "ingredients": [
+      "Eier",
+      "Spaghetti",
+      "Tomaten",
+      "Salz"
+    ],
+    "instructions": "Salz anbraten, Eier zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe356/400/300"
+  },
+  {
+    "id": "sample-357",
+    "title": "Sushi Roll",
+    "category": "Main",
+    "ingredients": [
+      "Knoblauch",
+      "Milch",
+      "Tomaten",
+      "Eier",
+      "Rindfleisch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Knoblauch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe357/400/300"
+  },
+  {
+    "id": "sample-358",
+    "title": "Tomato Soup",
+    "category": "Dessert",
+    "ingredients": [
+      "Olivenöl",
+      "Eier",
+      "Zwiebeln",
+      "Tomaten"
+    ],
+    "instructions": "Tomaten in Salzwasser kochen, dann mit Zwiebeln servieren.",
+    "image": "https://picsum.photos/seed/recipe358/400/300"
+  },
+  {
+    "id": "sample-359",
+    "title": "Carbonara",
+    "category": "Pasta",
+    "ingredients": [
+      "Chili",
+      "Olivenöl",
+      "Butter",
+      "Reis",
+      "Mehl",
+      "Tomaten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Olivenöl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe359/400/300"
+  },
+  {
+    "id": "sample-360",
+    "title": "Carbonara",
+    "category": "Soup",
+    "ingredients": [
+      "Knoblauch",
+      "Zwiebeln",
+      "Eier",
+      "Spaghetti",
+      "Milch",
+      "Reis"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Milch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe360/400/300"
+  },
+  {
+    "id": "sample-361",
+    "title": "Carbonara",
+    "category": "Snack",
+    "ingredients": [
+      "Spaghetti",
+      "Zucker",
+      "Karotten",
+      "Chili",
+      "Eier",
+      "Reis",
+      "Rindfleisch"
+    ],
+    "instructions": "Reis in Salzwasser kochen, dann mit Zucker servieren.",
+    "image": "https://picsum.photos/seed/recipe361/400/300"
+  },
+  {
+    "id": "sample-362",
+    "title": "Lasagne",
+    "category": "Snack",
+    "ingredients": [
+      "Salz",
+      "Eier",
+      "Knoblauch",
+      "Huhn",
+      "Reis"
+    ],
+    "instructions": "Knoblauch anbraten, Huhn zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe362/400/300"
+  },
+  {
+    "id": "sample-363",
+    "title": "Tiramisu",
+    "category": "Snack",
+    "ingredients": [
+      "Pfeffer",
+      "Huhn",
+      "Eier",
+      "Milch",
+      "Spaghetti"
+    ],
+    "instructions": "Spaghetti anbraten, Huhn zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe363/400/300"
+  },
+  {
+    "id": "sample-364",
+    "title": "Carbonara",
+    "category": "Soup",
+    "ingredients": [
+      "Spaghetti",
+      "Tomaten",
+      "Rindfleisch",
+      "Karotten",
+      "Chili",
+      "Knoblauch",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe364/400/300"
+  },
+  {
+    "id": "sample-365",
+    "title": "Lasagne",
+    "category": "Pasta",
+    "ingredients": [
+      "Tomaten",
+      "Rindfleisch",
+      "Karotten",
+      "Zucker",
+      "Zwiebeln",
+      "Knoblauch",
+      "Olivenöl"
+    ],
+    "instructions": "Olivenöl in Salzwasser kochen, dann mit Zucker servieren.",
+    "image": "https://picsum.photos/seed/recipe365/400/300"
+  },
+  {
+    "id": "sample-366",
+    "title": "Caesar Salad",
+    "category": "Snack",
+    "ingredients": [
+      "Zucker",
+      "Mehl",
+      "Spaghetti",
+      "Olivenöl",
+      "Butter",
+      "Eier"
+    ],
+    "instructions": "Spaghetti in Salzwasser kochen, dann mit Butter servieren.",
+    "image": "https://picsum.photos/seed/recipe366/400/300"
+  },
+  {
+    "id": "sample-367",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Soup",
+    "ingredients": [
+      "Petersilie",
+      "Chili",
+      "Salz",
+      "Olivenöl",
+      "Mehl"
+    ],
+    "instructions": "Petersilie in Salzwasser kochen, dann mit Salz servieren.",
+    "image": "https://picsum.photos/seed/recipe367/400/300"
+  },
+  {
+    "id": "sample-368",
+    "title": "Sushi Roll",
+    "category": "Main",
+    "ingredients": [
+      "Zucker",
+      "Knoblauch",
+      "Spaghetti",
+      "Salz",
+      "Pfeffer"
+    ],
+    "instructions": "Salz in Salzwasser kochen, dann mit Spaghetti servieren.",
+    "image": "https://picsum.photos/seed/recipe368/400/300"
+  },
+  {
+    "id": "sample-369",
+    "title": "Sushi Roll",
+    "category": "Dessert",
+    "ingredients": [
+      "Salz",
+      "Huhn",
+      "Eier",
+      "Tomaten",
+      "Petersilie"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Petersilie hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe369/400/300"
+  },
+  {
+    "id": "sample-370",
+    "title": "Beef Stroganoff",
+    "category": "Pasta",
+    "ingredients": [
+      "Milch",
+      "Petersilie",
+      "Karotten",
+      "Pfeffer"
+    ],
+    "instructions": "Petersilie in Salzwasser kochen, dann mit Pfeffer servieren.",
+    "image": "https://picsum.photos/seed/recipe370/400/300"
+  },
+  {
+    "id": "sample-371",
+    "title": "Tiramisu",
+    "category": "Main",
+    "ingredients": [
+      "Milch",
+      "Eier",
+      "Zwiebeln",
+      "Petersilie",
+      "Zucker",
+      "Tomaten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zucker hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe371/400/300"
+  },
+  {
+    "id": "sample-372",
+    "title": "Carbonara",
+    "category": "Main",
+    "ingredients": [
+      "Tomaten",
+      "Pfeffer",
+      "Mehl",
+      "Petersilie",
+      "Knoblauch",
+      "Huhn",
+      "Olivenöl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Tomaten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe372/400/300"
+  },
+  {
+    "id": "sample-373",
+    "title": "Carbonara",
+    "category": "Soup",
+    "ingredients": [
+      "Rindfleisch",
+      "Karotten",
+      "Pfeffer",
+      "Tomaten",
+      "Spaghetti",
+      "Mehl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe373/400/300"
+  },
+  {
+    "id": "sample-374",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Salad",
+    "ingredients": [
+      "Chili",
+      "Zwiebeln",
+      "Huhn",
+      "Petersilie",
+      "Mehl",
+      "Salz",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Milch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe374/400/300"
+  },
+  {
+    "id": "sample-375",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Dessert",
+    "ingredients": [
+      "Zwiebeln",
+      "Huhn",
+      "Chili",
+      "Eier",
+      "Spaghetti",
+      "Petersilie"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Huhn hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe375/400/300"
+  },
+  {
+    "id": "sample-376",
+    "title": "Tomato Soup",
+    "category": "Main",
+    "ingredients": [
+      "Eier",
+      "Mehl",
+      "Salz",
+      "Pfeffer",
+      "Chili"
+    ],
+    "instructions": "Eier anbraten, Eier zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe376/400/300"
+  },
+  {
+    "id": "sample-377",
+    "title": "Beef Stroganoff",
+    "category": "Dessert",
+    "ingredients": [
+      "Huhn",
+      "Karotten",
+      "Salz",
+      "Knoblauch",
+      "Reis",
+      "Rindfleisch",
+      "Olivenöl"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Salz hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe377/400/300"
+  },
+  {
+    "id": "sample-378",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Salad",
+    "ingredients": [
+      "Huhn",
+      "Salz",
+      "Zucker",
+      "Butter"
+    ],
+    "instructions": "Salz in Salzwasser kochen, dann mit Huhn servieren.",
+    "image": "https://picsum.photos/seed/recipe378/400/300"
+  },
+  {
+    "id": "sample-379",
+    "title": "Tiramisu",
+    "category": "Salad",
+    "ingredients": [
+      "Reis",
+      "Zwiebeln",
+      "Mehl",
+      "Petersilie",
+      "Knoblauch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Knoblauch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe379/400/300"
+  },
+  {
+    "id": "sample-380",
+    "title": "Sushi Roll",
+    "category": "Dessert",
+    "ingredients": [
+      "Zwiebeln",
+      "Knoblauch",
+      "Huhn",
+      "Spaghetti",
+      "Petersilie"
+    ],
+    "instructions": "Knoblauch in Salzwasser kochen, dann mit Huhn servieren.",
+    "image": "https://picsum.photos/seed/recipe380/400/300"
+  },
+  {
+    "id": "sample-381",
+    "title": "Carbonara",
+    "category": "Pasta",
+    "ingredients": [
+      "Tomaten",
+      "Eier",
+      "Milch",
+      "Huhn",
+      "Reis",
+      "Butter",
+      "Rindfleisch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe381/400/300"
+  },
+  {
+    "id": "sample-382",
+    "title": "Chicken Curry",
+    "category": "Snack",
+    "ingredients": [
+      "Eier",
+      "Salz",
+      "Knoblauch",
+      "Olivenöl"
+    ],
+    "instructions": "Knoblauch anbraten, Olivenöl zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe382/400/300"
+  },
+  {
+    "id": "sample-383",
+    "title": "Beef Stroganoff",
+    "category": "Pasta",
+    "ingredients": [
+      "Zwiebeln",
+      "Rindfleisch",
+      "Milch",
+      "Huhn",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Rindfleisch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe383/400/300"
+  },
+  {
+    "id": "sample-384",
+    "title": "Chicken Curry",
+    "category": "Salad",
+    "ingredients": [
+      "Pfeffer",
+      "Mehl",
+      "Zwiebeln",
+      "Zucker",
+      "Knoblauch",
+      "Eier",
+      "Reis"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe384/400/300"
+  },
+  {
+    "id": "sample-385",
+    "title": "Lasagne",
+    "category": "Dessert",
+    "ingredients": [
+      "Spaghetti",
+      "Zwiebeln",
+      "Mehl",
+      "Petersilie",
+      "Salz",
+      "Eier",
+      "Butter"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Eier hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe385/400/300"
+  },
+  {
+    "id": "sample-386",
+    "title": "Caesar Salad",
+    "category": "Soup",
+    "ingredients": [
+      "Karotten",
+      "Zucker",
+      "Olivenöl",
+      "Tomaten",
+      "Eier",
+      "Petersilie",
+      "Mehl"
+    ],
+    "instructions": "Karotten in Salzwasser kochen, dann mit Mehl servieren.",
+    "image": "https://picsum.photos/seed/recipe386/400/300"
+  },
+  {
+    "id": "sample-387",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Olivenöl",
+      "Knoblauch",
+      "Petersilie",
+      "Eier",
+      "Rindfleisch",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Pfeffer hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe387/400/300"
+  },
+  {
+    "id": "sample-388",
+    "title": "Beef Stroganoff",
+    "category": "Snack",
+    "ingredients": [
+      "Pfeffer",
+      "Karotten",
+      "Petersilie",
+      "Zucker",
+      "Chili"
+    ],
+    "instructions": "Petersilie in Salzwasser kochen, dann mit Chili servieren.",
+    "image": "https://picsum.photos/seed/recipe388/400/300"
+  },
+  {
+    "id": "sample-389",
+    "title": "Chicken Curry",
+    "category": "Main",
+    "ingredients": [
+      "Olivenöl",
+      "Pfeffer",
+      "Spaghetti",
+      "Chili",
+      "Butter"
+    ],
+    "instructions": "Pfeffer in Salzwasser kochen, dann mit Chili servieren.",
+    "image": "https://picsum.photos/seed/recipe389/400/300"
+  },
+  {
+    "id": "sample-390",
+    "title": "Tiramisu",
+    "category": "Snack",
+    "ingredients": [
+      "Zwiebeln",
+      "Zucker",
+      "Milch",
+      "Chili",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zucker hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe390/400/300"
+  },
+  {
+    "id": "sample-391",
+    "title": "Carbonara",
+    "category": "Dessert",
+    "ingredients": [
+      "Reis",
+      "Salz",
+      "Tomaten",
+      "Spaghetti",
+      "Petersilie",
+      "Karotten",
+      "Pfeffer"
+    ],
+    "instructions": "Tomaten in Salzwasser kochen, dann mit Spaghetti servieren.",
+    "image": "https://picsum.photos/seed/recipe391/400/300"
+  },
+  {
+    "id": "sample-392",
+    "title": "Tomato Soup",
+    "category": "Dessert",
+    "ingredients": [
+      "Tomaten",
+      "Salz",
+      "Pfeffer",
+      "Reis",
+      "Huhn",
+      "Karotten",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Salz hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe392/400/300"
+  },
+  {
+    "id": "sample-393",
+    "title": "Tomato Soup",
+    "category": "Salad",
+    "ingredients": [
+      "Tomaten",
+      "Milch",
+      "Knoblauch",
+      "Chili",
+      "Reis",
+      "Pfeffer",
+      "Rindfleisch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Tomaten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe393/400/300"
+  },
+  {
+    "id": "sample-394",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Main",
+    "ingredients": [
+      "Spaghetti",
+      "Salz",
+      "Knoblauch",
+      "Huhn",
+      "Chili"
+    ],
+    "instructions": "Chili in Salzwasser kochen, dann mit Huhn servieren.",
+    "image": "https://picsum.photos/seed/recipe394/400/300"
+  },
+  {
+    "id": "sample-395",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Huhn",
+      "Pfeffer",
+      "Zwiebeln",
+      "Reis",
+      "Karotten",
+      "Spaghetti"
+    ],
+    "instructions": "Zwiebeln anbraten, Pfeffer zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe395/400/300"
+  },
+  {
+    "id": "sample-396",
+    "title": "Sushi Roll",
+    "category": "Pasta",
+    "ingredients": [
+      "Rindfleisch",
+      "Salz",
+      "Petersilie",
+      "Tomaten",
+      "Huhn",
+      "Spaghetti"
+    ],
+    "instructions": "Petersilie anbraten, Tomaten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe396/400/300"
+  },
+  {
+    "id": "sample-397",
+    "title": "Chicken Curry",
+    "category": "Dessert",
+    "ingredients": [
+      "Salz",
+      "Zwiebeln",
+      "Knoblauch",
+      "Rindfleisch",
+      "Spaghetti"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe397/400/300"
+  },
+  {
+    "id": "sample-398",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Reis",
+      "Butter",
+      "Eier",
+      "Zucker"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zucker hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe398/400/300"
+  },
+  {
+    "id": "sample-399",
+    "title": "Pad Thai",
+    "category": "Soup",
+    "ingredients": [
+      "Salz",
+      "Zucker",
+      "Milch",
+      "Tomaten"
+    ],
+    "instructions": "Salz anbraten, Tomaten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe399/400/300"
+  },
+  {
+    "id": "sample-400",
+    "title": "Lasagne",
+    "category": "Snack",
+    "ingredients": [
+      "Chili",
+      "Karotten",
+      "Petersilie",
+      "Olivenöl",
+      "Zucker",
+      "Huhn"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Huhn hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe400/400/300"
+  },
+  {
+    "id": "sample-401",
+    "title": "Lasagne",
+    "category": "Snack",
+    "ingredients": [
+      "Pfeffer",
+      "Olivenöl",
+      "Karotten",
+      "Zucker",
+      "Mehl",
+      "Eier"
+    ],
+    "instructions": "Olivenöl anbraten, Karotten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe401/400/300"
+  },
+  {
+    "id": "sample-402",
+    "title": "Sushi Roll",
+    "category": "Snack",
+    "ingredients": [
+      "Knoblauch",
+      "Rindfleisch",
+      "Milch",
+      "Tomaten"
+    ],
+    "instructions": "Tomaten in Salzwasser kochen, dann mit Knoblauch servieren.",
+    "image": "https://picsum.photos/seed/recipe402/400/300"
+  },
+  {
+    "id": "sample-403",
+    "title": "Tiramisu",
+    "category": "Main",
+    "ingredients": [
+      "Karotten",
+      "Milch",
+      "Spaghetti",
+      "Chili"
+    ],
+    "instructions": "Milch anbraten, Karotten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe403/400/300"
+  },
+  {
+    "id": "sample-404",
+    "title": "Tiramisu",
+    "category": "Snack",
+    "ingredients": [
+      "Reis",
+      "Eier",
+      "Karotten",
+      "Mehl"
+    ],
+    "instructions": "Eier in Salzwasser kochen, dann mit Reis servieren.",
+    "image": "https://picsum.photos/seed/recipe404/400/300"
+  },
+  {
+    "id": "sample-405",
+    "title": "Beef Stroganoff",
+    "category": "Pasta",
+    "ingredients": [
+      "Karotten",
+      "Spaghetti",
+      "Milch",
+      "Mehl",
+      "Eier",
+      "Reis"
+    ],
+    "instructions": "Karotten in Salzwasser kochen, dann mit Spaghetti servieren.",
+    "image": "https://picsum.photos/seed/recipe405/400/300"
+  },
+  {
+    "id": "sample-406",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Eier",
+      "Petersilie",
+      "Butter",
+      "Knoblauch"
+    ],
+    "instructions": "Knoblauch anbraten, Butter zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe406/400/300"
+  },
+  {
+    "id": "sample-407",
+    "title": "Tomato Soup",
+    "category": "Main",
+    "ingredients": [
+      "Pfeffer",
+      "Karotten",
+      "Salz",
+      "Chili",
+      "Zwiebeln"
+    ],
+    "instructions": "Pfeffer anbraten, Chili zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe407/400/300"
+  },
+  {
+    "id": "sample-408",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Main",
+    "ingredients": [
+      "Milch",
+      "Olivenöl",
+      "Salz",
+      "Knoblauch"
+    ],
+    "instructions": "Knoblauch in Salzwasser kochen, dann mit Milch servieren.",
+    "image": "https://picsum.photos/seed/recipe408/400/300"
+  },
+  {
+    "id": "sample-409",
+    "title": "Carbonara",
+    "category": "Main",
+    "ingredients": [
+      "Huhn",
+      "Eier",
+      "Butter",
+      "Milch",
+      "Knoblauch"
+    ],
+    "instructions": "Eier anbraten, Huhn zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe409/400/300"
+  },
+  {
+    "id": "sample-410",
+    "title": "Pad Thai",
+    "category": "Dessert",
+    "ingredients": [
+      "Milch",
+      "Reis",
+      "Mehl",
+      "Karotten"
+    ],
+    "instructions": "Karotten in Salzwasser kochen, dann mit Reis servieren.",
+    "image": "https://picsum.photos/seed/recipe410/400/300"
+  },
+  {
+    "id": "sample-411",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Main",
+    "ingredients": [
+      "Spaghetti",
+      "Mehl",
+      "Eier",
+      "Knoblauch",
+      "Chili",
+      "Olivenöl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Chili hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe411/400/300"
+  },
+  {
+    "id": "sample-412",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Huhn",
+      "Spaghetti",
+      "Salz",
+      "Olivenöl"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Olivenöl hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe412/400/300"
+  },
+  {
+    "id": "sample-413",
+    "title": "Carbonara",
+    "category": "Pasta",
+    "ingredients": [
+      "Chili",
+      "Zucker",
+      "Salz",
+      "Spaghetti",
+      "Zwiebeln",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Salz hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe413/400/300"
+  },
+  {
+    "id": "sample-414",
+    "title": "Tiramisu",
+    "category": "Main",
+    "ingredients": [
+      "Milch",
+      "Eier",
+      "Zucker",
+      "Spaghetti",
+      "Karotten",
+      "Mehl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Milch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe414/400/300"
+  },
+  {
+    "id": "sample-415",
+    "title": "Tomato Soup",
+    "category": "Dessert",
+    "ingredients": [
+      "Rindfleisch",
+      "Salz",
+      "Reis",
+      "Zwiebeln",
+      "Chili",
+      "Tomaten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe415/400/300"
+  },
+  {
+    "id": "sample-416",
+    "title": "Tomato Soup",
+    "category": "Salad",
+    "ingredients": [
+      "Karotten",
+      "Rindfleisch",
+      "Eier",
+      "Milch",
+      "Zwiebeln",
+      "Tomaten"
+    ],
+    "instructions": "Karotten anbraten, Zwiebeln zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe416/400/300"
+  },
+  {
+    "id": "sample-417",
+    "title": "Tomato Soup",
+    "category": "Salad",
+    "ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Zwiebeln",
+      "Chili",
+      "Tomaten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Tomaten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe417/400/300"
+  },
+  {
+    "id": "sample-418",
+    "title": "Sushi Roll",
+    "category": "Salad",
+    "ingredients": [
+      "Reis",
+      "Huhn",
+      "Spaghetti",
+      "Salz",
+      "Eier",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Huhn hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe418/400/300"
+  },
+  {
+    "id": "sample-419",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Pasta",
+    "ingredients": [
+      "Zwiebeln",
+      "Spaghetti",
+      "Eier",
+      "Olivenöl",
+      "Salz",
+      "Rindfleisch",
+      "Tomaten"
+    ],
+    "instructions": "Salz in Salzwasser kochen, dann mit Olivenöl servieren.",
+    "image": "https://picsum.photos/seed/recipe419/400/300"
+  },
+  {
+    "id": "sample-420",
+    "title": "Beef Stroganoff",
+    "category": "Soup",
+    "ingredients": [
+      "Reis",
+      "Huhn",
+      "Tomaten",
+      "Zucker",
+      "Butter",
+      "Rindfleisch"
+    ],
+    "instructions": "Zucker anbraten, Reis zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe420/400/300"
+  },
+  {
+    "id": "sample-421",
+    "title": "Pad Thai",
+    "category": "Soup",
+    "ingredients": [
+      "Petersilie",
+      "Milch",
+      "Salz",
+      "Reis",
+      "Chili",
+      "Karotten",
+      "Olivenöl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Chili hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe421/400/300"
+  },
+  {
+    "id": "sample-422",
+    "title": "Beef Stroganoff",
+    "category": "Dessert",
+    "ingredients": [
+      "Eier",
+      "Huhn",
+      "Mehl",
+      "Spaghetti"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Spaghetti hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe422/400/300"
+  },
+  {
+    "id": "sample-423",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Reis",
+      "Rindfleisch",
+      "Chili",
+      "Huhn",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Reis hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe423/400/300"
+  },
+  {
+    "id": "sample-424",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Snack",
+    "ingredients": [
+      "Mehl",
+      "Huhn",
+      "Olivenöl",
+      "Butter",
+      "Knoblauch",
+      "Milch"
+    ],
+    "instructions": "Huhn anbraten, Mehl zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe424/400/300"
+  },
+  {
+    "id": "sample-425",
+    "title": "Tiramisu",
+    "category": "Main",
+    "ingredients": [
+      "Rindfleisch",
+      "Pfeffer",
+      "Spaghetti",
+      "Zwiebeln",
+      "Eier",
+      "Olivenöl",
+      "Mehl"
+    ],
+    "instructions": "Zwiebeln anbraten, Eier zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe425/400/300"
+  },
+  {
+    "id": "sample-426",
+    "title": "Beef Stroganoff",
+    "category": "Soup",
+    "ingredients": [
+      "Mehl",
+      "Zwiebeln",
+      "Knoblauch",
+      "Karotten"
+    ],
+    "instructions": "Zwiebeln anbraten, Karotten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe426/400/300"
+  },
+  {
+    "id": "sample-427",
+    "title": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": [
+      "Rindfleisch",
+      "Salz",
+      "Chili",
+      "Olivenöl",
+      "Karotten"
+    ],
+    "instructions": "Salz in Salzwasser kochen, dann mit Karotten servieren.",
+    "image": "https://picsum.photos/seed/recipe427/400/300"
+  },
+  {
+    "id": "sample-428",
+    "title": "Pad Thai",
+    "category": "Snack",
+    "ingredients": [
+      "Chili",
+      "Karotten",
+      "Eier",
+      "Milch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Eier hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe428/400/300"
+  },
+  {
+    "id": "sample-429",
+    "title": "Tomato Soup",
+    "category": "Pasta",
+    "ingredients": [
+      "Zwiebeln",
+      "Zucker",
+      "Rindfleisch",
+      "Chili",
+      "Eier"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zucker hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe429/400/300"
+  },
+  {
+    "id": "sample-430",
+    "title": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": [
+      "Chili",
+      "Knoblauch",
+      "Rindfleisch",
+      "Salz",
+      "Olivenöl",
+      "Mehl",
+      "Tomaten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe430/400/300"
+  },
+  {
+    "id": "sample-431",
+    "title": "Carbonara",
+    "category": "Dessert",
+    "ingredients": [
+      "Knoblauch",
+      "Butter",
+      "Pfeffer",
+      "Huhn",
+      "Olivenöl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Huhn hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe431/400/300"
+  },
+  {
+    "id": "sample-432",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Soup",
+    "ingredients": [
+      "Karotten",
+      "Mehl",
+      "Milch",
+      "Petersilie",
+      "Chili",
+      "Knoblauch"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Karotten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe432/400/300"
+  },
+  {
+    "id": "sample-433",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Main",
+    "ingredients": [
+      "Eier",
+      "Tomaten",
+      "Zwiebeln",
+      "Petersilie",
+      "Knoblauch",
+      "Karotten",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zwiebeln hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe433/400/300"
+  },
+  {
+    "id": "sample-434",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Soup",
+    "ingredients": [
+      "Zucker",
+      "Milch",
+      "Eier",
+      "Spaghetti",
+      "Petersilie"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Milch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe434/400/300"
+  },
+  {
+    "id": "sample-435",
+    "title": "Caesar Salad",
+    "category": "Pasta",
+    "ingredients": [
+      "Olivenöl",
+      "Zucker",
+      "Huhn",
+      "Zwiebeln",
+      "Butter"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Butter hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe435/400/300"
+  },
+  {
+    "id": "sample-436",
+    "title": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": [
+      "Olivenöl",
+      "Knoblauch",
+      "Chili",
+      "Pfeffer"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Knoblauch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe436/400/300"
+  },
+  {
+    "id": "sample-437",
+    "title": "Tiramisu",
+    "category": "Pasta",
+    "ingredients": [
+      "Zwiebeln",
+      "Petersilie",
+      "Karotten",
+      "Rindfleisch",
+      "Eier",
+      "Reis",
+      "Milch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe437/400/300"
+  },
+  {
+    "id": "sample-438",
+    "title": "Chicken Curry",
+    "category": "Soup",
+    "ingredients": [
+      "Butter",
+      "Petersilie",
+      "Spaghetti",
+      "Rindfleisch"
+    ],
+    "instructions": "Spaghetti in Salzwasser kochen, dann mit Spaghetti servieren.",
+    "image": "https://picsum.photos/seed/recipe438/400/300"
+  },
+  {
+    "id": "sample-439",
+    "title": "Caesar Salad",
+    "category": "Soup",
+    "ingredients": [
+      "Knoblauch",
+      "Huhn",
+      "Zwiebeln",
+      "Reis"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe439/400/300"
+  },
+  {
+    "id": "sample-440",
+    "title": "Chicken Curry",
+    "category": "Soup",
+    "ingredients": [
+      "Huhn",
+      "Olivenöl",
+      "Petersilie",
+      "Reis"
+    ],
+    "instructions": "Reis anbraten, Petersilie zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe440/400/300"
+  },
+  {
+    "id": "sample-441",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Salad",
+    "ingredients": [
+      "Spaghetti",
+      "Eier",
+      "Zucker",
+      "Salz",
+      "Chili",
+      "Olivenöl",
+      "Reis"
+    ],
+    "instructions": "Zucker in Salzwasser kochen, dann mit Salz servieren.",
+    "image": "https://picsum.photos/seed/recipe441/400/300"
+  },
+  {
+    "id": "sample-442",
+    "title": "Lasagne",
+    "category": "Salad",
+    "ingredients": [
+      "Butter",
+      "Mehl",
+      "Zucker",
+      "Olivenöl"
+    ],
+    "instructions": "Zucker anbraten, Zucker zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe442/400/300"
+  },
+  {
+    "id": "sample-443",
+    "title": "Carbonara",
+    "category": "Main",
+    "ingredients": [
+      "Tomaten",
+      "Pfeffer",
+      "Rindfleisch",
+      "Spaghetti"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Pfeffer hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe443/400/300"
+  },
+  {
+    "id": "sample-444",
+    "title": "Caesar Salad",
+    "category": "Dessert",
+    "ingredients": [
+      "Karotten",
+      "Huhn",
+      "Chili",
+      "Zwiebeln"
+    ],
+    "instructions": "Huhn anbraten, Chili zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe444/400/300"
+  },
+  {
+    "id": "sample-445",
+    "title": "Sushi Roll",
+    "category": "Pasta",
+    "ingredients": [
+      "Spaghetti",
+      "Salz",
+      "Zwiebeln",
+      "Butter",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Butter hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe445/400/300"
+  },
+  {
+    "id": "sample-446",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Reis",
+      "Rindfleisch",
+      "Zwiebeln",
+      "Butter",
+      "Chili",
+      "Tomaten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zwiebeln hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe446/400/300"
+  },
+  {
+    "id": "sample-447",
+    "title": "Caesar Salad",
+    "category": "Snack",
+    "ingredients": [
+      "Zucker",
+      "Salz",
+      "Knoblauch",
+      "Karotten",
+      "Zwiebeln",
+      "Milch"
+    ],
+    "instructions": "Milch in Salzwasser kochen, dann mit Zucker servieren.",
+    "image": "https://picsum.photos/seed/recipe447/400/300"
+  },
+  {
+    "id": "sample-448",
+    "title": "Lasagne",
+    "category": "Main",
+    "ingredients": [
+      "Pfeffer",
+      "Butter",
+      "Rindfleisch",
+      "Tomaten",
+      "Mehl",
+      "Karotten",
+      "Zucker"
+    ],
+    "instructions": "Pfeffer in Salzwasser kochen, dann mit Zucker servieren.",
+    "image": "https://picsum.photos/seed/recipe448/400/300"
+  },
+  {
+    "id": "sample-449",
+    "title": "Beef Stroganoff",
+    "category": "Main",
+    "ingredients": [
+      "Spaghetti",
+      "Eier",
+      "Zucker",
+      "Chili"
+    ],
+    "instructions": "Chili anbraten, Chili zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe449/400/300"
+  },
+  {
+    "id": "sample-450",
+    "title": "Tiramisu",
+    "category": "Soup",
+    "ingredients": [
+      "Salz",
+      "Milch",
+      "Mehl",
+      "Rindfleisch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Mehl hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe450/400/300"
+  },
+  {
+    "id": "sample-451",
+    "title": "Beef Stroganoff",
+    "category": "Snack",
+    "ingredients": [
+      "Zucker",
+      "Reis",
+      "Rindfleisch",
+      "Eier",
+      "Milch",
+      "Butter"
+    ],
+    "instructions": "Zucker in Salzwasser kochen, dann mit Eier servieren.",
+    "image": "https://picsum.photos/seed/recipe451/400/300"
+  },
+  {
+    "id": "sample-452",
+    "title": "Tomato Soup",
+    "category": "Dessert",
+    "ingredients": [
+      "Mehl",
+      "Butter",
+      "Petersilie",
+      "Tomaten"
+    ],
+    "instructions": "Butter anbraten, Tomaten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe452/400/300"
+  },
+  {
+    "id": "sample-453",
+    "title": "Caesar Salad",
+    "category": "Snack",
+    "ingredients": [
+      "Spaghetti",
+      "Zucker",
+      "Rindfleisch",
+      "Pfeffer",
+      "Huhn",
+      "Zwiebeln"
+    ],
+    "instructions": "Zucker anbraten, Spaghetti zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe453/400/300"
+  },
+  {
+    "id": "sample-454",
+    "title": "Pad Thai",
+    "category": "Soup",
+    "ingredients": [
+      "Chili",
+      "Pfeffer",
+      "Karotten",
+      "Olivenöl",
+      "Spaghetti"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Spaghetti hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe454/400/300"
+  },
+  {
+    "id": "sample-455",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Snack",
+    "ingredients": [
+      "Reis",
+      "Rindfleisch",
+      "Karotten",
+      "Tomaten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe455/400/300"
+  },
+  {
+    "id": "sample-456",
+    "title": "Caesar Salad",
+    "category": "Soup",
+    "ingredients": [
+      "Rindfleisch",
+      "Chili",
+      "Olivenöl",
+      "Pfeffer"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Olivenöl hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe456/400/300"
+  },
+  {
+    "id": "sample-457",
+    "title": "Sushi Roll",
+    "category": "Main",
+    "ingredients": [
+      "Chili",
+      "Butter",
+      "Petersilie",
+      "Salz",
+      "Zucker",
+      "Spaghetti"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Butter hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe457/400/300"
+  },
+  {
+    "id": "sample-458",
+    "title": "Carbonara",
+    "category": "Snack",
+    "ingredients": [
+      "Butter",
+      "Zucker",
+      "Reis",
+      "Zwiebeln",
+      "Mehl",
+      "Salz",
+      "Knoblauch"
+    ],
+    "instructions": "Zucker in Salzwasser kochen, dann mit Knoblauch servieren.",
+    "image": "https://picsum.photos/seed/recipe458/400/300"
+  },
+  {
+    "id": "sample-459",
+    "title": "Spaghetti Aglio e Olio",
+    "category": "Snack",
+    "ingredients": [
+      "Pfeffer",
+      "Chili",
+      "Spaghetti",
+      "Zucker",
+      "Rindfleisch",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Spaghetti hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe459/400/300"
+  },
+  {
+    "id": "sample-460",
+    "title": "Lasagne",
+    "category": "Pasta",
+    "ingredients": [
+      "Huhn",
+      "Chili",
+      "Olivenöl",
+      "Eier",
+      "Rindfleisch",
+      "Pfeffer"
+    ],
+    "instructions": "Rindfleisch anbraten, Olivenöl zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe460/400/300"
+  },
+  {
+    "id": "sample-461",
+    "title": "Chicken Curry",
+    "category": "Main",
+    "ingredients": [
+      "Eier",
+      "Olivenöl",
+      "Pfeffer",
+      "Zwiebeln"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Olivenöl hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe461/400/300"
+  },
+  {
+    "id": "sample-462",
+    "title": "Tomato Soup",
+    "category": "Main",
+    "ingredients": [
+      "Salz",
+      "Zucker",
+      "Rindfleisch",
+      "Mehl",
+      "Tomaten",
+      "Karotten",
+      "Huhn"
+    ],
+    "instructions": "Mehl in Salzwasser kochen, dann mit Karotten servieren.",
+    "image": "https://picsum.photos/seed/recipe462/400/300"
+  },
+  {
+    "id": "sample-463",
+    "title": "Beef Stroganoff",
+    "category": "Salad",
+    "ingredients": [
+      "Zucker",
+      "Butter",
+      "Karotten",
+      "Mehl"
+    ],
+    "instructions": "Mehl anbraten, Mehl zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe463/400/300"
+  },
+  {
+    "id": "sample-464",
+    "title": "Caesar Salad",
+    "category": "Soup",
+    "ingredients": [
+      "Reis",
+      "Tomaten",
+      "Salz",
+      "Zwiebeln",
+      "Knoblauch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Zwiebeln hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe464/400/300"
+  },
+  {
+    "id": "sample-465",
+    "title": "Lasagne",
+    "category": "Salad",
+    "ingredients": [
+      "Chili",
+      "Zucker",
+      "Salz",
+      "Pfeffer",
+      "Petersilie"
+    ],
+    "instructions": "Chili in Salzwasser kochen, dann mit Pfeffer servieren.",
+    "image": "https://picsum.photos/seed/recipe465/400/300"
+  },
+  {
+    "id": "sample-466",
+    "title": "Tomato Soup",
+    "category": "Pasta",
+    "ingredients": [
+      "Eier",
+      "Tomaten",
+      "Salz",
+      "Pfeffer"
+    ],
+    "instructions": "Eier anbraten, Eier zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe466/400/300"
+  },
+  {
+    "id": "sample-467",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Milch",
+      "Zwiebeln",
+      "Eier",
+      "Reis",
+      "Huhn",
+      "Butter",
+      "Petersilie"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Eier hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe467/400/300"
+  },
+  {
+    "id": "sample-468",
+    "title": "Tiramisu",
+    "category": "Soup",
+    "ingredients": [
+      "Huhn",
+      "Eier",
+      "Zucker",
+      "Rindfleisch",
+      "Salz",
+      "Zwiebeln",
+      "Milch"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Eier hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe468/400/300"
+  },
+  {
+    "id": "sample-469",
+    "title": "Pad Thai",
+    "category": "Soup",
+    "ingredients": [
+      "Zwiebeln",
+      "Rindfleisch",
+      "Karotten",
+      "Knoblauch",
+      "Olivenöl",
+      "Huhn",
+      "Chili"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe469/400/300"
+  },
+  {
+    "id": "sample-470",
+    "title": "Pad Thai",
+    "category": "Pasta",
+    "ingredients": [
+      "Milch",
+      "Karotten",
+      "Mehl",
+      "Zucker",
+      "Eier",
+      "Huhn",
+      "Salz"
+    ],
+    "instructions": "Milch anbraten, Karotten zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe470/400/300"
+  },
+  {
+    "id": "sample-471",
+    "title": "Tiramisu",
+    "category": "Pasta",
+    "ingredients": [
+      "Spaghetti",
+      "Rindfleisch",
+      "Karotten",
+      "Salz",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Spaghetti hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe471/400/300"
+  },
+  {
+    "id": "sample-472",
+    "title": "Sushi Roll",
+    "category": "Soup",
+    "ingredients": [
+      "Eier",
+      "Salz",
+      "Butter",
+      "Chili"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Salz hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe472/400/300"
+  },
+  {
+    "id": "sample-473",
+    "title": "Sushi Roll",
+    "category": "Snack",
+    "ingredients": [
+      "Salz",
+      "Petersilie",
+      "Reis",
+      "Mehl"
+    ],
+    "instructions": "Mehl anbraten, Mehl zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe473/400/300"
+  },
+  {
+    "id": "sample-474",
+    "title": "Sushi Roll",
+    "category": "Main",
+    "ingredients": [
+      "Pfeffer",
+      "Eier",
+      "Karotten",
+      "Salz"
+    ],
+    "instructions": "Salz in Salzwasser kochen, dann mit Karotten servieren.",
+    "image": "https://picsum.photos/seed/recipe474/400/300"
+  },
+  {
+    "id": "sample-475",
+    "title": "Pad Thai",
+    "category": "Salad",
+    "ingredients": [
+      "Karotten",
+      "Milch",
+      "Rindfleisch",
+      "Butter"
+    ],
+    "instructions": "Milch in Salzwasser kochen, dann mit Karotten servieren.",
+    "image": "https://picsum.photos/seed/recipe475/400/300"
+  },
+  {
+    "id": "sample-476",
+    "title": "Beef Stroganoff",
+    "category": "Pasta",
+    "ingredients": [
+      "Eier",
+      "Milch",
+      "Huhn",
+      "Karotten",
+      "Chili"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Karotten hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe476/400/300"
+  },
+  {
+    "id": "sample-477",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Salz",
+      "Reis",
+      "Tomaten",
+      "Pfeffer",
+      "Olivenöl",
+      "Karotten"
+    ],
+    "instructions": "Karotten anbraten, Reis zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe477/400/300"
+  },
+  {
+    "id": "sample-478",
+    "title": "Pad Thai",
+    "category": "Soup",
+    "ingredients": [
+      "Mehl",
+      "Huhn",
+      "Pfeffer",
+      "Knoblauch",
+      "Reis",
+      "Tomaten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Reis hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe478/400/300"
+  },
+  {
+    "id": "sample-479",
+    "title": "Beef Stroganoff",
+    "category": "Salad",
+    "ingredients": [
+      "Chili",
+      "Mehl",
+      "Spaghetti",
+      "Knoblauch"
+    ],
+    "instructions": "Spaghetti in Salzwasser kochen, dann mit Chili servieren.",
+    "image": "https://picsum.photos/seed/recipe479/400/300"
+  },
+  {
+    "id": "sample-480",
+    "title": "Pad Thai",
+    "category": "Dessert",
+    "ingredients": [
+      "Huhn",
+      "Spaghetti",
+      "Butter",
+      "Tomaten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Spaghetti hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe480/400/300"
+  },
+  {
+    "id": "sample-481",
+    "title": "Carbonara",
+    "category": "Soup",
+    "ingredients": [
+      "Mehl",
+      "Butter",
+      "Milch",
+      "Reis"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Milch hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe481/400/300"
+  },
+  {
+    "id": "sample-482",
+    "title": "Tomato Soup",
+    "category": "Snack",
+    "ingredients": [
+      "Eier",
+      "Chili",
+      "Milch",
+      "Huhn",
+      "Butter"
+    ],
+    "instructions": "Huhn in Salzwasser kochen, dann mit Milch servieren.",
+    "image": "https://picsum.photos/seed/recipe482/400/300"
+  },
+  {
+    "id": "sample-483",
+    "title": "Tiramisu",
+    "category": "Pasta",
+    "ingredients": [
+      "Knoblauch",
+      "Mehl",
+      "Eier",
+      "Rindfleisch",
+      "Karotten",
+      "Zucker"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Karotten hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe483/400/300"
+  },
+  {
+    "id": "sample-484",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Milch",
+      "Huhn",
+      "Petersilie",
+      "Salz",
+      "Rindfleisch",
+      "Karotten"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Huhn hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe484/400/300"
+  },
+  {
+    "id": "sample-485",
+    "title": "Caesar Salad",
+    "category": "Dessert",
+    "ingredients": [
+      "Milch",
+      "Olivenöl",
+      "Salz",
+      "Huhn"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Huhn hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe485/400/300"
+  },
+  {
+    "id": "sample-486",
+    "title": "Lasagne",
+    "category": "Soup",
+    "ingredients": [
+      "Salz",
+      "Huhn",
+      "Olivenöl",
+      "Tomaten"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Olivenöl hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe486/400/300"
+  },
+  {
+    "id": "sample-487",
+    "title": "Caesar Salad",
+    "category": "Snack",
+    "ingredients": [
+      "Rindfleisch",
+      "Salz",
+      "Spaghetti",
+      "Pfeffer",
+      "Olivenöl"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Rindfleisch hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe487/400/300"
+  },
+  {
+    "id": "sample-488",
+    "title": "Chicken Curry",
+    "category": "Dessert",
+    "ingredients": [
+      "Petersilie",
+      "Eier",
+      "Milch",
+      "Spaghetti"
+    ],
+    "instructions": "Milch in Salzwasser kochen, dann mit Eier servieren.",
+    "image": "https://picsum.photos/seed/recipe488/400/300"
+  },
+  {
+    "id": "sample-489",
+    "title": "Beef Stroganoff",
+    "category": "Dessert",
+    "ingredients": [
+      "Olivenöl",
+      "Tomaten",
+      "Pfeffer",
+      "Huhn",
+      "Salz",
+      "Knoblauch"
+    ],
+    "instructions": "Tomaten anbraten, Huhn zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe489/400/300"
+  },
+  {
+    "id": "sample-490",
+    "title": "Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "Butter",
+      "Spaghetti",
+      "Chili",
+      "Olivenöl",
+      "Petersilie",
+      "Salz"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Chili hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe490/400/300"
+  },
+  {
+    "id": "sample-491",
+    "title": "Chicken Curry",
+    "category": "Salad",
+    "ingredients": [
+      "Karotten",
+      "Zucker",
+      "Zwiebeln",
+      "Salz",
+      "Chili",
+      "Mehl",
+      "Eier"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Chili hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe491/400/300"
+  },
+  {
+    "id": "sample-492",
+    "title": "Beef Stroganoff",
+    "category": "Soup",
+    "ingredients": [
+      "Petersilie",
+      "Butter",
+      "Milch",
+      "Zwiebeln"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zwiebeln hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe492/400/300"
+  },
+  {
+    "id": "sample-493",
+    "title": "Chicken Curry",
+    "category": "Snack",
+    "ingredients": [
+      "Salz",
+      "Pfeffer",
+      "Huhn",
+      "Tomaten",
+      "Butter",
+      "Karotten",
+      "Rindfleisch"
+    ],
+    "instructions": "Salz anbraten, Rindfleisch zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe493/400/300"
+  },
+  {
+    "id": "sample-494",
+    "title": "Lasagne",
+    "category": "Pasta",
+    "ingredients": [
+      "Zucker",
+      "Eier",
+      "Olivenöl",
+      "Salz",
+      "Knoblauch",
+      "Huhn"
+    ],
+    "instructions": "Alle Zutaten vorbereiten, dann Zucker hinzufügen und langsam garen.",
+    "image": "https://picsum.photos/seed/recipe494/400/300"
+  },
+  {
+    "id": "sample-495",
+    "title": "Tiramisu",
+    "category": "Main",
+    "ingredients": [
+      "Rindfleisch",
+      "Knoblauch",
+      "Olivenöl",
+      "Pfeffer",
+      "Reis",
+      "Milch"
+    ],
+    "instructions": "Rindfleisch in Salzwasser kochen, dann mit Knoblauch servieren.",
+    "image": "https://picsum.photos/seed/recipe495/400/300"
+  },
+  {
+    "id": "sample-496",
+    "title": "Pad Thai",
+    "category": "Main",
+    "ingredients": [
+      "Mehl",
+      "Zwiebeln",
+      "Knoblauch",
+      "Huhn"
+    ],
+    "instructions": "Zwiebeln in Salzwasser kochen, dann mit Huhn servieren.",
+    "image": "https://picsum.photos/seed/recipe496/400/300"
+  },
+  {
+    "id": "sample-497",
+    "title": "Sushi Roll",
+    "category": "Pasta",
+    "ingredients": [
+      "Mehl",
+      "Petersilie",
+      "Butter",
+      "Karotten",
+      "Huhn"
+    ],
+    "instructions": "Backofen auf 180°C vorheizen, Huhn hineingeben und 30 Minuten backen.",
+    "image": "https://picsum.photos/seed/recipe497/400/300"
+  },
+  {
+    "id": "sample-498",
+    "title": "Sushi Roll",
+    "category": "Soup",
+    "ingredients": [
+      "Tomaten",
+      "Milch",
+      "Petersilie",
+      "Spaghetti",
+      "Salz",
+      "Zwiebeln"
+    ],
+    "instructions": "Spaghetti anbraten, Spaghetti zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe498/400/300"
+  },
+  {
+    "id": "sample-499",
+    "title": "Caesar Salad",
+    "category": "Main",
+    "ingredients": [
+      "Huhn",
+      "Eier",
+      "Rindfleisch",
+      "Butter",
+      "Pfeffer"
+    ],
+    "instructions": "Butter anbraten, Eier zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe499/400/300"
+  },
+  {
+    "id": "sample-500",
+    "title": "Pad Thai",
+    "category": "Salad",
+    "ingredients": [
+      "Tomaten",
+      "Zwiebeln",
+      "Butter",
+      "Chili",
+      "Knoblauch"
+    ],
+    "instructions": "Chili anbraten, Zwiebeln zugeben und mit Salz und Pfeffer abschmecken.",
+    "image": "https://picsum.photos/seed/recipe500/400/300"
+  }
+]
