@@ -6,6 +6,10 @@ import FavoriteButton from '@/components/FavoriteButton';
 import ErrorPage from '@/pages/ErrorPage';
 import { toast } from "react-toastify";
 
+/**
+ * Recipe detail with ingredients, instructions, and edit/delete actions.
+ * @returns {JSX.Element}
+ */
 function RecipeDetailPage() {
   const { id } = useParams();
   const navigate = useNavigate();

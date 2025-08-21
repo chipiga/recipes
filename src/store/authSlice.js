@@ -11,6 +11,17 @@ import {
 } from "firebase/auth";
 import { doc, setDoc, getDoc } from "firebase/firestore";
 
+/**
+ * @typedef {Object} AppUser
+ * @property {string} uid
+ * @property {string} email
+ * @property {('user'|'admin')} role
+ */
+
+/**
+ * Start Firebase auth state listener and sync user + favorites.
+ * Dispatches `setUser` and triggers `fetchFavoritesFromFirebase` on login.
+ */
 export const startAuthListener = createAsyncThunk("auth/listen", async (_, { dispatch }) => {
   onAuthStateChanged(auth, async (u) => {
     if (u) {
@@ -32,6 +43,10 @@ export const startAuthListener = createAsyncThunk("auth/listen", async (_, { dis
   });
 });
 
+/**
+ * Sign in with Google via popup.
+ * @returns {Promise<AppUser>} The signed in user profile.
+ */
 export const loginWithGoogle = createAsyncThunk("auth/google", async () => {
   const provider = new GoogleAuthProvider();
   const res = await signInWithPopup(auth, provider);
@@ -45,6 +60,11 @@ export const loginWithGoogle = createAsyncThunk("auth/google", async () => {
   return { uid: res.user.uid, email: res.user.email, role: snapshot.data()?.role || "user" };
 });
 
+/**
+ * Email/password login.
+ * @param {{ email: string, password: string }} params
+ * @returns {Promise<AppUser>}
+ */
 export const loginWithEmail = createAsyncThunk("auth/email", async ({ email, password }) => {
   const res = await signInWithEmailAndPassword(auth, email, password);
   const userDoc = doc(db, "users", res.user.uid);
@@ -52,6 +72,11 @@ export const loginWithEmail = createAsyncThunk("auth/email", async ({ email, pas
   return { uid: res.user.uid, email: res.user.email, role: snapshot.data()?.role || "user" };
 });
 
+/**
+ * Create a new user with email/password.
+ * @param {{ email: string, password: string }} params
+ * @returns {Promise<AppUser>}
+ */
 export const registerWithEmail = createAsyncThunk("auth/register", async ({ email, password }) => {
   const res = await createUserWithEmailAndPassword(auth, email, password);
   const userDoc = doc(db, "users", res.user.uid);
@@ -59,6 +84,10 @@ export const registerWithEmail = createAsyncThunk("auth/register", async ({ emai
   return { uid: res.user.uid, email: res.user.email, role: "user" };
 });
 
+/**
+ * Sign out the current user.
+ * @returns {Promise<void>}
+ */
 export const logout = createAsyncThunk("auth/logout", async () => {
   await signOut(auth);
 });
@@ -67,6 +96,11 @@ const authSlice = createSlice({
   name: "auth",
   initialState: { user: null },
   reducers: {
+    /**
+     * Set the current authenticated user or clear with `null`.
+     * @param {import('@reduxjs/toolkit').Draft<{user: AppUser|null}>} state
+     * @param {{ type: string, payload: AppUser|null }} action
+     */
     setUser(state, action) {
       state.user = action.payload; // or null
     },

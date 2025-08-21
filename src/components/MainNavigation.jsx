@@ -1,6 +1,10 @@
 import { Link } from "react-router-dom";
 import AuthBar from "@/components/AuthBar";
 
+/**
+ * Main top navigation with links and auth controls.
+ * @returns {JSX.Element}
+ */
 function MainNavigation() {
   return (
     <header className="sticky top-0 z-10 bg-white/80 backdrop-blur border-b border-slate-200">

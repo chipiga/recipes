@@ -7,6 +7,10 @@ import ErrorPage from '@/pages/ErrorPage';
 import Loading from '@/components/Loading';
 // import useRecipesLoader from '@/hooks/useRecipesLoader';
 
+/**
+ * Recipe list with search and category filtering.
+ * @returns {JSX.Element}
+ */
 function RecipeListPage() {
   // useRecipesLoader();
   const { items, loading, error } = useSelector((state) => state.recipes);

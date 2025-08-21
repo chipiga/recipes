@@ -5,6 +5,11 @@ import { loginWithGoogle, loginWithEmail } from "@/store/authSlice";
 import { toast } from "react-toastify";
 // import { Button } from "@/components/ui/button"; 
 
+/**
+ * Login page with email/password and Google provider.
+ * Redirects to home when already authenticated.
+ * @returns {JSX.Element}
+ */
 export default function Login() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");

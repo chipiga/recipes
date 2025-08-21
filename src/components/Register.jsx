@@ -4,6 +4,11 @@ import { useDispatch, useSelector } from "react-redux";
 import { registerWithEmail } from "@/store/authSlice";
 import { toast } from "react-toastify";
 
+/**
+ * Registration page for creating a new account with email/password.
+ * Redirects to home when already authenticated.
+ * @returns {JSX.Element}
+ */
 export default function Register() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");

@@ -1,6 +1,11 @@
 import { Link } from 'react-router-dom';
 import FavoriteButton from '@/components/FavoriteButton';
 
+/**
+ * Card displaying brief recipe information.
+ * @param {{ recipe: { id: string, title: string, category: string, ingredients: string[], image?: string, uid?: string } }} props
+ * @returns {JSX.Element}
+ */
 function RecipeCard({ recipe }) {
   return (
     <div className="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden flex flex-col">

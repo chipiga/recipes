@@ -3,6 +3,16 @@ import { useSelector } from 'react-redux';
 import { Label } from '@/components/ui/label';
 import { Input } from '@/components/ui/input';
 
+/**
+ * Search input and category filter for recipe list.
+ * @param {{
+ *   query: string,
+ *   setQuery: (v: string) => void,
+ *   category: string,
+ *   setCategory: (v: string) => void,
+ * }} props
+ * @returns {JSX.Element}
+ */
 function SearchAndFilterBar({ query, setQuery, category, setCategory }) {
   const recipes = useSelector((s) => s.recipes.items);
   const categories = useMemo(() => {

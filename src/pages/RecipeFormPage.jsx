@@ -9,6 +9,11 @@ import { Textarea } from '@/components/ui/textarea';
 import ErrorPage from '@/pages/ErrorPage';
 import { toast } from "react-toastify";
 
+/**
+ * Create/edit recipe form. Requires authentication; edit restricted to owner/admin.
+ * @param {{ mode: 'create'|'edit' }} props
+ * @returns {JSX.Element}
+ */
 function RecipeFormPage({ mode }) {
   const isEdit = mode === "edit";
   const { id } = useParams();
@@ -31,6 +36,11 @@ function RecipeFormPage({ mode }) {
   if (!user) return <ErrorPage message="Please login!" />;
   if (isEdit && !canEdit) return <ErrorPage message="No access rights!" />;
 
+  /**
+   * Handle form submission and route to the created/updated recipe.
+   * @param {import('react').FormEvent<HTMLFormElement>} e
+   * @returns {Promise<void>}
+   */
   async function onSubmit(e) {
     e.preventDefault();
     if (!user) return;

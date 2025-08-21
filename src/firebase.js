@@ -3,11 +3,11 @@ import { initializeApp } from "firebase/app";
 // import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+/**
+ * Firebase configuration from environment variables.
+ * Note: Values are injected at build-time via Vite `import.meta.env`.
+ */
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
@@ -19,9 +19,12 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
+/** @type {import('firebase/app').FirebaseApp} */
 const app = initializeApp(firebaseConfig);
 // const analytics = getAnalytics(app);
+/** @type {import('firebase/auth').Auth} */
 const auth = getAuth(app);
+/** @type {import('firebase/firestore').Firestore} */
 const db = getFirestore(app);
 
 export { app, auth, db };

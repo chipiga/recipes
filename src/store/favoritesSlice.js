@@ -4,9 +4,18 @@ import { db } from "@/firebase";
 
 const LS_KEY = "recipeApp:favorites";
 
+/**
+ * Load favorites from LocalStorage.
+ * @returns {string[]} List of recipe IDs.
+ */
 function loadLS(){
   try { return JSON.parse(localStorage.getItem(LS_KEY)) || []; } catch { return []; }
 }
+/**
+ * Persist favorites to LocalStorage.
+ * @param {string[]} data
+ * @returns {void}
+ */
 function saveLS(data){
   try { localStorage.setItem(LS_KEY, JSON.stringify(data)); } catch {e => console.error(e) }
 }
@@ -70,12 +79,23 @@ const favoritesSlice = createSlice({
   name: "favorites",
   initialState: loadLS(),
   reducers: {
+    /**
+     * Toggle a recipe ID in the favorites list.
+     * @param {string[]} state
+     * @param {{ type: string, payload: string }} action
+     */
     toggleFavorite(state, action){
       const id = action.payload;
       const idx = state.indexOf(id);
       if (idx >= 0) state.splice(idx,1); else state.push(id);
       saveLS(state);
     },
+    /**
+     * Replace favorites with a deduplicated list.
+     * @param {string[]} _
+     * @param {{ type: string, payload: string[] }} action
+     * @returns {string[]}
+     */
     setFavorites(_, action){
       const arr = Array.from(new Set(action.payload || []));
       saveLS(arr);

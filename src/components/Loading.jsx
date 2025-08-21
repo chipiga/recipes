@@ -1,3 +1,7 @@
+/**
+ * Centered loading spinner.
+ * @returns {JSX.Element}
+ */
 export default function Loading() {
   return (
     <div className="flex justify-center items-center h-64">

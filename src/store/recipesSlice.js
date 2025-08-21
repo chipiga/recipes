@@ -2,6 +2,10 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import { db } from "@/firebase";
 import { collection, getDocs, addDoc, doc, updateDoc, deleteDoc } from "firebase/firestore";
 
+/**
+ * Fetch all recipes from Firestore.
+ * @returns {Promise<Array<{id: string} & Record<string, any>>>}
+ */
 export const fetchRecipes = createAsyncThunk("recipes/fetch", async () => {
   const querySnapshot = await getDocs(collection(db, "recipes"));
   return querySnapshot.docs.map((doc) => ({ id: doc.id, ...doc.data() }));

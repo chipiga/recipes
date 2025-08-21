@@ -3,8 +3,22 @@ import { useDispatch, useSelector } from 'react-redux';
 import { nanoid } from "nanoid";
 import { fetchRecipes } from '@/store/recipesSlice';
 
-// { id: string, title: string, category: string, ingredients: string[], instructions: string, image?: string }
+/**
+ * @typedef {Object} Recipe
+ * @property {string} id
+ * @property {string} title
+ * @property {string} category
+ * @property {string[]} ingredients
+ * @property {string} instructions
+ * @property {string=} image
+ */
 
+/**
+ * Load and normalize recipes from `/recipes.json` when Firestore is empty.
+ * Used as a fallback bootstrap for development or first run.
+ *
+ * @returns {Promise<Recipe[]>} Normalized recipe list.
+ */
 async function loadRecipesFromJson() {
   try { 
     const res = await fetch("/recipes.json", { cache: "no-store" });
@@ -26,6 +40,12 @@ async function loadRecipesFromJson() {
   }
 }
 
+/**
+ * React hook to ensure recipes are loaded.
+ * Triggers a background fetch when there are no items in the store.
+ *
+ * @returns {void}
+ */
 function useRecipesLoader() {
   const dispatch = useDispatch();
   const recipes = useSelector((s) => s.recipes.items);
