@@ -1,8 +1,8 @@
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { deleteRecipe } from '@/store/recipesSlice';
-import { toggleFavorite } from '@/store/favoritesSlice';
 import { Button } from '@/components/ui/button';
+import FavoriteButton from '@/components/FavoriteButton';
 import ErrorPage from '@/pages/ErrorPage';
 import { toast } from "react-toastify";
 
@@ -11,8 +11,6 @@ function RecipeDetailPage() {
   const navigate = useNavigate();
   const dispatch = useDispatch();
   const recipe = useSelector((s) => s.recipes.items.find((r) => r.id === id));
-  const favorites = useSelector((s) => s.favorites);
-  const isFav = favorites.includes(id || "");
   const user = useSelector(s => s.auth.user);
   const canEdit = user && (user.role === "admin" || user.uid === recipe?.uid);
 
@@ -34,12 +32,7 @@ function RecipeDetailPage() {
         <div className="p-5 space-y-4">
           <div className="flex items-start gap-3">
             <h1 className="text-2xl font-bold flex-1">{recipe.title}</h1>
-            <Button
-              onClick={() => dispatch(toggleFavorite(recipe.id))}
-              variant={`favorite${ isFav ? 'Active' : 'Inactive'}`} size="md"
-            >
-              {isFav ? "★ Favorit" : "☆ Favorit"}
-            </Button>
+            <FavoriteButton recipeId={recipe.id} />
           </div>
           <p className="text-slate-600">Kategorie: {recipe.category}</p>
           <section>

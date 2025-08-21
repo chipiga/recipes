@@ -1,4 +1,6 @@
-import { createSlice } from "@reduxjs/toolkit";
+import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
+import { doc, getDoc, setDoc } from "firebase/firestore";
+import { db } from "@/firebase";
 
 const LS_KEY = "recipeApp:favorites";
 
@@ -8,6 +10,61 @@ function loadLS(){
 function saveLS(data){
   try { localStorage.setItem(LS_KEY, JSON.stringify(data)); } catch {}
 }
+
+// Firebase sync thunks
+export const fetchFavoritesFromFirebase = createAsyncThunk(
+  "favorites/fetchFromFirebase",
+  async (uid) => {
+    if (!uid) return [];
+    const ref = doc(db, "favorites", uid);
+    const snap = await getDoc(ref);
+    return snap.exists() ? snap.data().list || [] : [];
+  }
+);
+
+export const saveFavoritesToFirebase = createAsyncThunk(
+  "favorites/saveToFirebase",
+  async ({ uid, favorites }) => {
+    if (!uid) return;
+    const ref = doc(db, "favorites", uid);
+    await setDoc(ref, { list: favorites });
+  }
+);
+
+// Thunks to update favorites and sync with Firebase
+export const toggleFavoriteAndSync = createAsyncThunk(
+  "favorites/toggleAndSync",
+  async (id, { getState, dispatch }) => {
+    const state = getState();
+    const uid = state.auth?.user?.uid;
+    const favorites = state.favorites || [];
+    let updated;
+    if (favorites.includes(id)) {
+      updated = favorites.filter(fav => fav !== id);
+    } else {
+      updated = [...favorites, id];
+    }
+    dispatch(setFavorites(updated));
+    if (uid) {
+      await dispatch(saveFavoritesToFirebase({ uid, favorites: updated }));
+    }
+    return updated;
+  }
+);
+
+export const setFavoritesAndSync = createAsyncThunk(
+  "favorites/setAndSync",
+  async (arr, { getState, dispatch }) => {
+    const state = getState();
+    const uid = state.auth?.user?.uid;
+    const updated = Array.from(new Set(arr || []));
+    dispatch(setFavorites(updated));
+    if (uid) {
+      await dispatch(saveFavoritesToFirebase({ uid, favorites: updated }));
+    }
+    return updated;
+  }
+);
 
 const favoritesSlice = createSlice({
   name: "favorites",
@@ -24,6 +81,18 @@ const favoritesSlice = createSlice({
       saveLS(arr);
       return arr;
     }
+  },
+  extraReducers: (builder) => {
+    builder
+      .addCase(fetchFavoritesFromFirebase.fulfilled, (state, action) => {
+        // Merge local and remote favorites
+        const remote = action.payload || [];
+        const local = loadLS();
+        const merged = Array.from(new Set([...local, ...remote]));
+        saveLS(merged);
+        return merged;
+      });
+      // No reducer for saveFavoritesToFirebase (side effect only)
   }
 });
 

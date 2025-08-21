@@ -28,7 +28,6 @@ async function loadRecipesFromJson() {
 function useRecipesLoader() {
   const dispatch = useDispatch();
   const recipes = useSelector((s) => s.recipes);
-  const user = useSelector((s) => s.auth.user);
   useEffect(() => {
     if (!recipes || recipes.length === 0)
       loadRecipesFromJson().then((data) => dispatch(recipesLoaded(data)));

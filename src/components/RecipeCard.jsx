@@ -1,12 +1,7 @@
-import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
-import { toggleFavorite } from '@/store/favoritesSlice';
-import { Button } from '@/components/ui/button';
+import FavoriteButton from '@/components/FavoriteButton';
 
 function RecipeCard({ recipe }) {
-  const dispatch = useDispatch();
-  const favorites = useSelector((s) => s.favorites);
-  const isFav = favorites.includes(recipe.id);
   return (
     <div className="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden flex flex-col">
       {recipe.image && (
@@ -15,13 +10,7 @@ function RecipeCard({ recipe }) {
       <div className="p-4 flex-1 flex flex-col">
         <div className="flex items-start gap-2">
           <h3 className="text-lg font-semibold flex-1">{recipe.title}</h3>
-          <Button
-            onClick={() => dispatch(toggleFavorite(recipe.id))}
-            variant={`favorite${ isFav ? 'Active' : 'Inactive'}`} size="md"
-            title={isFav ? "Aus Favoriten entfernen" : "Zu Favoriten hinzufügen"}
-          >
-            {isFav ? "★" : "☆"}
-          </Button>
+          <FavoriteButton recipeId={recipe.id} short={true} />
         </div>
         <p className="text-sm text-slate-500 mt-1">{recipe.category}</p>
         <p className="text-sm line-clamp-2 my-2">
