@@ -1,25 +1,34 @@
-import { useState, useMemo } from 'react';
-import { useSelector } from 'react-redux';
+import { useState, useMemo, useEffect } from 'react';
+import { useSelector, useDispatch } from 'react-redux';
+import { fetchRecipes } from "@/store/recipesSlice";
 import RecipeCard from '@/components/RecipeCard';
 import SearchAndFilterBar from '@/components/SearchAndFilterBar';
+import ErrorPage from '@/pages/ErrorPage';
+import Loading from '@/components/Loading';
 // import useRecipesLoader from '@/hooks/useRecipesLoader';
 
 function RecipeListPage() {
   // useRecipesLoader();
-  const recipes = useSelector((s) => s.recipes.items);
+  const { items, loading, error } = useSelector((state) => state.recipes);
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState("Alle");
+  const dispatch = useDispatch();
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
-    return recipes.filter((r) => {
+    return items.filter((r) => {
       const catOk = category === "Alle" || r.category === category;
       if (!q) return catOk;
       const inTitle = r.title.toLowerCase().includes(q);
       const inIngr = (r.ingredients || []).some((i) => i.toLowerCase().includes(q));
       return catOk && (inTitle || inIngr);
     });
-  }, [recipes, query, category]);
+  }, [items, query, category]);
+
+  useEffect(() => { dispatch(fetchRecipes()); }, [dispatch]);
+
+  if (loading) return <Loading />;
+  if (error) return <ErrorPage message={error} />;
 
   return (
     <div className="space-y-4">

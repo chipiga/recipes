@@ -27,13 +27,25 @@ export const deleteRecipe = createAsyncThunk("recipes/delete", async ({ id }) =>
 
 const recipesSlice = createSlice({
   name: "recipes",
-  initialState: { items: [], status: "idle" },
+  initialState: {
+    items: [],
+    loading: false,
+    error: null,
+  },
   reducers: {},
   extraReducers: (builder) => {
     builder
+      .addCase(fetchRecipes.pending, (state) => {
+        state.loading = true;
+        state.error = null;
+      })
       .addCase(fetchRecipes.fulfilled, (state, action) => {
         state.items = action.payload;
-        state.status = "succeeded";
+        state.loading = false;
+      })
+      .addCase(fetchRecipes.rejected, (state, action) => {
+        state.loading = false;
+        state.error = action.error.message;
       })
       .addCase(addRecipe.fulfilled, (state, action) => {
         state.items.push(action.payload);
