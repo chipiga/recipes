@@ -37,5 +37,19 @@ export default defineConfig([
     rules: {
       'react-refresh/only-export-components': 'off',
     },
+  },
+  {
+    files: ['**/__tests__/**', 'src/test/setup.js'],
+    rules: {
+      'no-console': 'off',
+      'import/no-extraneous-dependencies': 'off',
+      'max-lines-per-function': 'off',
+      'complexity': 'off',
+      'max-statements': 'off',
+      'no-undef': 'off',
+      'no-magic-numbers': 'off',
+      // TODO REDO
+      'no-unused-vars': 'off',
+    },
   }
 ])
