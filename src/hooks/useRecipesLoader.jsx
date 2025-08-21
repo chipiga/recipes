@@ -50,12 +50,13 @@ function useRecipesLoader() {
   const dispatch = useDispatch();
   const recipes = useSelector((s) => s.recipes.items);
   useEffect(() => {
-    if (!recipes || recipes.length === 0)
+    if (recipes && recipes.length === 0) {
       loadRecipesFromJson().then(data => {
         console.log(data);
         // dispatch(recipesLoaded(data))
         dispatch(fetchRecipes(data))
       })
+    }
   }, [dispatch, recipes]);
 }
 

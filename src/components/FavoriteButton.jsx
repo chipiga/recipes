@@ -9,7 +9,7 @@ import { Button } from '@/components/ui/button';
  */
 export default function FavoriteButton({ recipeId, short = false }) {
   const dispatch = useDispatch();
-  const favorites = useSelector(s => s.favorites);
+  const favorites = useSelector(s => s.favorites || []);
   const isFavorite = favorites.includes(recipeId);
   const buttonText = short ? '' : ' Favorit'
 

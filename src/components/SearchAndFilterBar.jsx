@@ -14,7 +14,7 @@ import { Input } from '@/components/ui/input';
  * @returns {JSX.Element}
  */
 function SearchAndFilterBar({ query, setQuery, category, setCategory }) {
-  const recipes = useSelector((s) => s.recipes.items);
+  const recipes = useSelector((s) => s.recipes?.items || []);
   const categories = useMemo(() => {
     const set = new Set(recipes.map((r) => r.category || "Sonstiges"));
     return ["Alle", ...Array.from(set)];
