@@ -48,7 +48,6 @@ export default defineConfig([
       'max-statements': 'off',
       'no-undef': 'off',
       'no-magic-numbers': 'off',
-      // TODO REDO
       'no-unused-vars': 'off',
     },
   }
